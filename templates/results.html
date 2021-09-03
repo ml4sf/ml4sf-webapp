@@ -1,0 +1,10 @@
+<table class="table table-sm">
+  <tbody>
+  {% for key, value in r.items() %}
+    <tr>
+      <th scope="row">{{key}}</th>
+      <td>{{value}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
