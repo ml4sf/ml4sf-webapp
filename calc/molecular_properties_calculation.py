@@ -178,8 +178,8 @@ class PropertiesCalculation:
                 polar_calc_data, re.DOTALL)
         energies = energies.group(0).strip()
         energies = energies.split()
-        self.e_homo = (float(energies[n_doubly_occ_states]), 'eV')
-        self.e_lumo = (float(energies[n_doubly_occ_states+1]), 'eV')
+        self.e_homo = (float(energies[n_doubly_occ_states-1]), 'eV')
+        self.e_lumo = (float(energies[n_doubly_occ_states]), 'eV')
         dipole_moment_str = re.search('SUM.*', polar_calc_data).group(0)
         #TODO add error hanler for the float(...)
         self.dipole_moment = (
