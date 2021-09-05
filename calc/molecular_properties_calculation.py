@@ -4,6 +4,7 @@ import re
 import logging
 import time
 import copy
+import json
 
 import subprocess
 
@@ -26,7 +27,17 @@ MOPAC_COMMAND_POLAR = 'PM6 POLAR'
 MOPAC_COMMAND_INDOS_S = 'INDO CIS C.A.S.=(2,1) TDIP MAXCI=50 SINGLET'
 MOPAC_COMMAND_INDOS_T = 'INDO CIS C.A.S.=(2,1) TDIP MAXCI=50 TRIPLET'
 
+##########################!!!WARNING!!!###########################
+# THE DESCRIPTORS MUST BE ORDERED THE SAME WAY THEY WERE ORDERED #
+# DURING THE NN-TRAINING!!!                                      #
+##################################################################
+
+NN_QC_DESC = ['E_LUMO_PM6[eV]', 'IsotropicAverageAlpha [A.U.]', 'AverageGamma [A.U.]', 'S1(CAS2-1+CIS) [eV]', 'INDOS-OscStr(CAS2-1+CIS)']
+
 CHEMOMETRY_DESC = ['Si', 'Mv', 'Mare', 'Mi', 'nHBAcc', 'nHBDon', 'n6Ring', 'n8HeteroRing', 'nF9HeteroRing', 'nT5HeteroRing', 'nT6HeteroRing', 'nT7HeteroRing', 'nT8HeteroRing', 'nT9HeteroRing', 'nT10HeteroRing', 'nRotB', 'RotBFrac', 'nRotBt', 'RotBtFrac']
+
+MEAN_STD_FILE_PATH = 'MeanStd20210905-234006.json'
+TRAINED_NN_FILE_PATH = 'TrainedANN20210905-234006'
 
 def loginit(logger):
     logger.setLevel(logging.DEBUG)
@@ -38,6 +49,20 @@ def loginit(logger):
 
 
 class PropertiesCalculation:
+    CSV_NAMES_TO_ATTRIBUTES = {
+            'E_HOMO_PM6[eV]':'e_homo',
+            'E_LUMO_PM6[eV]':'e_lumo',
+            'DipoleMoment [D]':'dipole_moment',
+            'IsotropicAverageAlpha [A.U.]':'alpha',
+            'AverageBeta [A.U.]':'beta', 
+            'AverageGamma [A.U.]':'gamma',
+            'S1(CAS2-1+CIS) [eV]':'S1',
+            'S2(CAS2-1+CIS) [eV]':'S2',
+            'INDOS-OscStr(CAS2-1+CIS)':'oscillator_strength',
+            'CI-Coef**2(CAS2-1+CIS)':'CI_coef',
+            'T1(CAS2-1+CIS) [eV]':'T1',
+            'T2(CAS2-1+CIS) [eV]':'T2'
+            }
 
     def __init__(self, inp_mdl_str):
         self.timestr = time.strftime('%Y%m%d-%H%M%S')# used in file naming
@@ -274,6 +299,7 @@ class PropertiesCalculation:
  
 
     def get_chemometry_descriptors(self):
+       self.logger.info('Generating PaDEL descriptors')
        padeldescriptor(d_3d = False, d_2d = True)
        out_csv = os.path.join(
                   WORKDIR, 
@@ -283,7 +309,15 @@ class PropertiesCalculation:
        df = df[CHEMOMETRY_DESC]
        self.chemometry_descriptors = df.to_dict('records')[0]
  
-    def attributes_to_torch_tensor(self):
+    def read_mean_std(self, mean_std_fname):
+        self.logger.info(
+                'Reading descriptor training set mean and standard\
+                 deviation values from {}'.format(mean_std_fname))
+        with open(mean_std_fname, 'r') as f:
+            mean_std = json.load(f)
+        return mean_std
+
+    def attributes_to_torch_tensor(self, standardize = True):
         d = copy.deepcopy(self.__dict__)
         del d['inp_mdl_str']
         del d['logger']
@@ -293,26 +327,42 @@ class PropertiesCalculation:
         del d['chemometry_descriptors']
         del d['drc_ann_prediction']
         
+        if standardize:
+            mean_std = self.read_mean_std(MEAN_STD_FILE_PATH)
+
         descriptors = []
-        for item in d:
+        for _desc in NN_QC_DESC:
+            #TODO Add try ... except to make sure that _desc makes sense
+            item = self.CSV_NAMES_TO_ATTRIBUTES[_desc]
             if d[item] == (None, None) or \
                         d[item] == None:
                 self.logger.error('{} should not be None'.format(item))
                 raise ValueError('{} should not be None'.format(item))
             else:
-                descriptors.append(d[item][0])
+                if standardize:
+                    val = (d[item][0] - mean_std['mean'][_desc])/mean_std['stdev'][_desc]
+                else:
+                    val = d[item][0]
+                descriptors.append(val)
         if self.chemometry_descriptors == {}:
                self.logger.error('{}.chemometry_descriptors should not be None'.format(self.__name__))
                raise ValueError('{}.chemometry_descriptors should not be None'.format(self.__name__))
         else:
             for item in self.chemometry_descriptors:
-                descriptors.append(self.chemometry_descriptors[item])
+                if standardize:
+                    val = (self.chemometry_descriptors[item] - mean_std['mean'][item])/mean_std['stdev'][item]
+                else:
+                    val = self.chemometry_descriptors[item]
+                descriptors.append(val)
         
-        print(descriptors)
         return torch.tensor(descriptors, dtype=torch.float)
     
-    def run_ann(self):
-        pass
+    def run_ann(self, input_tensor):
+        self.logger.info('Loading ANN model from {}'.format(TRAINED_NN_FILE_PATH))
+        model = torch.load(TRAINED_NN_FILE_PATH)
+        model.eval()
+        self.logger.info('Running ANN model')
+        self.drc_ann_prediction = model(input_tensor)
     
     def run_calculations(self):
         a, c = copy.deepcopy(self.geom_opt())
@@ -320,7 +370,8 @@ class PropertiesCalculation:
         self.run_mopac_polar(a,c)
         self.run_mopac_indos(a,c)
         self.get_chemometry_descriptors()
-        print(self.attributes_to_torch_tensor())
+        nn_descs = self.attributes_to_torch_tensor()
+        self.run_ann(nn_descs)
         d = self.__dict__
         del d['inp_mdl_str']
         del d['logger']
