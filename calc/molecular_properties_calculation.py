@@ -46,6 +46,7 @@ class PropertiesCalculation:
                       'Molecular Property Calculator')
         loginit(self.logger)
         self.inp_mdl_name = 'input{}.mdl'.format(self.timestr)
+        self.inp_mdl_name = os.path.join(WORKDIR, self.inp_mdl_name)
         with open(self.inp_mdl_name, 'w') as f:
             f.write(self.inp_mdl_str)
         # Molecule properties in format (value, unit)
