@@ -3,13 +3,17 @@ import sys
 import re
 import logging
 import time
+import copy
 
 import subprocess
 
 import numpy as np
 import pandas as pd
+import torch
 
 from padelpy import from_mdl, padeldescriptor
+
+from binary_classifier import *
 
 WORKDIR = './workdir'
 
@@ -58,7 +62,7 @@ class PropertiesCalculation:
         self.T1 = (None, None)
         self.T2 = (None, None)
         self.chemometry_descriptors = {}
-        drc_ann_prediction = None
+        self.drc_ann_prediction = None
 
     def run_mopac_single_point(self, 
                                mopac_inp_file_name,
@@ -174,8 +178,8 @@ class PropertiesCalculation:
                 polar_calc_data, re.DOTALL)
         energies = energies.group(0).strip()
         energies = energies.split()
-        self.e_homo = (energies[n_doubly_occ_states], 'eV')
-        self.e_lumo = (energies[n_doubly_occ_states+1], 'eV')
+        self.e_homo = (float(energies[n_doubly_occ_states]), 'eV')
+        self.e_lumo = (float(energies[n_doubly_occ_states+1]), 'eV')
         dipole_moment_str = re.search('SUM.*', polar_calc_data).group(0)
         #TODO add error hanler for the float(...)
         self.dipole_moment = (
@@ -278,20 +282,50 @@ class PropertiesCalculation:
        df = df[CHEMOMETRY_DESC]
        self.chemometry_descriptors = df.to_dict('records')[0]
  
+    def attributes_to_torch_tensor(self):
+        d = copy.deepcopy(self.__dict__)
+        del d['inp_mdl_str']
+        del d['logger']
+        del d['inp_mdl_name']
+        del d['timestr']
+        print(d)
+        del d['chemometry_descriptors']
+        del d['drc_ann_prediction']
+        
+        descriptors = []
+        for item in d:
+            if d[item] == (None, None) or \
+                        d[item] == None:
+                self.logger.error('{} should not be None'.format(item))
+                raise ValueError('{} should not be None'.format(item))
+            else:
+                descriptors.append(d[item][0])
+        if self.chemometry_descriptors == {}:
+               self.logger.error('{}.chemometry_descriptors should not be None'.format(self.__name__))
+               raise ValueError('{}.chemometry_descriptors should not be None'.format(self.__name__))
+        else:
+            for item in self.chemometry_descriptors:
+                descriptors.append(self.chemometry_descriptors[item])
+        
+        print(descriptors)
+        return torch.tensor(descriptors, dtype=torch.float)
+    
+    def run_ann(self):
+        pass
+    
     def run_calculations(self):
-        a, c = self.geom_opt()
+        a, c = copy.deepcopy(self.geom_opt())
         #self.check_imag_freq(a,c)
         self.run_mopac_polar(a,c)
         self.run_mopac_indos(a,c)
         self.get_chemometry_descriptors()
+        print(self.attributes_to_torch_tensor())
         d = self.__dict__
         del d['inp_mdl_str']
         del d['logger']
         del d['inp_mdl_name']
-        return d
-    
-    def run_ann(self):
-        pass
+        return d 
+        
     
 if __name__ == '__main__':
     with open(sys.argv[1], 'r') as f:
