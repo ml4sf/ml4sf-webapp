@@ -1,0 +1,3000 @@
+epoch 0 loss : 0.6497005224227905    accuracy : 0.6431593894958496
+-----Num Corr 0: 409; Num Corr 1: 503
+Correct Zeros:0.597953200340271; Correct Ones:0.6852861046791077
+epoch 1 loss : 0.6608847975730896    accuracy : 0.6424541473388672
+-----Num Corr 0: 416; Num Corr 1: 495
+Correct Zeros:0.6081871390342712; Correct Ones:0.6743869185447693
+epoch 2 loss : 0.6572614312171936    accuracy : 0.6248236894607544
+-----Num Corr 0: 392; Num Corr 1: 494
+Correct Zeros:0.5730994343757629; Correct Ones:0.6730245351791382
+epoch 3 loss : 0.6756850481033325    accuracy : 0.6586741805076599
+-----Num Corr 0: 428; Num Corr 1: 506
+Correct Zeros:0.6257309913635254; Correct Ones:0.6893733143806458
+epoch 4 loss : 0.6507316827774048    accuracy : 0.6572637557983398
+-----Num Corr 0: 430; Num Corr 1: 502
+Correct Zeros:0.628654956817627; Correct Ones:0.6839237213134766
+epoch 5 loss : 0.6511144042015076    accuracy : 0.6452750563621521
+-----Num Corr 0: 397; Num Corr 1: 518
+Correct Zeros:0.5804093480110168; Correct Ones:0.7057220339775085
+epoch 6 loss : 0.6656923890113831    accuracy : 0.6466854810714722
+-----Num Corr 0: 412; Num Corr 1: 505
+Correct Zeros:0.6023392081260681; Correct Ones:0.6880108714103699
+epoch 7 loss : 0.6465674638748169    accuracy : 0.6410437226295471
+-----Num Corr 0: 418; Num Corr 1: 491
+Correct Zeros:0.6111111044883728; Correct Ones:0.6689373254776001
+epoch 8 loss : 0.6600286960601807    accuracy : 0.6671367883682251
+-----Num Corr 0: 428; Num Corr 1: 518
+Correct Zeros:0.6257309913635254; Correct Ones:0.7057220339775085
+epoch 9 loss : 0.6615946888923645    accuracy : 0.665726363658905
+-----Num Corr 0: 440; Num Corr 1: 504
+Correct Zeros:0.6432748436927795; Correct Ones:0.6866484880447388
+epoch 10    loss : 0.663669228553772     accuracy : 0.6473906636238098
+-----Num Corr 0: 418; Num Corr 1: 500
+Correct Zeros:0.6111111044883728; Correct Ones:0.6811988949775696
+epoch 11    loss : 0.6482315063476562    accuracy : 0.6586741805076599
+-----Num Corr 0: 439; Num Corr 1: 495
+Correct Zeros:0.6418128609657288; Correct Ones:0.6743869185447693
+epoch 12    loss : 0.6706971526145935    accuracy : 0.6622002720832825
+-----Num Corr 0: 419; Num Corr 1: 520
+Correct Zeros:0.6125730872154236; Correct Ones:0.7084468603134155
+epoch 13    loss : 0.6504188179969788    accuracy : 0.6706628799438477
+-----Num Corr 0: 444; Num Corr 1: 507
+Correct Zeros:0.6491228342056274; Correct Ones:0.6907356977462769
+epoch 14    loss : 0.6431567072868347    accuracy : 0.6727785468101501
+-----Num Corr 0: 451; Num Corr 1: 503
+Correct Zeros:0.6593567132949829; Correct Ones:0.6852861046791077
+epoch 15    loss : 0.659029483795166     accuracy : 0.6607898473739624
+-----Num Corr 0: 426; Num Corr 1: 511
+Correct Zeros:0.6228070259094238; Correct Ones:0.696185290813446
+epoch 16    loss : 0.6644782423973083    accuracy : 0.6678420305252075
+-----Num Corr 0: 429; Num Corr 1: 518
+Correct Zeros:0.6271929740905762; Correct Ones:0.7057220339775085
+epoch 17    loss : 0.6450182795524597    accuracy : 0.6770098805427551
+-----Num Corr 0: 445; Num Corr 1: 515
+Correct Zeros:0.6505848169326782; Correct Ones:0.7016348838806152
+epoch 18    loss : 0.6642444133758545    accuracy : 0.6755994558334351
+-----Num Corr 0: 447; Num Corr 1: 511
+Correct Zeros:0.6535087823867798; Correct Ones:0.696185290813446
+epoch 19    loss : 0.6593870520591736    accuracy : 0.6607898473739624
+-----Num Corr 0: 451; Num Corr 1: 486
+Correct Zeros:0.6593567132949829; Correct Ones:0.6621253490447998
+epoch 20    loss : 0.6593979001045227    accuracy : 0.6791255474090576
+-----Num Corr 0: 453; Num Corr 1: 510
+Correct Zeros:0.6622806787490845; Correct Ones:0.6948229074478149
+epoch 21    loss : 0.6629158854484558    accuracy : 0.696050763130188
+-----Num Corr 0: 452; Num Corr 1: 535
+Correct Zeros:0.6608186960220337; Correct Ones:0.7288828492164612
+epoch 22    loss : 0.6482136249542236    accuracy : 0.6904090046882629
+-----Num Corr 0: 451; Num Corr 1: 528
+Correct Zeros:0.6593567132949829; Correct Ones:0.7193460464477539
+epoch 23    loss : 0.6561973094940186    accuracy : 0.6826516389846802
+-----Num Corr 0: 450; Num Corr 1: 518
+Correct Zeros:0.6578947305679321; Correct Ones:0.7057220339775085
+epoch 24    loss : 0.6630125641822815    accuracy : 0.7052186131477356
+-----Num Corr 0: 475; Num Corr 1: 525
+Correct Zeros:0.694444477558136; Correct Ones:0.7152588367462158
+epoch 25    loss : 0.6653826832771301    accuracy : 0.6932299137115479
+-----Num Corr 0: 465; Num Corr 1: 518
+Correct Zeros:0.6798245906829834; Correct Ones:0.7057220339775085
+epoch 26    loss : 0.6643069982528687    accuracy : 0.7087447047233582
+-----Num Corr 0: 460; Num Corr 1: 545
+Correct Zeros:0.6725146174430847; Correct Ones:0.7425068020820618
+epoch 27    loss : 0.6527015566825867    accuracy : 0.6897038221359253
+-----Num Corr 0: 442; Num Corr 1: 536
+Correct Zeros:0.6461988091468811; Correct Ones:0.7302452325820923
+epoch 28    loss : 0.6557481288909912    accuracy : 0.6840620636940002
+-----Num Corr 0: 438; Num Corr 1: 532
+Correct Zeros:0.640350878238678; Correct Ones:0.7247956395149231
+epoch 29    loss : 0.6661019921302795    accuracy : 0.700282096862793
+-----Num Corr 0: 468; Num Corr 1: 525
+Correct Zeros:0.6842105388641357; Correct Ones:0.7152588367462158
+epoch 30    loss : 0.660900890827179     accuracy : 0.6946403384208679
+-----Num Corr 0: 453; Num Corr 1: 532
+Correct Zeros:0.6622806787490845; Correct Ones:0.7247956395149231
+epoch 31    loss : 0.6437575221061707    accuracy : 0.7038081884384155
+-----Num Corr 0: 463; Num Corr 1: 535
+Correct Zeros:0.6769005656242371; Correct Ones:0.7288828492164612
+epoch 32    loss : 0.656220018863678     accuracy : 0.6833568215370178
+-----Num Corr 0: 447; Num Corr 1: 522
+Correct Zeros:0.6535087823867798; Correct Ones:0.7111716270446777
+epoch 33    loss : 0.6446535587310791    accuracy : 0.7066290378570557
+-----Num Corr 0: 486; Num Corr 1: 516
+Correct Zeros:0.7105263471603394; Correct Ones:0.7029972672462463
+epoch 34    loss : 0.6486560106277466    accuracy : 0.6925246715545654
+-----Num Corr 0: 453; Num Corr 1: 529
+Correct Zeros:0.6622806787490845; Correct Ones:0.720708429813385
+epoch 35    loss : 0.6650068759918213    accuracy : 0.7080394625663757
+-----Num Corr 0: 475; Num Corr 1: 529
+Correct Zeros:0.694444477558136; Correct Ones:0.720708429813385
+epoch 36    loss : 0.6599448919296265    accuracy : 0.7136812210083008
+-----Num Corr 0: 461; Num Corr 1: 551
+Correct Zeros:0.6739766001701355; Correct Ones:0.7506811618804932
+epoch 37    loss : 0.6614089012145996    accuracy : 0.696050763130188
+-----Num Corr 0: 455; Num Corr 1: 532
+Correct Zeros:0.6652047038078308; Correct Ones:0.7247956395149231
+epoch 38    loss : 0.6473917365074158    accuracy : 0.6925246715545654
+-----Num Corr 0: 456; Num Corr 1: 526
+Correct Zeros:0.6666666865348816; Correct Ones:0.7166212201118469
+epoch 39    loss : 0.6694680452346802    accuracy : 0.7066290378570557
+-----Num Corr 0: 457; Num Corr 1: 545
+Correct Zeros:0.6681286692619324; Correct Ones:0.7425068020820618
+epoch 40    loss : 0.6563352942466736    accuracy : 0.700282096862793
+-----Num Corr 0: 455; Num Corr 1: 538
+Correct Zeros:0.6652047038078308; Correct Ones:0.7329699993133545
+epoch 41    loss : 0.6518425345420837    accuracy : 0.6981664299964905
+-----Num Corr 0: 461; Num Corr 1: 529
+Correct Zeros:0.6739766001701355; Correct Ones:0.720708429813385
+epoch 42    loss : 0.6446629166603088    accuracy : 0.7193229794502258
+-----Num Corr 0: 494; Num Corr 1: 526
+Correct Zeros:0.7222222089767456; Correct Ones:0.7166212201118469
+epoch 43    loss : 0.6549588441848755    accuracy : 0.7228490710258484
+-----Num Corr 0: 478; Num Corr 1: 547
+Correct Zeros:0.6988304257392883; Correct Ones:0.745231568813324
+epoch 44    loss : 0.6541456580162048    accuracy : 0.7136812210083008
+-----Num Corr 0: 483; Num Corr 1: 529
+Correct Zeros:0.7061403393745422; Correct Ones:0.720708429813385
+epoch 45    loss : 0.6571261286735535    accuracy : 0.7122707962989807
+-----Num Corr 0: 482; Num Corr 1: 528
+Correct Zeros:0.7046783566474915; Correct Ones:0.7193460464477539
+epoch 46    loss : 0.658071756362915     accuracy : 0.7235543131828308
+-----Num Corr 0: 484; Num Corr 1: 542
+Correct Zeros:0.707602322101593; Correct Ones:0.7384195923805237
+epoch 47    loss : 0.6382218599319458    accuracy : 0.7383639216423035
+-----Num Corr 0: 506; Num Corr 1: 541
+Correct Zeros:0.7397660613059998; Correct Ones:0.7370572090148926
+epoch 48    loss : 0.6683646440505981    accuracy : 0.7157968878746033
+-----Num Corr 0: 478; Num Corr 1: 537
+Correct Zeros:0.6988304257392883; Correct Ones:0.7316076159477234
+epoch 49    loss : 0.6659082770347595    accuracy : 0.7242594957351685
+-----Num Corr 0: 486; Num Corr 1: 541
+Correct Zeros:0.7105263471603394; Correct Ones:0.7370572090148926
+epoch 50    loss : 0.6665042042732239    accuracy : 0.7249647378921509
+-----Num Corr 0: 482; Num Corr 1: 546
+Correct Zeros:0.7046783566474915; Correct Ones:0.7438691854476929
+epoch 51    loss : 0.6570819616317749    accuracy : 0.7115656137466431
+-----Num Corr 0: 477; Num Corr 1: 532
+Correct Zeros:0.6973684430122375; Correct Ones:0.7247956395149231
+epoch 52    loss : 0.644554853439331     accuracy : 0.7355430126190186
+-----Num Corr 0: 502; Num Corr 1: 541
+Correct Zeros:0.7339181303977966; Correct Ones:0.7370572090148926
+epoch 53    loss : 0.6367576718330383    accuracy : 0.7306064963340759
+-----Num Corr 0: 499; Num Corr 1: 537
+Correct Zeros:0.7295321822166443; Correct Ones:0.7316076159477234
+epoch 54    loss : 0.6345577239990234    accuracy : 0.726375162601471
+-----Num Corr 0: 489; Num Corr 1: 541
+Correct Zeros:0.7149122953414917; Correct Ones:0.7370572090148926
+epoch 55    loss : 0.6394981145858765    accuracy : 0.7433004379272461
+-----Num Corr 0: 511; Num Corr 1: 543
+Correct Zeros:0.7470760345458984; Correct Ones:0.7397820353507996
+epoch 56    loss : 0.6338050961494446    accuracy : 0.7355430126190186
+-----Num Corr 0: 507; Num Corr 1: 536
+Correct Zeros:0.7412281036376953; Correct Ones:0.7302452325820923
+epoch 57    loss : 0.6360952854156494    accuracy : 0.7369534373283386
+-----Num Corr 0: 504; Num Corr 1: 541
+Correct Zeros:0.7368420958518982; Correct Ones:0.7370572090148926
+epoch 58    loss : 0.6388664245605469    accuracy : 0.7397743463516235
+-----Num Corr 0: 493; Num Corr 1: 556
+Correct Zeros:0.7207602262496948; Correct Ones:0.7574931979179382
+epoch 59    loss : 0.6442429423332214    accuracy : 0.7165021300315857
+-----Num Corr 0: 477; Num Corr 1: 539
+Correct Zeros:0.6973684430122375; Correct Ones:0.7343324422836304
+epoch 60    loss : 0.6656981110572815    accuracy : 0.7348377704620361
+-----Num Corr 0: 496; Num Corr 1: 546
+Correct Zeros:0.7251461744308472; Correct Ones:0.7438691854476929
+epoch 61    loss : 0.6551573872566223    accuracy : 0.7425951957702637
+-----Num Corr 0: 501; Num Corr 1: 552
+Correct Zeros:0.7324561476707458; Correct Ones:0.752043604850769
+epoch 62    loss : 0.650536060333252     accuracy : 0.7235543131828308
+-----Num Corr 0: 504; Num Corr 1: 522
+Correct Zeros:0.7368420958518982; Correct Ones:0.7111716270446777
+epoch 63    loss : 0.6607944369316101    accuracy : 0.7369534373283386
+-----Num Corr 0: 491; Num Corr 1: 554
+Correct Zeros:0.7178362607955933; Correct Ones:0.7547683715820312
+epoch 64    loss : 0.65019690990448  accuracy : 0.727785587310791
+-----Num Corr 0: 486; Num Corr 1: 546
+Correct Zeros:0.7105263471603394; Correct Ones:0.7438691854476929
+epoch 65    loss : 0.6394055485725403    accuracy : 0.732016921043396
+-----Num Corr 0: 487; Num Corr 1: 551
+Correct Zeros:0.7119883298873901; Correct Ones:0.7506811618804932
+epoch 66    loss : 0.6447524428367615    accuracy : 0.741890013217926
+-----Num Corr 0: 502; Num Corr 1: 550
+Correct Zeros:0.7339181303977966; Correct Ones:0.7493187785148621
+epoch 67    loss : 0.6359180808067322    accuracy : 0.7447108626365662
+-----Num Corr 0: 507; Num Corr 1: 549
+Correct Zeros:0.7412281036376953; Correct Ones:0.747956395149231
+epoch 68    loss : 0.6538299322128296    accuracy : 0.7404795289039612
+-----Num Corr 0: 510; Num Corr 1: 540
+Correct Zeros:0.7456140518188477; Correct Ones:0.7356948256492615
+epoch 69    loss : 0.6466361284255981    accuracy : 0.7475317120552063
+-----Num Corr 0: 501; Num Corr 1: 559
+Correct Zeros:0.7324561476707458; Correct Ones:0.7615803480148315
+epoch 70    loss : 0.6479663252830505    accuracy : 0.7552891373634338
+-----Num Corr 0: 512; Num Corr 1: 559
+Correct Zeros:0.7485380172729492; Correct Ones:0.7615803480148315
+epoch 71    loss : 0.6511913537979126    accuracy : 0.7616360783576965
+-----Num Corr 0: 529; Num Corr 1: 551
+Correct Zeros:0.773391842842102; Correct Ones:0.7506811618804932
+epoch 72    loss : 0.6552283763885498    accuracy : 0.763751745223999
+-----Num Corr 0: 510; Num Corr 1: 573
+Correct Zeros:0.7456140518188477; Correct Ones:0.7806539535522461
+epoch 73    loss : 0.6282081604003906    accuracy : 0.7489421963691711
+-----Num Corr 0: 506; Num Corr 1: 556
+Correct Zeros:0.7397660613059998; Correct Ones:0.7574931979179382
+epoch 74    loss : 0.6338428854942322    accuracy : 0.7574048042297363
+-----Num Corr 0: 522; Num Corr 1: 552
+Correct Zeros:0.7631579041481018; Correct Ones:0.752043604850769
+epoch 75    loss : 0.6416701078414917    accuracy : 0.758109986782074
+-----Num Corr 0: 515; Num Corr 1: 560
+Correct Zeros:0.7529239654541016; Correct Ones:0.7629427909851074
+epoch 76    loss : 0.6441203355789185    accuracy : 0.7729195952415466
+-----Num Corr 0: 529; Num Corr 1: 567
+Correct Zeros:0.773391842842102; Correct Ones:0.7724795341491699
+epoch 77    loss : 0.6479290127754211    accuracy : 0.7644569873809814
+-----Num Corr 0: 523; Num Corr 1: 561
+Correct Zeros:0.7646198868751526; Correct Ones:0.7643051743507385
+epoch 78    loss : 0.6398531794548035    accuracy : 0.7538787126541138
+-----Num Corr 0: 507; Num Corr 1: 562
+Correct Zeros:0.7412281036376953; Correct Ones:0.7656675577163696
+epoch 79    loss : 0.6536378264427185    accuracy : 0.7482369542121887
+-----Num Corr 0: 511; Num Corr 1: 550
+Correct Zeros:0.7470760345458984; Correct Ones:0.7493187785148621
+epoch 80    loss : 0.6504749655723572    accuracy : 0.7517630457878113
+-----Num Corr 0: 512; Num Corr 1: 554
+Correct Zeros:0.7485380172729492; Correct Ones:0.7547683715820312
+epoch 81    loss : 0.6593783497810364    accuracy : 0.7708039283752441
+-----Num Corr 0: 528; Num Corr 1: 565
+Correct Zeros:0.7719298601150513; Correct Ones:0.7697547674179077
+epoch 82    loss : 0.6456198692321777    accuracy : 0.7644569873809814
+-----Num Corr 0: 528; Num Corr 1: 556
+Correct Zeros:0.7719298601150513; Correct Ones:0.7574931979179382
+epoch 83    loss : 0.6540515422821045    accuracy : 0.762341320514679
+-----Num Corr 0: 515; Num Corr 1: 566
+Correct Zeros:0.7529239654541016; Correct Ones:0.7711171507835388
+epoch 84    loss : 0.6569015979766846    accuracy : 0.7665726542472839
+-----Num Corr 0: 524; Num Corr 1: 563
+Correct Zeros:0.7660818696022034; Correct Ones:0.7670299410820007
+epoch 85    loss : 0.6216866970062256    accuracy : 0.763751745223999
+-----Num Corr 0: 519; Num Corr 1: 564
+Correct Zeros:0.7587719559669495; Correct Ones:0.7683923840522766
+epoch 86    loss : 0.6307796239852905    accuracy : 0.7750352621078491
+-----Num Corr 0: 514; Num Corr 1: 585
+Correct Zeros:0.7514619827270508; Correct Ones:0.7970027327537537
+epoch 87    loss : 0.6499647498130798    accuracy : 0.7644569873809814
+-----Num Corr 0: 517; Num Corr 1: 567
+Correct Zeros:0.7558479309082031; Correct Ones:0.7724795341491699
+epoch 88    loss : 0.6450625061988831    accuracy : 0.7524682879447937
+-----Num Corr 0: 511; Num Corr 1: 556
+Correct Zeros:0.7470760345458984; Correct Ones:0.7574931979179382
+epoch 89    loss : 0.6365017890930176    accuracy : 0.7693935036659241
+-----Num Corr 0: 529; Num Corr 1: 562
+Correct Zeros:0.773391842842102; Correct Ones:0.7656675577163696
+epoch 90    loss : 0.6454352736473083    accuracy : 0.7693935036659241
+-----Num Corr 0: 527; Num Corr 1: 564
+Correct Zeros:0.7704678177833557; Correct Ones:0.7683923840522766
+epoch 91    loss : 0.64560866355896  accuracy : 0.7665726542472839
+-----Num Corr 0: 529; Num Corr 1: 558
+Correct Zeros:0.773391842842102; Correct Ones:0.7602179646492004
+epoch 92    loss : 0.6458723545074463    accuracy : 0.7778561115264893
+-----Num Corr 0: 532; Num Corr 1: 571
+Correct Zeros:0.7777777910232544; Correct Ones:0.7779291272163391
+epoch 93    loss : 0.6399474740028381    accuracy : 0.7658674120903015
+-----Num Corr 0: 533; Num Corr 1: 553
+Correct Zeros:0.7792397737503052; Correct Ones:0.7534059882164001
+epoch 94    loss : 0.656661868095398     accuracy : 0.7715091705322266
+-----Num Corr 0: 531; Num Corr 1: 563
+Correct Zeros:0.7763158082962036; Correct Ones:0.7670299410820007
+epoch 95    loss : 0.6536133289337158    accuracy : 0.7771509289741516
+-----Num Corr 0: 529; Num Corr 1: 573
+Correct Zeros:0.773391842842102; Correct Ones:0.7806539535522461
+epoch 96    loss : 0.6463741064071655    accuracy : 0.7609308958053589
+-----Num Corr 0: 521; Num Corr 1: 558
+Correct Zeros:0.761695921421051; Correct Ones:0.7602179646492004
+epoch 97    loss : 0.6618125438690186    accuracy : 0.7545838952064514
+-----Num Corr 0: 525; Num Corr 1: 545
+Correct Zeros:0.7675438523292542; Correct Ones:0.7425068020820618
+epoch 98    loss : 0.6438466310501099    accuracy : 0.772214412689209
+-----Num Corr 0: 526; Num Corr 1: 569
+Correct Zeros:0.7690058350563049; Correct Ones:0.7752043604850769
+epoch 99    loss : 0.6459364891052246    accuracy : 0.7729195952415466
+-----Num Corr 0: 530; Num Corr 1: 566
+Correct Zeros:0.7748538255691528; Correct Ones:0.7711171507835388
+epoch 100   loss : 0.6444838643074036    accuracy : 0.7785613536834717
+-----Num Corr 0: 541; Num Corr 1: 563
+Correct Zeros:0.7909356951713562; Correct Ones:0.7670299410820007
+epoch 101   loss : 0.6466955542564392    accuracy : 0.762341320514679
+-----Num Corr 0: 530; Num Corr 1: 551
+Correct Zeros:0.7748538255691528; Correct Ones:0.7506811618804932
+epoch 102   loss : 0.6448294520378113    accuracy : 0.7863187789916992
+-----Num Corr 0: 555; Num Corr 1: 560
+Correct Zeros:0.8114035129547119; Correct Ones:0.7629427909851074
+epoch 103   loss : 0.6386497616767883    accuracy : 0.7757405042648315
+-----Num Corr 0: 524; Num Corr 1: 576
+Correct Zeros:0.7660818696022034; Correct Ones:0.7847411632537842
+epoch 104   loss : 0.6258431077003479    accuracy : 0.7919605374336243
+-----Num Corr 0: 531; Num Corr 1: 592
+Correct Zeros:0.7763158082962036; Correct Ones:0.8065394759178162
+epoch 105   loss : 0.6465050578117371    accuracy : 0.7715091705322266
+-----Num Corr 0: 516; Num Corr 1: 578
+Correct Zeros:0.7543859481811523; Correct Ones:0.7874659299850464
+epoch 106   loss : 0.6236839890480042    accuracy : 0.7827926874160767
+-----Num Corr 0: 536; Num Corr 1: 574
+Correct Zeros:0.7836257219314575; Correct Ones:0.7820163369178772
+epoch 107   loss : 0.6521788835525513    accuracy : 0.7806770205497742
+-----Num Corr 0: 542; Num Corr 1: 565
+Correct Zeros:0.792397677898407; Correct Ones:0.7697547674179077
+epoch 108   loss : 0.6362452507019043    accuracy : 0.7771509289741516
+-----Num Corr 0: 546; Num Corr 1: 556
+Correct Zeros:0.7982456088066101; Correct Ones:0.7574931979179382
+epoch 109   loss : 0.6201850175857544    accuracy : 0.7976022362709045
+-----Num Corr 0: 554; Num Corr 1: 577
+Correct Zeros:0.8099415302276611; Correct Ones:0.7861035466194153
+epoch 110   loss : 0.645028293132782     accuracy : 0.7849082946777344
+-----Num Corr 0: 534; Num Corr 1: 579
+Correct Zeros:0.780701756477356; Correct Ones:0.7888283133506775
+epoch 111   loss : 0.614371120929718     accuracy : 0.7842031121253967
+-----Num Corr 0: 533; Num Corr 1: 579
+Correct Zeros:0.7792397737503052; Correct Ones:0.7888283133506775
+epoch 112   loss : 0.6266313195228577    accuracy : 0.7877292037010193
+-----Num Corr 0: 542; Num Corr 1: 575
+Correct Zeros:0.792397677898407; Correct Ones:0.7833787202835083
+epoch 113   loss : 0.6349886655807495    accuracy : 0.7933709621429443
+-----Num Corr 0: 541; Num Corr 1: 584
+Correct Zeros:0.7909356951713562; Correct Ones:0.7956402897834778
+epoch 114   loss : 0.6364566087722778    accuracy : 0.7870239615440369
+-----Num Corr 0: 539; Num Corr 1: 577
+Correct Zeros:0.7880117297172546; Correct Ones:0.7861035466194153
+epoch 115   loss : 0.6369312405586243    accuracy : 0.799717903137207
+-----Num Corr 0: 545; Num Corr 1: 589
+Correct Zeros:0.7967836260795593; Correct Ones:0.8024523258209229
+epoch 116   loss : 0.6304731965065002    accuracy : 0.7968970537185669
+-----Num Corr 0: 540; Num Corr 1: 590
+Correct Zeros:0.7894737124443054; Correct Ones:0.803814709186554
+epoch 117   loss : 0.6282413601875305    accuracy : 0.7947813868522644
+-----Num Corr 0: 539; Num Corr 1: 588
+Correct Zeros:0.7880117297172546; Correct Ones:0.801089882850647
+epoch 118   loss : 0.6377591490745544    accuracy : 0.794076144695282
+-----Num Corr 0: 555; Num Corr 1: 571
+Correct Zeros:0.8114035129547119; Correct Ones:0.7779291272163391
+epoch 119   loss : 0.6125676035881042    accuracy : 0.799717903137207
+-----Num Corr 0: 539; Num Corr 1: 595
+Correct Zeros:0.7880117297172546; Correct Ones:0.8106266856193542
+epoch 120   loss : 0.6416312456130981    accuracy : 0.7877292037010193
+-----Num Corr 0: 544; Num Corr 1: 573
+Correct Zeros:0.7953216433525085; Correct Ones:0.7806539535522461
+epoch 121   loss : 0.6587241888046265    accuracy : 0.7926657199859619
+-----Num Corr 0: 535; Num Corr 1: 589
+Correct Zeros:0.7821637392044067; Correct Ones:0.8024523258209229
+epoch 122   loss : 0.6386482119560242    accuracy : 0.8102961778640747
+-----Num Corr 0: 555; Num Corr 1: 594
+Correct Zeros:0.8114035129547119; Correct Ones:0.8092643022537231
+epoch 123   loss : 0.6354956030845642    accuracy : 0.7968970537185669
+-----Num Corr 0: 543; Num Corr 1: 587
+Correct Zeros:0.7938596606254578; Correct Ones:0.7997274994850159
+epoch 124   loss : 0.6172658205032349    accuracy : 0.8088857531547546
+-----Num Corr 0: 555; Num Corr 1: 592
+Correct Zeros:0.8114035129547119; Correct Ones:0.8065394759178162
+epoch 125   loss : 0.6367882490158081    accuracy : 0.7954866290092468
+-----Num Corr 0: 549; Num Corr 1: 579
+Correct Zeros:0.8026315569877625; Correct Ones:0.7888283133506775
+epoch 126   loss : 0.6344842314720154    accuracy : 0.7933709621429443
+-----Num Corr 0: 543; Num Corr 1: 582
+Correct Zeros:0.7938596606254578; Correct Ones:0.7929155230522156
+epoch 127   loss : 0.6243302822113037    accuracy : 0.8173483610153198
+-----Num Corr 0: 567; Num Corr 1: 592
+Correct Zeros:0.8289473652839661; Correct Ones:0.8065394759178162
+epoch 128   loss : 0.6445667147636414    accuracy : 0.8180536031723022
+-----Num Corr 0: 578; Num Corr 1: 582
+Correct Zeros:0.8450292348861694; Correct Ones:0.7929155230522156
+epoch 129   loss : 0.6425848603248596    accuracy : 0.8131170868873596
+-----Num Corr 0: 577; Num Corr 1: 576
+Correct Zeros:0.8435672521591187; Correct Ones:0.7847411632537842
+epoch 130   loss : 0.638831377029419     accuracy : 0.794076144695282
+-----Num Corr 0: 544; Num Corr 1: 582
+Correct Zeros:0.7953216433525085; Correct Ones:0.7929155230522156
+epoch 131   loss : 0.6245591640472412    accuracy : 0.7990127205848694
+-----Num Corr 0: 556; Num Corr 1: 577
+Correct Zeros:0.8128654956817627; Correct Ones:0.7861035466194153
+epoch 132   loss : 0.6197003126144409    accuracy : 0.8004231452941895
+-----Num Corr 0: 546; Num Corr 1: 589
+Correct Zeros:0.7982456088066101; Correct Ones:0.8024523258209229
+epoch 133   loss : 0.6280791759490967    accuracy : 0.7933709621429443
+-----Num Corr 0: 541; Num Corr 1: 584
+Correct Zeros:0.7909356951713562; Correct Ones:0.7956402897834778
+epoch 134   loss : 0.6500134468078613    accuracy : 0.7990127205848694
+-----Num Corr 0: 552; Num Corr 1: 581
+Correct Zeros:0.8070175647735596; Correct Ones:0.7915531396865845
+epoch 135   loss : 0.6472668647766113    accuracy : 0.8138222694396973
+-----Num Corr 0: 557; Num Corr 1: 597
+Correct Zeros:0.8143274784088135; Correct Ones:0.8133515119552612
+epoch 136   loss : 0.6437640190124512    accuracy : 0.8025388121604919
+-----Num Corr 0: 559; Num Corr 1: 579
+Correct Zeros:0.817251443862915; Correct Ones:0.7888283133506775
+epoch 137   loss : 0.6177654266357422    accuracy : 0.8222849369049072
+-----Num Corr 0: 577; Num Corr 1: 589
+Correct Zeros:0.8435672521591187; Correct Ones:0.8024523258209229
+epoch 138   loss : 0.6504901051521301    accuracy : 0.8187587857246399
+-----Num Corr 0: 569; Num Corr 1: 592
+Correct Zeros:0.8318713307380676; Correct Ones:0.8065394759178162
+epoch 139   loss : 0.6326887607574463    accuracy : 0.8004231452941895
+-----Num Corr 0: 551; Num Corr 1: 584
+Correct Zeros:0.8055555820465088; Correct Ones:0.7956402897834778
+epoch 140   loss : 0.6176037788391113    accuracy : 0.7954866290092468
+-----Num Corr 0: 547; Num Corr 1: 581
+Correct Zeros:0.7997075915336609; Correct Ones:0.7915531396865845
+epoch 141   loss : 0.620985746383667     accuracy : 0.7947813868522644
+-----Num Corr 0: 534; Num Corr 1: 593
+Correct Zeros:0.780701756477356; Correct Ones:0.807901918888092
+epoch 142   loss : 0.5973073244094849    accuracy : 0.8110014200210571
+-----Num Corr 0: 569; Num Corr 1: 581
+Correct Zeros:0.8318713307380676; Correct Ones:0.7915531396865845
+epoch 143   loss : 0.6301882863044739    accuracy : 0.8244005441665649
+-----Num Corr 0: 571; Num Corr 1: 598
+Correct Zeros:0.834795355796814; Correct Ones:0.8147138953208923
+epoch 144   loss : 0.6278051733970642    accuracy : 0.8124118447303772
+-----Num Corr 0: 561; Num Corr 1: 591
+Correct Zeros:0.8201754689216614; Correct Ones:0.8051770925521851
+epoch 145   loss : 0.6121025681495667    accuracy : 0.8265162110328674
+-----Num Corr 0: 571; Num Corr 1: 601
+Correct Zeros:0.834795355796814; Correct Ones:0.8188011050224304
+epoch 146   loss : 0.6316577196121216    accuracy : 0.8102961778640747
+-----Num Corr 0: 564; Num Corr 1: 585
+Correct Zeros:0.8245614171028137; Correct Ones:0.7970027327537537
+epoch 147   loss : 0.6106970310211182    accuracy : 0.8173483610153198
+-----Num Corr 0: 562; Num Corr 1: 597
+Correct Zeros:0.8216374516487122; Correct Ones:0.8133515119552612
+epoch 148   loss : 0.62898188829422  accuracy : 0.8124118447303772
+-----Num Corr 0: 560; Num Corr 1: 592
+Correct Zeros:0.8187134265899658; Correct Ones:0.8065394759178162
+epoch 149   loss : 0.6222383975982666    accuracy : 0.8244005441665649
+-----Num Corr 0: 566; Num Corr 1: 603
+Correct Zeros:0.8274853825569153; Correct Ones:0.8215258717536926
+epoch 150   loss : 0.6108180284500122    accuracy : 0.8159379363059998
+-----Num Corr 0: 560; Num Corr 1: 597
+Correct Zeros:0.8187134265899658; Correct Ones:0.8133515119552612
+epoch 151   loss : 0.6123427152633667    accuracy : 0.8095909953117371
+-----Num Corr 0: 559; Num Corr 1: 589
+Correct Zeros:0.817251443862915; Correct Ones:0.8024523258209229
+epoch 152   loss : 0.6383876800537109    accuracy : 0.8088857531547546
+-----Num Corr 0: 564; Num Corr 1: 583
+Correct Zeros:0.8245614171028137; Correct Ones:0.7942779064178467
+epoch 153   loss : 0.6171600222587585    accuracy : 0.8194640278816223
+-----Num Corr 0: 568; Num Corr 1: 594
+Correct Zeros:0.8304093480110168; Correct Ones:0.8092643022537231
+epoch 154   loss : 0.6339803338050842    accuracy : 0.8138222694396973
+-----Num Corr 0: 571; Num Corr 1: 583
+Correct Zeros:0.834795355796814; Correct Ones:0.7942779064178467
+epoch 155   loss : 0.6226168274879456    accuracy : 0.8229901194572449
+-----Num Corr 0: 566; Num Corr 1: 601
+Correct Zeros:0.8274853825569153; Correct Ones:0.8188011050224304
+epoch 156   loss : 0.6564719676971436    accuracy : 0.8349788188934326
+-----Num Corr 0: 574; Num Corr 1: 610
+Correct Zeros:0.8391813039779663; Correct Ones:0.8310626745223999
+epoch 157   loss : 0.6324286460876465    accuracy : 0.8046544194221497
+-----Num Corr 0: 550; Num Corr 1: 591
+Correct Zeros:0.804093599319458; Correct Ones:0.8051770925521851
+epoch 158   loss : 0.6315406560897827    accuracy : 0.8321579694747925
+-----Num Corr 0: 571; Num Corr 1: 609
+Correct Zeros:0.834795355796814; Correct Ones:0.829700231552124
+epoch 159   loss : 0.6152966022491455    accuracy : 0.8229901194572449
+-----Num Corr 0: 570; Num Corr 1: 597
+Correct Zeros:0.8333333134651184; Correct Ones:0.8133515119552612
+epoch 160   loss : 0.6215649247169495    accuracy : 0.8201692700386047
+-----Num Corr 0: 557; Num Corr 1: 606
+Correct Zeros:0.8143274784088135; Correct Ones:0.8256130814552307
+epoch 161   loss : 0.6023181080818176    accuracy : 0.8441466689109802
+-----Num Corr 0: 594; Num Corr 1: 603
+Correct Zeros:0.8684210777282715; Correct Ones:0.8215258717536926
+epoch 162   loss : 0.6137599349021912    accuracy : 0.8208744525909424
+-----Num Corr 0: 563; Num Corr 1: 601
+Correct Zeros:0.8230994343757629; Correct Ones:0.8188011050224304
+epoch 163   loss : 0.6331442594528198    accuracy : 0.8194640278816223
+-----Num Corr 0: 570; Num Corr 1: 592
+Correct Zeros:0.8333333134651184; Correct Ones:0.8065394759178162
+epoch 164   loss : 0.6135680675506592    accuracy : 0.835684061050415
+-----Num Corr 0: 568; Num Corr 1: 617
+Correct Zeros:0.8304093480110168; Correct Ones:0.8405994176864624
+epoch 165   loss : 0.6214587092399597    accuracy : 0.8201692700386047
+-----Num Corr 0: 567; Num Corr 1: 596
+Correct Zeros:0.8289473652839661; Correct Ones:0.8119890689849854
+epoch 166   loss : 0.6116673350334167    accuracy : 0.8363893032073975
+-----Num Corr 0: 572; Num Corr 1: 614
+Correct Zeros:0.8362573385238647; Correct Ones:0.8365122675895691
+epoch 167   loss : 0.6138188242912292    accuracy : 0.8194640278816223
+-----Num Corr 0: 559; Num Corr 1: 603
+Correct Zeros:0.817251443862915; Correct Ones:0.8215258717536926
+epoch 168   loss : 0.6086372137069702    accuracy : 0.8314527273178101
+-----Num Corr 0: 572; Num Corr 1: 607
+Correct Zeros:0.8362573385238647; Correct Ones:0.8269754648208618
+epoch 169   loss : 0.6039933562278748    accuracy : 0.8201692700386047
+-----Num Corr 0: 566; Num Corr 1: 597
+Correct Zeros:0.8274853825569153; Correct Ones:0.8133515119552612
+epoch 170   loss : 0.6261566281318665    accuracy : 0.8293371200561523
+-----Num Corr 0: 573; Num Corr 1: 603
+Correct Zeros:0.8377193212509155; Correct Ones:0.8215258717536926
+epoch 171   loss : 0.621417224407196     accuracy : 0.8328632116317749
+-----Num Corr 0: 570; Num Corr 1: 611
+Correct Zeros:0.8333333134651184; Correct Ones:0.832425057888031
+epoch 172   loss : 0.6146240830421448    accuracy : 0.83991539478302
+-----Num Corr 0: 576; Num Corr 1: 615
+Correct Zeros:0.8421052694320679; Correct Ones:0.8378746509552002
+epoch 173   loss : 0.6286246180534363    accuracy : 0.835684061050415
+-----Num Corr 0: 578; Num Corr 1: 607
+Correct Zeros:0.8450292348861694; Correct Ones:0.8269754648208618
+epoch 174   loss : 0.6026249527931213    accuracy : 0.8222849369049072
+-----Num Corr 0: 569; Num Corr 1: 597
+Correct Zeros:0.8318713307380676; Correct Ones:0.8133515119552612
+epoch 175   loss : 0.6310372948646545    accuracy : 0.8377997279167175
+-----Num Corr 0: 580; Num Corr 1: 608
+Correct Zeros:0.847953200340271; Correct Ones:0.8283378481864929
+epoch 176   loss : 0.607729434967041     accuracy : 0.8328632116317749
+-----Num Corr 0: 572; Num Corr 1: 609
+Correct Zeros:0.8362573385238647; Correct Ones:0.829700231552124
+epoch 177   loss : 0.6161399483680725    accuracy : 0.8328632116317749
+-----Num Corr 0: 559; Num Corr 1: 622
+Correct Zeros:0.817251443862915; Correct Ones:0.8474114537239075
+epoch 178   loss : 0.597798228263855     accuracy : 0.8314527273178101
+-----Num Corr 0: 569; Num Corr 1: 610
+Correct Zeros:0.8318713307380676; Correct Ones:0.8310626745223999
+epoch 179   loss : 0.6045570969581604    accuracy : 0.8441466689109802
+-----Num Corr 0: 577; Num Corr 1: 620
+Correct Zeros:0.8435672521591187; Correct Ones:0.8446866273880005
+epoch 180   loss : 0.6141964793205261    accuracy : 0.835684061050415
+-----Num Corr 0: 568; Num Corr 1: 617
+Correct Zeros:0.8304093480110168; Correct Ones:0.8405994176864624
+epoch 181   loss : 0.596585214138031     accuracy : 0.8370944857597351
+-----Num Corr 0: 575; Num Corr 1: 612
+Correct Zeros:0.8406432867050171; Correct Ones:0.8337874412536621
+epoch 182   loss : 0.6148071885108948    accuracy : 0.8420310020446777
+-----Num Corr 0: 584; Num Corr 1: 610
+Correct Zeros:0.8538011908531189; Correct Ones:0.8310626745223999
+epoch 183   loss : 0.6111419200897217    accuracy : 0.8279266357421875
+-----Num Corr 0: 562; Num Corr 1: 612
+Correct Zeros:0.8216374516487122; Correct Ones:0.8337874412536621
+epoch 184   loss : 0.6148498058319092    accuracy : 0.8335683941841125
+-----Num Corr 0: 576; Num Corr 1: 606
+Correct Zeros:0.8421052694320679; Correct Ones:0.8256130814552307
+epoch 185   loss : 0.5953288674354553    accuracy : 0.8307475447654724
+-----Num Corr 0: 573; Num Corr 1: 605
+Correct Zeros:0.8377193212509155; Correct Ones:0.8242506980895996
+epoch 186   loss : 0.6195155382156372    accuracy : 0.8279266357421875
+-----Num Corr 0: 584; Num Corr 1: 590
+Correct Zeros:0.8538011908531189; Correct Ones:0.803814709186554
+epoch 187   loss : 0.6102105379104614    accuracy : 0.8490832448005676
+-----Num Corr 0: 584; Num Corr 1: 620
+Correct Zeros:0.8538011908531189; Correct Ones:0.8446866273880005
+epoch 188   loss : 0.6116543412208557    accuracy : 0.8455570936203003
+-----Num Corr 0: 584; Num Corr 1: 615
+Correct Zeros:0.8538011908531189; Correct Ones:0.8378746509552002
+epoch 189   loss : 0.5966647863388062    accuracy : 0.8328632116317749
+-----Num Corr 0: 565; Num Corr 1: 616
+Correct Zeros:0.8260233998298645; Correct Ones:0.8392370343208313
+epoch 190   loss : 0.6285073161125183    accuracy : 0.8490832448005676
+-----Num Corr 0: 585; Num Corr 1: 619
+Correct Zeros:0.8552631735801697; Correct Ones:0.8433242440223694
+epoch 191   loss : 0.6015455722808838    accuracy : 0.8314527273178101
+-----Num Corr 0: 576; Num Corr 1: 603
+Correct Zeros:0.8421052694320679; Correct Ones:0.8215258717536926
+epoch 192   loss : 0.6352863907814026    accuracy : 0.83991539478302
+-----Num Corr 0: 583; Num Corr 1: 608
+Correct Zeros:0.8523392081260681; Correct Ones:0.8283378481864929
+epoch 193   loss : 0.613351583480835     accuracy : 0.8328632116317749
+-----Num Corr 0: 580; Num Corr 1: 601
+Correct Zeros:0.847953200340271; Correct Ones:0.8188011050224304
+epoch 194   loss : 0.6068695187568665    accuracy : 0.8441466689109802
+-----Num Corr 0: 575; Num Corr 1: 622
+Correct Zeros:0.8406432867050171; Correct Ones:0.8474114537239075
+epoch 195   loss : 0.5958490967750549    accuracy : 0.8533145189285278
+-----Num Corr 0: 584; Num Corr 1: 626
+Correct Zeros:0.8538011908531189; Correct Ones:0.8528610467910767
+epoch 196   loss : 0.5934714078903198    accuracy : 0.8427362442016602
+-----Num Corr 0: 588; Num Corr 1: 607
+Correct Zeros:0.859649121761322; Correct Ones:0.8269754648208618
+epoch 197   loss : 0.5940225124359131    accuracy : 0.8420310020446777
+-----Num Corr 0: 578; Num Corr 1: 616
+Correct Zeros:0.8450292348861694; Correct Ones:0.8392370343208313
+epoch 198   loss : 0.6091079711914062    accuracy : 0.8307475447654724
+-----Num Corr 0: 579; Num Corr 1: 599
+Correct Zeros:0.8464912176132202; Correct Ones:0.8160762786865234
+epoch 199   loss : 0.600828230381012     accuracy : 0.8519040942192078
+-----Num Corr 0: 594; Num Corr 1: 614
+Correct Zeros:0.8684210777282715; Correct Ones:0.8365122675895691
+epoch 200   loss : 0.6145278215408325    accuracy : 0.8497884273529053
+-----Num Corr 0: 587; Num Corr 1: 618
+Correct Zeros:0.8581871390342712; Correct Ones:0.8419618606567383
+epoch 201   loss : 0.5997370481491089    accuracy : 0.8504936695098877
+-----Num Corr 0: 597; Num Corr 1: 609
+Correct Zeros:0.8728070259094238; Correct Ones:0.829700231552124
+epoch 202   loss : 0.6117278337478638    accuracy : 0.8349788188934326
+-----Num Corr 0: 577; Num Corr 1: 607
+Correct Zeros:0.8435672521591187; Correct Ones:0.8269754648208618
+epoch 203   loss : 0.6073020696640015    accuracy : 0.8328632116317749
+-----Num Corr 0: 560; Num Corr 1: 621
+Correct Zeros:0.8187134265899658; Correct Ones:0.8460490107536316
+epoch 204   loss : 0.6154826879501343    accuracy : 0.8511988520622253
+-----Num Corr 0: 584; Num Corr 1: 623
+Correct Zeros:0.8538011908531189; Correct Ones:0.8487738370895386
+epoch 205   loss : 0.6077070832252502    accuracy : 0.834273636341095
+-----Num Corr 0: 581; Num Corr 1: 602
+Correct Zeros:0.8494151830673218; Correct Ones:0.8201634883880615
+epoch 206   loss : 0.6073769330978394    accuracy : 0.8497884273529053
+-----Num Corr 0: 592; Num Corr 1: 613
+Correct Zeros:0.8654971122741699; Correct Ones:0.8351498246192932
+epoch 207   loss : 0.6016186475753784    accuracy : 0.8406205773353577
+-----Num Corr 0: 580; Num Corr 1: 612
+Correct Zeros:0.847953200340271; Correct Ones:0.8337874412536621
+epoch 208   loss : 0.5946300029754639    accuracy : 0.8561354279518127
+-----Num Corr 0: 596; Num Corr 1: 618
+Correct Zeros:0.871345043182373; Correct Ones:0.8419618606567383
+epoch 209   loss : 0.6183205246925354    accuracy : 0.8469675779342651
+-----Num Corr 0: 581; Num Corr 1: 620
+Correct Zeros:0.8494151830673218; Correct Ones:0.8446866273880005
+epoch 210   loss : 0.6004818081855774    accuracy : 0.8624823689460754
+-----Num Corr 0: 598; Num Corr 1: 625
+Correct Zeros:0.8742690086364746; Correct Ones:0.8514986038208008
+epoch 211   loss : 0.6017499566078186    accuracy : 0.8462623357772827
+-----Num Corr 0: 577; Num Corr 1: 623
+Correct Zeros:0.8435672521591187; Correct Ones:0.8487738370895386
+epoch 212   loss : 0.6175699830055237    accuracy : 0.8568406105041504
+-----Num Corr 0: 589; Num Corr 1: 626
+Correct Zeros:0.8611111044883728; Correct Ones:0.8528610467910767
+epoch 213   loss : 0.6209319233894348    accuracy : 0.8547249436378479
+-----Num Corr 0: 592; Num Corr 1: 620
+Correct Zeros:0.8654971122741699; Correct Ones:0.8446866273880005
+epoch 214   loss : 0.5874588489532471    accuracy : 0.8561354279518127
+-----Num Corr 0: 586; Num Corr 1: 628
+Correct Zeros:0.8567251563072205; Correct Ones:0.8555858135223389
+epoch 215   loss : 0.5885819792747498    accuracy : 0.8688293099403381
+-----Num Corr 0: 603; Num Corr 1: 629
+Correct Zeros:0.8815789818763733; Correct Ones:0.85694819688797
+epoch 216   loss : 0.5954132676124573    accuracy : 0.8554301857948303
+-----Num Corr 0: 590; Num Corr 1: 623
+Correct Zeros:0.8625730872154236; Correct Ones:0.8487738370895386
+epoch 217   loss : 0.6172667741775513    accuracy : 0.8448519110679626
+-----Num Corr 0: 584; Num Corr 1: 614
+Correct Zeros:0.8538011908531189; Correct Ones:0.8365122675895691
+epoch 218   loss : 0.6104317307472229    accuracy : 0.8526093363761902
+-----Num Corr 0: 581; Num Corr 1: 628
+Correct Zeros:0.8494151830673218; Correct Ones:0.8555858135223389
+epoch 219   loss : 0.6032701134681702    accuracy : 0.871650218963623
+-----Num Corr 0: 606; Num Corr 1: 630
+Correct Zeros:0.8859649300575256; Correct Ones:0.8583106398582458
+epoch 220   loss : 0.5926137566566467    accuracy : 0.8490832448005676
+-----Num Corr 0: 573; Num Corr 1: 631
+Correct Zeros:0.8377193212509155; Correct Ones:0.859673023223877
+epoch 221   loss : 0.6012557744979858    accuracy : 0.8462623357772827
+-----Num Corr 0: 588; Num Corr 1: 612
+Correct Zeros:0.859649121761322; Correct Ones:0.8337874412536621
+epoch 222   loss : 0.5949699878692627    accuracy : 0.866008460521698
+-----Num Corr 0: 606; Num Corr 1: 622
+Correct Zeros:0.8859649300575256; Correct Ones:0.8474114537239075
+epoch 223   loss : 0.5924433469772339    accuracy : 0.8561354279518127
+-----Num Corr 0: 586; Num Corr 1: 628
+Correct Zeros:0.8567251563072205; Correct Ones:0.8555858135223389
+epoch 224   loss : 0.5771641731262207    accuracy : 0.8575458526611328
+-----Num Corr 0: 587; Num Corr 1: 629
+Correct Zeros:0.8581871390342712; Correct Ones:0.85694819688797
+epoch 225   loss : 0.5940721035003662    accuracy : 0.8624823689460754
+-----Num Corr 0: 599; Num Corr 1: 624
+Correct Zeros:0.8757309913635254; Correct Ones:0.8501362204551697
+epoch 226   loss : 0.5918633341789246    accuracy : 0.861777126789093
+-----Num Corr 0: 595; Num Corr 1: 627
+Correct Zeros:0.8698830604553223; Correct Ones:0.8542234301567078
+epoch 227   loss : 0.5796900391578674    accuracy : 0.8596615195274353
+-----Num Corr 0: 592; Num Corr 1: 627
+Correct Zeros:0.8654971122741699; Correct Ones:0.8542234301567078
+epoch 228   loss : 0.5938199162483215    accuracy : 0.8490832448005676
+-----Num Corr 0: 585; Num Corr 1: 619
+Correct Zeros:0.8552631735801697; Correct Ones:0.8433242440223694
+epoch 229   loss : 0.5934357047080994    accuracy : 0.8392101526260376
+-----Num Corr 0: 576; Num Corr 1: 614
+Correct Zeros:0.8421052694320679; Correct Ones:0.8365122675895691
+epoch 230   loss : 0.5891297459602356    accuracy : 0.8589562773704529
+-----Num Corr 0: 593; Num Corr 1: 625
+Correct Zeros:0.8669590950012207; Correct Ones:0.8514986038208008
+epoch 231   loss : 0.6126636266708374    accuracy : 0.8455570936203003
+-----Num Corr 0: 583; Num Corr 1: 616
+Correct Zeros:0.8523392081260681; Correct Ones:0.8392370343208313
+epoch 232   loss : 0.5880975723266602    accuracy : 0.8561354279518127
+-----Num Corr 0: 592; Num Corr 1: 622
+Correct Zeros:0.8654971122741699; Correct Ones:0.8474114537239075
+epoch 233   loss : 0.5842130780220032    accuracy : 0.8589562773704529
+-----Num Corr 0: 583; Num Corr 1: 635
+Correct Zeros:0.8523392081260681; Correct Ones:0.8651226162910461
+epoch 234   loss : 0.5910921692848206    accuracy : 0.8645980358123779
+-----Num Corr 0: 601; Num Corr 1: 625
+Correct Zeros:0.878654956817627; Correct Ones:0.8514986038208008
+epoch 235   loss : 0.5909250974655151    accuracy : 0.861777126789093
+-----Num Corr 0: 595; Num Corr 1: 627
+Correct Zeros:0.8698830604553223; Correct Ones:0.8542234301567078
+epoch 236   loss : 0.5958470702171326    accuracy : 0.8575458526611328
+-----Num Corr 0: 600; Num Corr 1: 616
+Correct Zeros:0.8771929740905762; Correct Ones:0.8392370343208313
+epoch 237   loss : 0.5811447501182556    accuracy : 0.8540197610855103
+-----Num Corr 0: 589; Num Corr 1: 622
+Correct Zeros:0.8611111044883728; Correct Ones:0.8474114537239075
+epoch 238   loss : 0.6298623085021973    accuracy : 0.8610719442367554
+-----Num Corr 0: 588; Num Corr 1: 633
+Correct Zeros:0.859649121761322; Correct Ones:0.8623977899551392
+epoch 239   loss : 0.5708051919937134    accuracy : 0.871650218963623
+-----Num Corr 0: 595; Num Corr 1: 641
+Correct Zeros:0.8698830604553223; Correct Ones:0.8732969760894775
+epoch 240   loss : 0.586842954158783     accuracy : 0.8667137026786804
+-----Num Corr 0: 594; Num Corr 1: 635
+Correct Zeros:0.8684210777282715; Correct Ones:0.8651226162910461
+epoch 241   loss : 0.5802603960037231    accuracy : 0.861777126789093
+-----Num Corr 0: 586; Num Corr 1: 636
+Correct Zeros:0.8567251563072205; Correct Ones:0.8664849996566772
+epoch 242   loss : 0.5924079418182373    accuracy : 0.8582510352134705
+-----Num Corr 0: 585; Num Corr 1: 632
+Correct Zeros:0.8552631735801697; Correct Ones:0.8610354065895081
+epoch 243   loss : 0.5964869260787964    accuracy : 0.8631876111030579
+-----Num Corr 0: 593; Num Corr 1: 631
+Correct Zeros:0.8669590950012207; Correct Ones:0.859673023223877
+epoch 244   loss : 0.61100834608078  accuracy : 0.8723554015159607
+-----Num Corr 0: 605; Num Corr 1: 632
+Correct Zeros:0.8845029473304749; Correct Ones:0.8610354065895081
+epoch 245   loss : 0.6040248870849609    accuracy : 0.870239794254303
+-----Num Corr 0: 598; Num Corr 1: 636
+Correct Zeros:0.8742690086364746; Correct Ones:0.8664849996566772
+epoch 246   loss : 0.5856114625930786    accuracy : 0.861777126789093
+-----Num Corr 0: 590; Num Corr 1: 632
+Correct Zeros:0.8625730872154236; Correct Ones:0.8610354065895081
+epoch 247   loss : 0.5751523375511169    accuracy : 0.8751763105392456
+-----Num Corr 0: 603; Num Corr 1: 638
+Correct Zeros:0.8815789818763733; Correct Ones:0.8692098259925842
+epoch 248   loss : 0.5707871913909912    accuracy : 0.8582510352134705
+-----Num Corr 0: 594; Num Corr 1: 623
+Correct Zeros:0.8684210777282715; Correct Ones:0.8487738370895386
+epoch 249   loss : 0.5731892585754395    accuracy : 0.8815232515335083
+-----Num Corr 0: 599; Num Corr 1: 651
+Correct Zeros:0.8757309913635254; Correct Ones:0.8869209885597229
+epoch 250   loss : 0.5926921367645264    accuracy : 0.8674188852310181
+-----Num Corr 0: 602; Num Corr 1: 628
+Correct Zeros:0.8801169395446777; Correct Ones:0.8555858135223389
+epoch 251   loss : 0.5799525380134583    accuracy : 0.866008460521698
+-----Num Corr 0: 592; Num Corr 1: 636
+Correct Zeros:0.8654971122741699; Correct Ones:0.8664849996566772
+epoch 252   loss : 0.5820635557174683    accuracy : 0.871650218963623
+-----Num Corr 0: 604; Num Corr 1: 632
+Correct Zeros:0.8830409646034241; Correct Ones:0.8610354065895081
+epoch 253   loss : 0.6085982918739319    accuracy : 0.8709449768066406
+-----Num Corr 0: 595; Num Corr 1: 640
+Correct Zeros:0.8698830604553223; Correct Ones:0.8719345927238464
+epoch 254   loss : 0.591757595539093     accuracy : 0.870239794254303
+-----Num Corr 0: 606; Num Corr 1: 628
+Correct Zeros:0.8859649300575256; Correct Ones:0.8555858135223389
+epoch 255   loss : 0.5885836482048035    accuracy : 0.8667137026786804
+-----Num Corr 0: 593; Num Corr 1: 636
+Correct Zeros:0.8669590950012207; Correct Ones:0.8664849996566772
+epoch 256   loss : 0.6006603837013245    accuracy : 0.8779971599578857
+-----Num Corr 0: 599; Num Corr 1: 646
+Correct Zeros:0.8757309913635254; Correct Ones:0.8801089525222778
+epoch 257   loss : 0.6006031036376953    accuracy : 0.8744710683822632
+-----Num Corr 0: 608; Num Corr 1: 632
+Correct Zeros:0.8888888955116272; Correct Ones:0.8610354065895081
+epoch 258   loss : 0.5927833914756775    accuracy : 0.8674188852310181
+-----Num Corr 0: 592; Num Corr 1: 638
+Correct Zeros:0.8654971122741699; Correct Ones:0.8692098259925842
+epoch 259   loss : 0.5548696517944336    accuracy : 0.8815232515335083
+-----Num Corr 0: 606; Num Corr 1: 644
+Correct Zeros:0.8859649300575256; Correct Ones:0.8773841857910156
+epoch 260   loss : 0.6038857102394104    accuracy : 0.871650218963623
+-----Num Corr 0: 606; Num Corr 1: 630
+Correct Zeros:0.8859649300575256; Correct Ones:0.8583106398582458
+epoch 261   loss : 0.5735737681388855    accuracy : 0.8681241273880005
+-----Num Corr 0: 599; Num Corr 1: 632
+Correct Zeros:0.8757309913635254; Correct Ones:0.8610354065895081
+epoch 262   loss : 0.5722101926803589    accuracy : 0.8751763105392456
+-----Num Corr 0: 601; Num Corr 1: 640
+Correct Zeros:0.878654956817627; Correct Ones:0.8719345927238464
+epoch 263   loss : 0.6036137938499451    accuracy : 0.8645980358123779
+-----Num Corr 0: 593; Num Corr 1: 633
+Correct Zeros:0.8669590950012207; Correct Ones:0.8623977899551392
+epoch 264   loss : 0.6104011535644531    accuracy : 0.866008460521698
+-----Num Corr 0: 599; Num Corr 1: 629
+Correct Zeros:0.8757309913635254; Correct Ones:0.85694819688797
+epoch 265   loss : 0.5868025422096252    accuracy : 0.8787024021148682
+-----Num Corr 0: 602; Num Corr 1: 644
+Correct Zeros:0.8801169395446777; Correct Ones:0.8773841857910156
+epoch 266   loss : 0.573723316192627     accuracy : 0.8709449768066406
+-----Num Corr 0: 603; Num Corr 1: 632
+Correct Zeros:0.8815789818763733; Correct Ones:0.8610354065895081
+epoch 267   loss : 0.5836269855499268    accuracy : 0.8674188852310181
+-----Num Corr 0: 602; Num Corr 1: 628
+Correct Zeros:0.8801169395446777; Correct Ones:0.8555858135223389
+epoch 268   loss : 0.5944713950157166    accuracy : 0.8589562773704529
+-----Num Corr 0: 588; Num Corr 1: 630
+Correct Zeros:0.859649121761322; Correct Ones:0.8583106398582458
+epoch 269   loss : 0.5952319502830505    accuracy : 0.8744710683822632
+-----Num Corr 0: 603; Num Corr 1: 637
+Correct Zeros:0.8815789818763733; Correct Ones:0.8678473830223083
+epoch 270   loss : 0.5529506802558899    accuracy : 0.8765867352485657
+-----Num Corr 0: 610; Num Corr 1: 633
+Correct Zeros:0.8918128609657288; Correct Ones:0.8623977899551392
+epoch 271   loss : 0.5657046437263489    accuracy : 0.8730606436729431
+-----Num Corr 0: 601; Num Corr 1: 637
+Correct Zeros:0.878654956817627; Correct Ones:0.8678473830223083
+epoch 272   loss : 0.5887184739112854    accuracy : 0.8730606436729431
+-----Num Corr 0: 605; Num Corr 1: 633
+Correct Zeros:0.8845029473304749; Correct Ones:0.8623977899551392
+epoch 273   loss : 0.5767940282821655    accuracy : 0.8850493431091309
+-----Num Corr 0: 606; Num Corr 1: 649
+Correct Zeros:0.8859649300575256; Correct Ones:0.8841961622238159
+epoch 274   loss : 0.5691666007041931    accuracy : 0.8730606436729431
+-----Num Corr 0: 600; Num Corr 1: 638
+Correct Zeros:0.8771929740905762; Correct Ones:0.8692098259925842
+epoch 275   loss : 0.5702733993530273    accuracy : 0.8779971599578857
+-----Num Corr 0: 614; Num Corr 1: 631
+Correct Zeros:0.8976608514785767; Correct Ones:0.859673023223877
+epoch 276   loss : 0.5869136452674866    accuracy : 0.8681241273880005
+-----Num Corr 0: 606; Num Corr 1: 625
+Correct Zeros:0.8859649300575256; Correct Ones:0.8514986038208008
+epoch 277   loss : 0.5929532051086426    accuracy : 0.8779971599578857
+-----Num Corr 0: 612; Num Corr 1: 633
+Correct Zeros:0.8947368264198303; Correct Ones:0.8623977899551392
+epoch 278   loss : 0.5824472308158875    accuracy : 0.875881552696228
+-----Num Corr 0: 611; Num Corr 1: 631
+Correct Zeros:0.8932748436927795; Correct Ones:0.859673023223877
+epoch 279   loss : 0.5716651082038879    accuracy : 0.8765867352485657
+-----Num Corr 0: 605; Num Corr 1: 638
+Correct Zeros:0.8845029473304749; Correct Ones:0.8692098259925842
+epoch 280   loss : 0.6032145023345947    accuracy : 0.8765867352485657
+-----Num Corr 0: 597; Num Corr 1: 646
+Correct Zeros:0.8728070259094238; Correct Ones:0.8801089525222778
+epoch 281   loss : 0.5758708119392395    accuracy : 0.8667137026786804
+-----Num Corr 0: 604; Num Corr 1: 625
+Correct Zeros:0.8830409646034241; Correct Ones:0.8514986038208008
+epoch 282   loss : 0.579308032989502     accuracy : 0.8892806768417358
+-----Num Corr 0: 616; Num Corr 1: 645
+Correct Zeros:0.9005848169326782; Correct Ones:0.8787465691566467
+epoch 283   loss : 0.6080922484397888    accuracy : 0.8765867352485657
+-----Num Corr 0: 604; Num Corr 1: 639
+Correct Zeros:0.8830409646034241; Correct Ones:0.8705722093582153
+epoch 284   loss : 0.6075679659843445    accuracy : 0.8885754346847534
+-----Num Corr 0: 622; Num Corr 1: 638
+Correct Zeros:0.9093567132949829; Correct Ones:0.8692098259925842
+epoch 285   loss : 0.56788170337677  accuracy : 0.8892806768417358
+-----Num Corr 0: 614; Num Corr 1: 647
+Correct Zeros:0.8976608514785767; Correct Ones:0.8814713954925537
+epoch 286   loss : 0.5729655027389526    accuracy : 0.8787024021148682
+-----Num Corr 0: 603; Num Corr 1: 643
+Correct Zeros:0.8815789818763733; Correct Ones:0.8760218024253845
+epoch 287   loss : 0.5680102705955505    accuracy : 0.875881552696228
+-----Num Corr 0: 598; Num Corr 1: 644
+Correct Zeros:0.8742690086364746; Correct Ones:0.8773841857910156
+epoch 288   loss : 0.5576754808425903    accuracy : 0.8850493431091309
+-----Num Corr 0: 606; Num Corr 1: 649
+Correct Zeros:0.8859649300575256; Correct Ones:0.8841961622238159
+epoch 289   loss : 0.5793039798736572    accuracy : 0.8744710683822632
+-----Num Corr 0: 611; Num Corr 1: 629
+Correct Zeros:0.8932748436927795; Correct Ones:0.85694819688797
+epoch 290   loss : 0.5612074732780457    accuracy : 0.8808180689811707
+-----Num Corr 0: 612; Num Corr 1: 637
+Correct Zeros:0.8947368264198303; Correct Ones:0.8678473830223083
+epoch 291   loss : 0.5590691566467285    accuracy : 0.8787024021148682
+-----Num Corr 0: 607; Num Corr 1: 639
+Correct Zeros:0.8874269127845764; Correct Ones:0.8705722093582153
+epoch 292   loss : 0.5868403911590576    accuracy : 0.8737658858299255
+-----Num Corr 0: 605; Num Corr 1: 634
+Correct Zeros:0.8845029473304749; Correct Ones:0.863760232925415
+epoch 293   loss : 0.5612637400627136    accuracy : 0.8871650099754333
+-----Num Corr 0: 609; Num Corr 1: 649
+Correct Zeros:0.890350878238678; Correct Ones:0.8841961622238159
+epoch 294   loss : 0.5547966957092285    accuracy : 0.8864598274230957
+-----Num Corr 0: 615; Num Corr 1: 642
+Correct Zeros:0.8991228342056274; Correct Ones:0.8746593594551086
+epoch 295   loss : 0.5669493079185486    accuracy : 0.8801128268241882
+-----Num Corr 0: 613; Num Corr 1: 635
+Correct Zeros:0.8961988091468811; Correct Ones:0.8651226162910461
+epoch 296   loss : 0.5557907223701477    accuracy : 0.8808180689811707
+-----Num Corr 0: 621; Num Corr 1: 628
+Correct Zeros:0.9078947305679321; Correct Ones:0.8555858135223389
+epoch 297   loss : 0.572627604007721     accuracy : 0.8829337358474731
+-----Num Corr 0: 609; Num Corr 1: 643
+Correct Zeros:0.890350878238678; Correct Ones:0.8760218024253845
+epoch 298   loss : 0.5661059021949768    accuracy : 0.8871650099754333
+-----Num Corr 0: 612; Num Corr 1: 646
+Correct Zeros:0.8947368264198303; Correct Ones:0.8801089525222778
+epoch 299   loss : 0.5687609314918518    accuracy : 0.871650218963623
+-----Num Corr 0: 606; Num Corr 1: 630
+Correct Zeros:0.8859649300575256; Correct Ones:0.8583106398582458
+epoch 300   loss : 0.5536797642707825    accuracy : 0.8822284936904907
+-----Num Corr 0: 610; Num Corr 1: 641
+Correct Zeros:0.8918128609657288; Correct Ones:0.8732969760894775
+epoch 301   loss : 0.5739800930023193    accuracy : 0.8772919774055481
+-----Num Corr 0: 615; Num Corr 1: 629
+Correct Zeros:0.8991228342056274; Correct Ones:0.85694819688797
+epoch 302   loss : 0.5764814615249634    accuracy : 0.8906911015510559
+-----Num Corr 0: 614; Num Corr 1: 649
+Correct Zeros:0.8976608514785767; Correct Ones:0.8841961622238159
+epoch 303   loss : 0.5729935169219971    accuracy : 0.9005641937255859
+-----Num Corr 0: 621; Num Corr 1: 656
+Correct Zeros:0.9078947305679321; Correct Ones:0.8937329649925232
+epoch 304   loss : 0.5770988464355469    accuracy : 0.8801128268241882
+-----Num Corr 0: 601; Num Corr 1: 647
+Correct Zeros:0.878654956817627; Correct Ones:0.8814713954925537
+epoch 305   loss : 0.5583251118659973    accuracy : 0.8998589515686035
+-----Num Corr 0: 620; Num Corr 1: 656
+Correct Zeros:0.9064327478408813; Correct Ones:0.8937329649925232
+epoch 306   loss : 0.5647542476654053    accuracy : 0.8878702521324158
+-----Num Corr 0: 610; Num Corr 1: 649
+Correct Zeros:0.8918128609657288; Correct Ones:0.8841961622238159
+epoch 307   loss : 0.5832545161247253    accuracy : 0.8899859189987183
+-----Num Corr 0: 615; Num Corr 1: 647
+Correct Zeros:0.8991228342056274; Correct Ones:0.8814713954925537
+epoch 308   loss : 0.5435759425163269    accuracy : 0.892101526260376
+-----Num Corr 0: 622; Num Corr 1: 643
+Correct Zeros:0.9093567132949829; Correct Ones:0.8760218024253845
+epoch 309   loss : 0.5835880041122437    accuracy : 0.8885754346847534
+-----Num Corr 0: 620; Num Corr 1: 640
+Correct Zeros:0.9064327478408813; Correct Ones:0.8719345927238464
+epoch 310   loss : 0.5682045817375183    accuracy : 0.9012693762779236
+-----Num Corr 0: 619; Num Corr 1: 659
+Correct Zeros:0.9049707651138306; Correct Ones:0.8978201746940613
+epoch 311   loss : 0.5590552091598511    accuracy : 0.8913963437080383
+-----Num Corr 0: 622; Num Corr 1: 642
+Correct Zeros:0.9093567132949829; Correct Ones:0.8746593594551086
+epoch 312   loss : 0.584740936756134     accuracy : 0.8892806768417358
+-----Num Corr 0: 613; Num Corr 1: 648
+Correct Zeros:0.8961988091468811; Correct Ones:0.8828337788581848
+epoch 313   loss : 0.5819859504699707    accuracy : 0.9026798009872437
+-----Num Corr 0: 618; Num Corr 1: 662
+Correct Zeros:0.9035087823867798; Correct Ones:0.9019073247909546
+epoch 314   loss : 0.5665801763534546    accuracy : 0.8850493431091309
+-----Num Corr 0: 602; Num Corr 1: 653
+Correct Zeros:0.8801169395446777; Correct Ones:0.8896457552909851
+epoch 315   loss : 0.5735275745391846    accuracy : 0.8857545852661133
+-----Num Corr 0: 609; Num Corr 1: 647
+Correct Zeros:0.890350878238678; Correct Ones:0.8814713954925537
+epoch 316   loss : 0.5746695399284363    accuracy : 0.8956276178359985
+-----Num Corr 0: 620; Num Corr 1: 650
+Correct Zeros:0.9064327478408813; Correct Ones:0.885558545589447
+epoch 317   loss : 0.5361008644104004    accuracy : 0.8998589515686035
+-----Num Corr 0: 625; Num Corr 1: 651
+Correct Zeros:0.91374272108078; Correct Ones:0.8869209885597229
+epoch 318   loss : 0.5786659717559814    accuracy : 0.8991537094116211
+-----Num Corr 0: 625; Num Corr 1: 650
+Correct Zeros:0.91374272108078; Correct Ones:0.885558545589447
+epoch 319   loss : 0.5663591623306274    accuracy : 0.8991537094116211
+-----Num Corr 0: 625; Num Corr 1: 650
+Correct Zeros:0.91374272108078; Correct Ones:0.885558545589447
+epoch 320   loss : 0.5693677067756653    accuracy : 0.8942171931266785
+-----Num Corr 0: 622; Num Corr 1: 646
+Correct Zeros:0.9093567132949829; Correct Ones:0.8801089525222778
+epoch 321   loss : 0.5545234680175781    accuracy : 0.8956276178359985
+-----Num Corr 0: 614; Num Corr 1: 656
+Correct Zeros:0.8976608514785767; Correct Ones:0.8937329649925232
+epoch 322   loss : 0.5884493589401245    accuracy : 0.896332859992981
+-----Num Corr 0: 609; Num Corr 1: 662
+Correct Zeros:0.890350878238678; Correct Ones:0.9019073247909546
+epoch 323   loss : 0.5680104494094849    accuracy : 0.8998589515686035
+-----Num Corr 0: 622; Num Corr 1: 654
+Correct Zeros:0.9093567132949829; Correct Ones:0.8910081386566162
+epoch 324   loss : 0.5589143633842468    accuracy : 0.892101526260376
+-----Num Corr 0: 612; Num Corr 1: 653
+Correct Zeros:0.8947368264198303; Correct Ones:0.8896457552909851
+epoch 325   loss : 0.5751206874847412    accuracy : 0.8878702521324158
+-----Num Corr 0: 613; Num Corr 1: 646
+Correct Zeros:0.8961988091468811; Correct Ones:0.8801089525222778
+epoch 326   loss : 0.5800297260284424    accuracy : 0.8843441605567932
+-----Num Corr 0: 613; Num Corr 1: 641
+Correct Zeros:0.8961988091468811; Correct Ones:0.8732969760894775
+epoch 327   loss : 0.5419840812683105    accuracy : 0.901974618434906
+-----Num Corr 0: 621; Num Corr 1: 658
+Correct Zeros:0.9078947305679321; Correct Ones:0.8964577317237854
+epoch 328   loss : 0.5483132004737854    accuracy : 0.8942171931266785
+-----Num Corr 0: 612; Num Corr 1: 656
+Correct Zeros:0.8947368264198303; Correct Ones:0.8937329649925232
+epoch 329   loss : 0.5890711545944214    accuracy : 0.8942171931266785
+-----Num Corr 0: 626; Num Corr 1: 642
+Correct Zeros:0.9152047038078308; Correct Ones:0.8746593594551086
+epoch 330   loss : 0.5461898446083069    accuracy : 0.892101526260376
+-----Num Corr 0: 622; Num Corr 1: 643
+Correct Zeros:0.9093567132949829; Correct Ones:0.8760218024253845
+epoch 331   loss : 0.5406456589698792    accuracy : 0.9033850431442261
+-----Num Corr 0: 623; Num Corr 1: 658
+Correct Zeros:0.9108186960220337; Correct Ones:0.8964577317237854
+epoch 332   loss : 0.5388181209564209    accuracy : 0.9012693762779236
+-----Num Corr 0: 623; Num Corr 1: 655
+Correct Zeros:0.9108186960220337; Correct Ones:0.8923705816268921
+epoch 333   loss : 0.5553393959999084    accuracy : 0.9104372262954712
+-----Num Corr 0: 624; Num Corr 1: 667
+Correct Zeros:0.9122806787490845; Correct Ones:0.9087193608283997
+epoch 334   loss : 0.5445664525032043    accuracy : 0.9012693762779236
+-----Num Corr 0: 626; Num Corr 1: 652
+Correct Zeros:0.9152047038078308; Correct Ones:0.888283371925354
+epoch 335   loss : 0.5750262141227722    accuracy : 0.8991537094116211
+-----Num Corr 0: 619; Num Corr 1: 656
+Correct Zeros:0.9049707651138306; Correct Ones:0.8937329649925232
+epoch 336   loss : 0.5593364238739014    accuracy : 0.8864598274230957
+-----Num Corr 0: 608; Num Corr 1: 649
+Correct Zeros:0.8888888955116272; Correct Ones:0.8841961622238159
+epoch 337   loss : 0.5491381883621216    accuracy : 0.8949224352836609
+-----Num Corr 0: 615; Num Corr 1: 654
+Correct Zeros:0.8991228342056274; Correct Ones:0.8910081386566162
+epoch 338   loss : 0.5463611483573914    accuracy : 0.8991537094116211
+-----Num Corr 0: 617; Num Corr 1: 658
+Correct Zeros:0.902046799659729; Correct Ones:0.8964577317237854
+epoch 339   loss : 0.5635145902633667    accuracy : 0.892101526260376
+-----Num Corr 0: 618; Num Corr 1: 647
+Correct Zeros:0.9035087823867798; Correct Ones:0.8814713954925537
+epoch 340   loss : 0.554840624332428     accuracy : 0.897743284702301
+-----Num Corr 0: 621; Num Corr 1: 652
+Correct Zeros:0.9078947305679321; Correct Ones:0.888283371925354
+epoch 341   loss : 0.5642063021659851    accuracy : 0.9047954678535461
+-----Num Corr 0: 624; Num Corr 1: 659
+Correct Zeros:0.9122806787490845; Correct Ones:0.8978201746940613
+epoch 342   loss : 0.5489460825920105    accuracy : 0.9012693762779236
+-----Num Corr 0: 621; Num Corr 1: 657
+Correct Zeros:0.9078947305679321; Correct Ones:0.8950953483581543
+epoch 343   loss : 0.5409902334213257    accuracy : 0.8984485268592834
+-----Num Corr 0: 621; Num Corr 1: 653
+Correct Zeros:0.9078947305679321; Correct Ones:0.8896457552909851
+epoch 344   loss : 0.5563550591468811    accuracy : 0.897743284702301
+-----Num Corr 0: 625; Num Corr 1: 648
+Correct Zeros:0.91374272108078; Correct Ones:0.8828337788581848
+epoch 345   loss : 0.5488371253013611    accuracy : 0.8949224352836609
+-----Num Corr 0: 622; Num Corr 1: 647
+Correct Zeros:0.9093567132949829; Correct Ones:0.8814713954925537
+epoch 346   loss : 0.5435385704040527    accuracy : 0.9012693762779236
+-----Num Corr 0: 623; Num Corr 1: 655
+Correct Zeros:0.9108186960220337; Correct Ones:0.8923705816268921
+epoch 347   loss : 0.5682450532913208    accuracy : 0.9005641937255859
+-----Num Corr 0: 620; Num Corr 1: 657
+Correct Zeros:0.9064327478408813; Correct Ones:0.8950953483581543
+epoch 348   loss : 0.5273754000663757    accuracy : 0.8935120105743408
+-----Num Corr 0: 620; Num Corr 1: 647
+Correct Zeros:0.9064327478408813; Correct Ones:0.8814713954925537
+epoch 349   loss : 0.5076985955238342    accuracy : 0.8928067684173584
+-----Num Corr 0: 620; Num Corr 1: 646
+Correct Zeros:0.9064327478408813; Correct Ones:0.8801089525222778
+epoch 350   loss : 0.5704041123390198    accuracy : 0.8998589515686035
+-----Num Corr 0: 624; Num Corr 1: 652
+Correct Zeros:0.9122806787490845; Correct Ones:0.888283371925354
+epoch 351   loss : 0.5630770325660706    accuracy : 0.8998589515686035
+-----Num Corr 0: 620; Num Corr 1: 656
+Correct Zeros:0.9064327478408813; Correct Ones:0.8937329649925232
+epoch 352   loss : 0.5472792983055115    accuracy : 0.8998589515686035
+-----Num Corr 0: 623; Num Corr 1: 653
+Correct Zeros:0.9108186960220337; Correct Ones:0.8896457552909851
+epoch 353   loss : 0.5577845573425293    accuracy : 0.9040902853012085
+-----Num Corr 0: 627; Num Corr 1: 655
+Correct Zeros:0.9166666865348816; Correct Ones:0.8923705816268921
+epoch 354   loss : 0.5420138835906982    accuracy : 0.8956276178359985
+-----Num Corr 0: 626; Num Corr 1: 644
+Correct Zeros:0.9152047038078308; Correct Ones:0.8773841857910156
+epoch 355   loss : 0.5565420985221863    accuracy : 0.892101526260376
+-----Num Corr 0: 624; Num Corr 1: 641
+Correct Zeros:0.9122806787490845; Correct Ones:0.8732969760894775
+epoch 356   loss : 0.5381468534469604    accuracy : 0.9026798009872437
+-----Num Corr 0: 626; Num Corr 1: 654
+Correct Zeros:0.9152047038078308; Correct Ones:0.8910081386566162
+epoch 357   loss : 0.5552321076393127    accuracy : 0.9005641937255859
+-----Num Corr 0: 624; Num Corr 1: 653
+Correct Zeros:0.9122806787490845; Correct Ones:0.8896457552909851
+epoch 358   loss : 0.5250570178031921    accuracy : 0.9055007100105286
+-----Num Corr 0: 621; Num Corr 1: 663
+Correct Zeros:0.9078947305679321; Correct Ones:0.9032697677612305
+epoch 359   loss : 0.5400676131248474    accuracy : 0.906205952167511
+-----Num Corr 0: 636; Num Corr 1: 649
+Correct Zeros:0.9298245906829834; Correct Ones:0.8841961622238159
+epoch 360   loss : 0.5277588963508606    accuracy : 0.8942171931266785
+-----Num Corr 0: 624; Num Corr 1: 644
+Correct Zeros:0.9122806787490845; Correct Ones:0.8773841857910156
+epoch 361   loss : 0.5395776033401489    accuracy : 0.8928067684173584
+-----Num Corr 0: 612; Num Corr 1: 654
+Correct Zeros:0.8947368264198303; Correct Ones:0.8910081386566162
+epoch 362   loss : 0.5173577070236206    accuracy : 0.8991537094116211
+-----Num Corr 0: 616; Num Corr 1: 659
+Correct Zeros:0.9005848169326782; Correct Ones:0.8978201746940613
+epoch 363   loss : 0.5387194156646729    accuracy : 0.897743284702301
+-----Num Corr 0: 620; Num Corr 1: 653
+Correct Zeros:0.9064327478408813; Correct Ones:0.8896457552909851
+epoch 364   loss : 0.5294123888015747    accuracy : 0.9069111347198486
+-----Num Corr 0: 632; Num Corr 1: 654
+Correct Zeros:0.9239766001701355; Correct Ones:0.8910081386566162
+epoch 365   loss : 0.5329722762107849    accuracy : 0.9026798009872437
+-----Num Corr 0: 626; Num Corr 1: 654
+Correct Zeros:0.9152047038078308; Correct Ones:0.8910081386566162
+epoch 366   loss : 0.518679141998291     accuracy : 0.9111424684524536
+-----Num Corr 0: 623; Num Corr 1: 669
+Correct Zeros:0.9108186960220337; Correct Ones:0.9114441275596619
+epoch 367   loss : 0.5294997096061707    accuracy : 0.9111424684524536
+-----Num Corr 0: 635; Num Corr 1: 657
+Correct Zeros:0.9283626079559326; Correct Ones:0.8950953483581543
+epoch 368   loss : 0.5508461594581604    accuracy : 0.9033850431442261
+-----Num Corr 0: 627; Num Corr 1: 654
+Correct Zeros:0.9166666865348816; Correct Ones:0.8910081386566162
+epoch 369   loss : 0.5050963163375854    accuracy : 0.9047954678535461
+-----Num Corr 0: 628; Num Corr 1: 655
+Correct Zeros:0.9181286692619324; Correct Ones:0.8923705816268921
+epoch 370   loss : 0.5530146956443787    accuracy : 0.8956276178359985
+-----Num Corr 0: 622; Num Corr 1: 648
+Correct Zeros:0.9093567132949829; Correct Ones:0.8828337788581848
+epoch 371   loss : 0.53980553150177  accuracy : 0.9111424684524536
+-----Num Corr 0: 629; Num Corr 1: 663
+Correct Zeros:0.9195906519889832; Correct Ones:0.9032697677612305
+epoch 372   loss : 0.5475708842277527    accuracy : 0.906205952167511
+-----Num Corr 0: 628; Num Corr 1: 657
+Correct Zeros:0.9181286692619324; Correct Ones:0.8950953483581543
+epoch 373   loss : 0.5389851927757263    accuracy : 0.9210155010223389
+-----Num Corr 0: 638; Num Corr 1: 668
+Correct Zeros:0.932748556137085; Correct Ones:0.9100817441940308
+epoch 374   loss : 0.5428774952888489    accuracy : 0.8998589515686035
+-----Num Corr 0: 624; Num Corr 1: 652
+Correct Zeros:0.9122806787490845; Correct Ones:0.888283371925354
+epoch 375   loss : 0.5297192335128784    accuracy : 0.9097320437431335
+-----Num Corr 0: 637; Num Corr 1: 653
+Correct Zeros:0.9312865734100342; Correct Ones:0.8896457552909851
+epoch 376   loss : 0.5197604894638062    accuracy : 0.9118476510047913
+-----Num Corr 0: 636; Num Corr 1: 657
+Correct Zeros:0.9298245906829834; Correct Ones:0.8950953483581543
+epoch 377   loss : 0.5399082899093628    accuracy : 0.9069111347198486
+-----Num Corr 0: 629; Num Corr 1: 657
+Correct Zeros:0.9195906519889832; Correct Ones:0.8950953483581543
+epoch 378   loss : 0.5325246453285217    accuracy : 0.9104372262954712
+-----Num Corr 0: 633; Num Corr 1: 658
+Correct Zeros:0.9254385828971863; Correct Ones:0.8964577317237854
+epoch 379   loss : 0.5313001275062561    accuracy : 0.907616376876831
+-----Num Corr 0: 633; Num Corr 1: 654
+Correct Zeros:0.9254385828971863; Correct Ones:0.8910081386566162
+epoch 380   loss : 0.5655043721199036    accuracy : 0.9090268015861511
+-----Num Corr 0: 633; Num Corr 1: 656
+Correct Zeros:0.9254385828971863; Correct Ones:0.8937329649925232
+epoch 381   loss : 0.5390850305557251    accuracy : 0.9196050763130188
+-----Num Corr 0: 640; Num Corr 1: 664
+Correct Zeros:0.9356725215911865; Correct Ones:0.9046321511268616
+epoch 382   loss : 0.5295299887657166    accuracy : 0.9231311678886414
+-----Num Corr 0: 642; Num Corr 1: 667
+Correct Zeros:0.9385964870452881; Correct Ones:0.9087193608283997
+epoch 383   loss : 0.5306427478790283    accuracy : 0.9083215594291687
+-----Num Corr 0: 638; Num Corr 1: 650
+Correct Zeros:0.932748556137085; Correct Ones:0.885558545589447
+epoch 384   loss : 0.5276983976364136    accuracy : 0.907616376876831
+-----Num Corr 0: 629; Num Corr 1: 658
+Correct Zeros:0.9195906519889832; Correct Ones:0.8964577317237854
+epoch 385   loss : 0.5243061780929565    accuracy : 0.9047954678535461
+-----Num Corr 0: 625; Num Corr 1: 658
+Correct Zeros:0.91374272108078; Correct Ones:0.8964577317237854
+epoch 386   loss : 0.5530848503112793    accuracy : 0.9118476510047913
+-----Num Corr 0: 638; Num Corr 1: 655
+Correct Zeros:0.932748556137085; Correct Ones:0.8923705816268921
+epoch 387   loss : 0.5301507115364075    accuracy : 0.9167842268943787
+-----Num Corr 0: 635; Num Corr 1: 665
+Correct Zeros:0.9283626079559326; Correct Ones:0.9059945344924927
+epoch 388   loss : 0.5081900954246521    accuracy : 0.9104372262954712
+-----Num Corr 0: 634; Num Corr 1: 657
+Correct Zeros:0.9269005656242371; Correct Ones:0.8950953483581543
+epoch 389   loss : 0.5110796689987183    accuracy : 0.9047954678535461
+-----Num Corr 0: 627; Num Corr 1: 656
+Correct Zeros:0.9166666865348816; Correct Ones:0.8937329649925232
+epoch 390   loss : 0.5372210741043091    accuracy : 0.9097320437431335
+-----Num Corr 0: 630; Num Corr 1: 660
+Correct Zeros:0.9210526347160339; Correct Ones:0.8991825580596924
+epoch 391   loss : 0.5512310862541199    accuracy : 0.9181946516036987
+-----Num Corr 0: 639; Num Corr 1: 663
+Correct Zeros:0.9342105388641357; Correct Ones:0.9032697677612305
+epoch 392   loss : 0.532094419002533     accuracy : 0.9033850431442261
+-----Num Corr 0: 633; Num Corr 1: 648
+Correct Zeros:0.9254385828971863; Correct Ones:0.8828337788581848
+epoch 393   loss : 0.5402282476425171    accuracy : 0.9125528931617737
+-----Num Corr 0: 637; Num Corr 1: 657
+Correct Zeros:0.9312865734100342; Correct Ones:0.8950953483581543
+epoch 394   loss : 0.5274457931518555    accuracy : 0.9090268015861511
+-----Num Corr 0: 631; Num Corr 1: 658
+Correct Zeros:0.9225146174430847; Correct Ones:0.8964577317237854
+epoch 395   loss : 0.5506132245063782    accuracy : 0.9174894094467163
+-----Num Corr 0: 632; Num Corr 1: 669
+Correct Zeros:0.9239766001701355; Correct Ones:0.9114441275596619
+epoch 396   loss : 0.5039448142051697    accuracy : 0.9083215594291687
+-----Num Corr 0: 637; Num Corr 1: 651
+Correct Zeros:0.9312865734100342; Correct Ones:0.8869209885597229
+epoch 397   loss : 0.5060445070266724    accuracy : 0.9139633178710938
+-----Num Corr 0: 640; Num Corr 1: 656
+Correct Zeros:0.9356725215911865; Correct Ones:0.8937329649925232
+epoch 398   loss : 0.5333648324012756    accuracy : 0.9132581353187561
+-----Num Corr 0: 635; Num Corr 1: 660
+Correct Zeros:0.9283626079559326; Correct Ones:0.8991825580596924
+epoch 399   loss : 0.508765459060669     accuracy : 0.9217207431793213
+-----Num Corr 0: 647; Num Corr 1: 660
+Correct Zeros:0.9459064602851868; Correct Ones:0.8991825580596924
+epoch 400   loss : 0.5162983536720276    accuracy : 0.9153737425804138
+-----Num Corr 0: 633; Num Corr 1: 665
+Correct Zeros:0.9254385828971863; Correct Ones:0.9059945344924927
+epoch 401   loss : 0.525698721408844     accuracy : 0.9160789847373962
+-----Num Corr 0: 635; Num Corr 1: 664
+Correct Zeros:0.9283626079559326; Correct Ones:0.9046321511268616
+epoch 402   loss : 0.503571093082428     accuracy : 0.9174894094467163
+-----Num Corr 0: 635; Num Corr 1: 666
+Correct Zeros:0.9283626079559326; Correct Ones:0.9073569178581238
+epoch 403   loss : 0.5107359886169434    accuracy : 0.9104372262954712
+-----Num Corr 0: 634; Num Corr 1: 657
+Correct Zeros:0.9269005656242371; Correct Ones:0.8950953483581543
+epoch 404   loss : 0.5152394771575928    accuracy : 0.9125528931617737
+-----Num Corr 0: 633; Num Corr 1: 661
+Correct Zeros:0.9254385828971863; Correct Ones:0.9005449414253235
+epoch 405   loss : 0.5000597834587097    accuracy : 0.9153737425804138
+-----Num Corr 0: 637; Num Corr 1: 661
+Correct Zeros:0.9312865734100342; Correct Ones:0.9005449414253235
+epoch 406   loss : 0.5401328206062317    accuracy : 0.9167842268943787
+-----Num Corr 0: 637; Num Corr 1: 663
+Correct Zeros:0.9312865734100342; Correct Ones:0.9032697677612305
+epoch 407   loss : 0.5438772439956665    accuracy : 0.9153737425804138
+-----Num Corr 0: 639; Num Corr 1: 659
+Correct Zeros:0.9342105388641357; Correct Ones:0.8978201746940613
+epoch 408   loss : 0.5341626405715942    accuracy : 0.9273625016212463
+-----Num Corr 0: 641; Num Corr 1: 674
+Correct Zeros:0.9371345043182373; Correct Ones:0.9182561039924622
+epoch 409   loss : 0.5234110951423645    accuracy : 0.9153737425804138
+-----Num Corr 0: 635; Num Corr 1: 663
+Correct Zeros:0.9283626079559326; Correct Ones:0.9032697677612305
+epoch 410   loss : 0.4845881760120392    accuracy : 0.9167842268943787
+-----Num Corr 0: 633; Num Corr 1: 667
+Correct Zeros:0.9254385828971863; Correct Ones:0.9087193608283997
+epoch 411   loss : 0.5043841600418091    accuracy : 0.9188998341560364
+-----Num Corr 0: 637; Num Corr 1: 666
+Correct Zeros:0.9312865734100342; Correct Ones:0.9073569178581238
+epoch 412   loss : 0.5359209179878235    accuracy : 0.9153737425804138
+-----Num Corr 0: 638; Num Corr 1: 660
+Correct Zeros:0.932748556137085; Correct Ones:0.8991825580596924
+epoch 413   loss : 0.5226715803146362    accuracy : 0.9097320437431335
+-----Num Corr 0: 633; Num Corr 1: 657
+Correct Zeros:0.9254385828971863; Correct Ones:0.8950953483581543
+epoch 414   loss : 0.5061218738555908    accuracy : 0.9188998341560364
+-----Num Corr 0: 640; Num Corr 1: 663
+Correct Zeros:0.9356725215911865; Correct Ones:0.9032697677612305
+epoch 415   loss : 0.5493171215057373    accuracy : 0.9210155010223389
+-----Num Corr 0: 638; Num Corr 1: 668
+Correct Zeros:0.932748556137085; Correct Ones:0.9100817441940308
+epoch 416   loss : 0.5008625388145447    accuracy : 0.9203103184700012
+-----Num Corr 0: 640; Num Corr 1: 665
+Correct Zeros:0.9356725215911865; Correct Ones:0.9059945344924927
+epoch 417   loss : 0.5172339677810669    accuracy : 0.9111424684524536
+-----Num Corr 0: 636; Num Corr 1: 656
+Correct Zeros:0.9298245906829834; Correct Ones:0.8937329649925232
+epoch 418   loss : 0.5418174266815186    accuracy : 0.9118476510047913
+-----Num Corr 0: 632; Num Corr 1: 661
+Correct Zeros:0.9239766001701355; Correct Ones:0.9005449414253235
+epoch 419   loss : 0.5131973624229431    accuracy : 0.9224259257316589
+-----Num Corr 0: 643; Num Corr 1: 665
+Correct Zeros:0.9400584697723389; Correct Ones:0.9059945344924927
+epoch 420   loss : 0.500034511089325     accuracy : 0.9125528931617737
+-----Num Corr 0: 634; Num Corr 1: 660
+Correct Zeros:0.9269005656242371; Correct Ones:0.8991825580596924
+epoch 421   loss : 0.524215042591095     accuracy : 0.9069111347198486
+-----Num Corr 0: 624; Num Corr 1: 662
+Correct Zeros:0.9122806787490845; Correct Ones:0.9019073247909546
+epoch 422   loss : 0.49081951379776  accuracy : 0.9351198673248291
+-----Num Corr 0: 648; Num Corr 1: 678
+Correct Zeros:0.9473684430122375; Correct Ones:0.9237056970596313
+epoch 423   loss : 0.4831602871417999    accuracy : 0.9238364100456238
+-----Num Corr 0: 641; Num Corr 1: 669
+Correct Zeros:0.9371345043182373; Correct Ones:0.9114441275596619
+epoch 424   loss : 0.49671629071235657   accuracy : 0.9174894094467163
+-----Num Corr 0: 639; Num Corr 1: 662
+Correct Zeros:0.9342105388641357; Correct Ones:0.9019073247909546
+epoch 425   loss : 0.5028858780860901    accuracy : 0.9167842268943787
+-----Num Corr 0: 632; Num Corr 1: 668
+Correct Zeros:0.9239766001701355; Correct Ones:0.9100817441940308
+epoch 426   loss : 0.5249196290969849    accuracy : 0.9125528931617737
+-----Num Corr 0: 643; Num Corr 1: 651
+Correct Zeros:0.9400584697723389; Correct Ones:0.8869209885597229
+epoch 427   loss : 0.4936142563819885    accuracy : 0.9273625016212463
+-----Num Corr 0: 648; Num Corr 1: 667
+Correct Zeros:0.9473684430122375; Correct Ones:0.9087193608283997
+epoch 428   loss : 0.5144328474998474    accuracy : 0.9188998341560364
+-----Num Corr 0: 642; Num Corr 1: 661
+Correct Zeros:0.9385964870452881; Correct Ones:0.9005449414253235
+epoch 429   loss : 0.48250001668930054   accuracy : 0.9139633178710938
+-----Num Corr 0: 639; Num Corr 1: 657
+Correct Zeros:0.9342105388641357; Correct Ones:0.8950953483581543
+epoch 430   loss : 0.4913940131664276    accuracy : 0.9196050763130188
+-----Num Corr 0: 643; Num Corr 1: 661
+Correct Zeros:0.9400584697723389; Correct Ones:0.9005449414253235
+epoch 431   loss : 0.485440194606781     accuracy : 0.9203103184700012
+-----Num Corr 0: 643; Num Corr 1: 662
+Correct Zeros:0.9400584697723389; Correct Ones:0.9019073247909546
+epoch 432   loss : 0.5070943236351013    accuracy : 0.9153737425804138
+-----Num Corr 0: 639; Num Corr 1: 659
+Correct Zeros:0.9342105388641357; Correct Ones:0.8978201746940613
+epoch 433   loss : 0.5067105889320374    accuracy : 0.9125528931617737
+-----Num Corr 0: 641; Num Corr 1: 653
+Correct Zeros:0.9371345043182373; Correct Ones:0.8896457552909851
+epoch 434   loss : 0.5003901720046997    accuracy : 0.9245415925979614
+-----Num Corr 0: 643; Num Corr 1: 668
+Correct Zeros:0.9400584697723389; Correct Ones:0.9100817441940308
+epoch 435   loss : 0.4799972474575043    accuracy : 0.9203103184700012
+-----Num Corr 0: 639; Num Corr 1: 666
+Correct Zeros:0.9342105388641357; Correct Ones:0.9073569178581238
+epoch 436   loss : 0.4854939877986908    accuracy : 0.9273625016212463
+-----Num Corr 0: 649; Num Corr 1: 666
+Correct Zeros:0.9488304257392883; Correct Ones:0.9073569178581238
+epoch 437   loss : 0.49649950861930847   accuracy : 0.9224259257316589
+-----Num Corr 0: 641; Num Corr 1: 667
+Correct Zeros:0.9371345043182373; Correct Ones:0.9087193608283997
+epoch 438   loss : 0.5049418807029724    accuracy : 0.9203103184700012
+-----Num Corr 0: 639; Num Corr 1: 666
+Correct Zeros:0.9342105388641357; Correct Ones:0.9073569178581238
+epoch 439   loss : 0.5039530992507935    accuracy : 0.9330042600631714
+-----Num Corr 0: 650; Num Corr 1: 673
+Correct Zeros:0.9502924084663391; Correct Ones:0.916893720626831
+epoch 440   loss : 0.47168710827827454   accuracy : 0.9181946516036987
+-----Num Corr 0: 645; Num Corr 1: 657
+Correct Zeros:0.9429824352264404; Correct Ones:0.8950953483581543
+epoch 441   loss : 0.49711379408836365   accuracy : 0.9224259257316589
+-----Num Corr 0: 640; Num Corr 1: 668
+Correct Zeros:0.9356725215911865; Correct Ones:0.9100817441940308
+epoch 442   loss : 0.49897199869155884   accuracy : 0.9245415925979614
+-----Num Corr 0: 638; Num Corr 1: 673
+Correct Zeros:0.932748556137085; Correct Ones:0.916893720626831
+epoch 443   loss : 0.5108325481414795    accuracy : 0.9210155010223389
+-----Num Corr 0: 646; Num Corr 1: 660
+Correct Zeros:0.944444477558136; Correct Ones:0.8991825580596924
+epoch 444   loss : 0.4901951551437378    accuracy : 0.9252468347549438
+-----Num Corr 0: 647; Num Corr 1: 665
+Correct Zeros:0.9459064602851868; Correct Ones:0.9059945344924927
+epoch 445   loss : 0.5016566514968872    accuracy : 0.9210155010223389
+-----Num Corr 0: 644; Num Corr 1: 662
+Correct Zeros:0.9415204524993896; Correct Ones:0.9019073247909546
+epoch 446   loss : 0.5217249989509583    accuracy : 0.9210155010223389
+-----Num Corr 0: 635; Num Corr 1: 671
+Correct Zeros:0.9283626079559326; Correct Ones:0.9141689538955688
+epoch 447   loss : 0.4730139970779419    accuracy : 0.9245415925979614
+-----Num Corr 0: 645; Num Corr 1: 666
+Correct Zeros:0.9429824352264404; Correct Ones:0.9073569178581238
+epoch 448   loss : 0.48371422290802  accuracy : 0.933709442615509
+-----Num Corr 0: 651; Num Corr 1: 673
+Correct Zeros:0.9517543911933899; Correct Ones:0.916893720626831
+epoch 449   loss : 0.48310306668281555   accuracy : 0.9273625016212463
+-----Num Corr 0: 643; Num Corr 1: 672
+Correct Zeros:0.9400584697723389; Correct Ones:0.9155313372612
+epoch 450   loss : 0.47218403220176697   accuracy : 0.928067684173584
+-----Num Corr 0: 648; Num Corr 1: 668
+Correct Zeros:0.9473684430122375; Correct Ones:0.9100817441940308
+epoch 451   loss : 0.5073192715644836    accuracy : 0.9238364100456238
+-----Num Corr 0: 640; Num Corr 1: 670
+Correct Zeros:0.9356725215911865; Correct Ones:0.912806510925293
+epoch 452   loss : 0.5166545510292053    accuracy : 0.9224259257316589
+-----Num Corr 0: 650; Num Corr 1: 658
+Correct Zeros:0.9502924084663391; Correct Ones:0.8964577317237854
+epoch 453   loss : 0.5118644833564758    accuracy : 0.9351198673248291
+-----Num Corr 0: 654; Num Corr 1: 672
+Correct Zeros:0.9561403393745422; Correct Ones:0.9155313372612
+epoch 454   loss : 0.491781622171402     accuracy : 0.9210155010223389
+-----Num Corr 0: 643; Num Corr 1: 663
+Correct Zeros:0.9400584697723389; Correct Ones:0.9032697677612305
+epoch 455   loss : 0.5015613436698914    accuracy : 0.936530351638794
+-----Num Corr 0: 654; Num Corr 1: 674
+Correct Zeros:0.9561403393745422; Correct Ones:0.9182561039924622
+epoch 456   loss : 0.4664870500564575    accuracy : 0.932299017906189
+-----Num Corr 0: 646; Num Corr 1: 676
+Correct Zeros:0.944444477558136; Correct Ones:0.9209809303283691
+epoch 457   loss : 0.5002967119216919    accuracy : 0.9266572594642639
+-----Num Corr 0: 644; Num Corr 1: 670
+Correct Zeros:0.9415204524993896; Correct Ones:0.912806510925293
+epoch 458   loss : 0.502726674079895     accuracy : 0.9330042600631714
+-----Num Corr 0: 649; Num Corr 1: 674
+Correct Zeros:0.9488304257392883; Correct Ones:0.9182561039924622
+epoch 459   loss : 0.4856846034526825    accuracy : 0.9301833510398865
+-----Num Corr 0: 652; Num Corr 1: 667
+Correct Zeros:0.9532163739204407; Correct Ones:0.9087193608283997
+epoch 460   loss : 0.4695834517478943    accuracy : 0.9231311678886414
+-----Num Corr 0: 643; Num Corr 1: 666
+Correct Zeros:0.9400584697723389; Correct Ones:0.9073569178581238
+epoch 461   loss : 0.4575807750225067    accuracy : 0.933709442615509
+-----Num Corr 0: 652; Num Corr 1: 672
+Correct Zeros:0.9532163739204407; Correct Ones:0.9155313372612
+epoch 462   loss : 0.471362829208374     accuracy : 0.929478108882904
+-----Num Corr 0: 642; Num Corr 1: 676
+Correct Zeros:0.9385964870452881; Correct Ones:0.9209809303283691
+epoch 463   loss : 0.4881879985332489    accuracy : 0.9181946516036987
+-----Num Corr 0: 637; Num Corr 1: 665
+Correct Zeros:0.9312865734100342; Correct Ones:0.9059945344924927
+epoch 464   loss : 0.49326345324516296   accuracy : 0.9231311678886414
+-----Num Corr 0: 636; Num Corr 1: 673
+Correct Zeros:0.9298245906829834; Correct Ones:0.916893720626831
+epoch 465   loss : 0.5186266303062439    accuracy : 0.9231311678886414
+-----Num Corr 0: 639; Num Corr 1: 670
+Correct Zeros:0.9342105388641357; Correct Ones:0.912806510925293
+epoch 466   loss : 0.4596858620643616    accuracy : 0.9344146847724915
+-----Num Corr 0: 649; Num Corr 1: 676
+Correct Zeros:0.9488304257392883; Correct Ones:0.9209809303283691
+epoch 467   loss : 0.46617138385772705   accuracy : 0.9301833510398865
+-----Num Corr 0: 646; Num Corr 1: 673
+Correct Zeros:0.944444477558136; Correct Ones:0.916893720626831
+epoch 468   loss : 0.4329807162284851    accuracy : 0.929478108882904
+-----Num Corr 0: 650; Num Corr 1: 668
+Correct Zeros:0.9502924084663391; Correct Ones:0.9100817441940308
+epoch 469   loss : 0.4797607958316803    accuracy : 0.9301833510398865
+-----Num Corr 0: 650; Num Corr 1: 669
+Correct Zeros:0.9502924084663391; Correct Ones:0.9114441275596619
+epoch 470   loss : 0.4793282151222229    accuracy : 0.9351198673248291
+-----Num Corr 0: 647; Num Corr 1: 679
+Correct Zeros:0.9459064602851868; Correct Ones:0.9250680804252625
+epoch 471   loss : 0.5035744905471802    accuracy : 0.928067684173584
+-----Num Corr 0: 643; Num Corr 1: 673
+Correct Zeros:0.9400584697723389; Correct Ones:0.916893720626831
+epoch 472   loss : 0.46831443905830383   accuracy : 0.9315937757492065
+-----Num Corr 0: 651; Num Corr 1: 670
+Correct Zeros:0.9517543911933899; Correct Ones:0.912806510925293
+epoch 473   loss : 0.46184241771698  accuracy : 0.9146685600280762
+-----Num Corr 0: 637; Num Corr 1: 660
+Correct Zeros:0.9312865734100342; Correct Ones:0.8991825580596924
+epoch 474   loss : 0.4848962426185608    accuracy : 0.9252468347549438
+-----Num Corr 0: 651; Num Corr 1: 661
+Correct Zeros:0.9517543911933899; Correct Ones:0.9005449414253235
+epoch 475   loss : 0.4816877543926239    accuracy : 0.929478108882904
+-----Num Corr 0: 646; Num Corr 1: 672
+Correct Zeros:0.944444477558136; Correct Ones:0.9155313372612
+epoch 476   loss : 0.4934558868408203    accuracy : 0.932299017906189
+-----Num Corr 0: 649; Num Corr 1: 673
+Correct Zeros:0.9488304257392883; Correct Ones:0.916893720626831
+epoch 477   loss : 0.4623261094093323    accuracy : 0.9259520173072815
+-----Num Corr 0: 641; Num Corr 1: 672
+Correct Zeros:0.9371345043182373; Correct Ones:0.9155313372612
+epoch 478   loss : 0.4645557105541229    accuracy : 0.9301833510398865
+-----Num Corr 0: 651; Num Corr 1: 668
+Correct Zeros:0.9517543911933899; Correct Ones:0.9100817441940308
+epoch 479   loss : 0.49161630868911743   accuracy : 0.9414668679237366
+-----Num Corr 0: 659; Num Corr 1: 676
+Correct Zeros:0.9634503126144409; Correct Ones:0.9209809303283691
+epoch 480   loss : 0.4633268415927887    accuracy : 0.9252468347549438
+-----Num Corr 0: 645; Num Corr 1: 667
+Correct Zeros:0.9429824352264404; Correct Ones:0.9087193608283997
+epoch 481   loss : 0.4622551202774048    accuracy : 0.9351198673248291
+-----Num Corr 0: 650; Num Corr 1: 676
+Correct Zeros:0.9502924084663391; Correct Ones:0.9209809303283691
+epoch 482   loss : 0.4555927515029907    accuracy : 0.9421720504760742
+-----Num Corr 0: 660; Num Corr 1: 676
+Correct Zeros:0.9649122953414917; Correct Ones:0.9209809303283691
+epoch 483   loss : 0.4636419415473938    accuracy : 0.932299017906189
+-----Num Corr 0: 655; Num Corr 1: 667
+Correct Zeros:0.957602322101593; Correct Ones:0.9087193608283997
+epoch 484   loss : 0.4869852066040039    accuracy : 0.9224259257316589
+-----Num Corr 0: 648; Num Corr 1: 660
+Correct Zeros:0.9473684430122375; Correct Ones:0.8991825580596924
+epoch 485   loss : 0.4980924725532532    accuracy : 0.9273625016212463
+-----Num Corr 0: 651; Num Corr 1: 664
+Correct Zeros:0.9517543911933899; Correct Ones:0.9046321511268616
+epoch 486   loss : 0.4494594633579254    accuracy : 0.9330042600631714
+-----Num Corr 0: 656; Num Corr 1: 667
+Correct Zeros:0.9590643644332886; Correct Ones:0.9087193608283997
+epoch 487   loss : 0.4787047803401947    accuracy : 0.932299017906189
+-----Num Corr 0: 651; Num Corr 1: 671
+Correct Zeros:0.9517543911933899; Correct Ones:0.9141689538955688
+epoch 488   loss : 0.44680753350257874   accuracy : 0.9308885931968689
+-----Num Corr 0: 644; Num Corr 1: 676
+Correct Zeros:0.9415204524993896; Correct Ones:0.9209809303283691
+epoch 489   loss : 0.5027598142623901    accuracy : 0.928067684173584
+-----Num Corr 0: 648; Num Corr 1: 668
+Correct Zeros:0.9473684430122375; Correct Ones:0.9100817441940308
+epoch 490   loss : 0.4639960825443268    accuracy : 0.9308885931968689
+-----Num Corr 0: 645; Num Corr 1: 675
+Correct Zeros:0.9429824352264404; Correct Ones:0.9196184873580933
+epoch 491   loss : 0.4902127981185913    accuracy : 0.9330042600631714
+-----Num Corr 0: 654; Num Corr 1: 669
+Correct Zeros:0.9561403393745422; Correct Ones:0.9114441275596619
+epoch 492   loss : 0.4702480137348175    accuracy : 0.9301833510398865
+-----Num Corr 0: 645; Num Corr 1: 674
+Correct Zeros:0.9429824352264404; Correct Ones:0.9182561039924622
+epoch 493   loss : 0.43895894289016724   accuracy : 0.9358251094818115
+-----Num Corr 0: 659; Num Corr 1: 668
+Correct Zeros:0.9634503126144409; Correct Ones:0.9100817441940308
+epoch 494   loss : 0.49481794238090515   accuracy : 0.9351198673248291
+-----Num Corr 0: 654; Num Corr 1: 672
+Correct Zeros:0.9561403393745422; Correct Ones:0.9155313372612
+epoch 495   loss : 0.47784093022346497   accuracy : 0.9330042600631714
+-----Num Corr 0: 652; Num Corr 1: 671
+Correct Zeros:0.9532163739204407; Correct Ones:0.9141689538955688
+epoch 496   loss : 0.4818122386932373    accuracy : 0.9344146847724915
+-----Num Corr 0: 652; Num Corr 1: 673
+Correct Zeros:0.9532163739204407; Correct Ones:0.916893720626831
+epoch 497   loss : 0.4870714545249939    accuracy : 0.929478108882904
+-----Num Corr 0: 648; Num Corr 1: 670
+Correct Zeros:0.9473684430122375; Correct Ones:0.912806510925293
+epoch 498   loss : 0.45693838596343994   accuracy : 0.9315937757492065
+-----Num Corr 0: 658; Num Corr 1: 663
+Correct Zeros:0.9619883298873901; Correct Ones:0.9032697677612305
+epoch 499   loss : 0.4571567177772522    accuracy : 0.9315937757492065
+-----Num Corr 0: 643; Num Corr 1: 678
+Correct Zeros:0.9400584697723389; Correct Ones:0.9237056970596313
+epoch 500   loss : 0.4514485001564026    accuracy : 0.9435825347900391
+-----Num Corr 0: 658; Num Corr 1: 680
+Correct Zeros:0.9619883298873901; Correct Ones:0.9264305233955383
+epoch 501   loss : 0.4730108380317688    accuracy : 0.9273625016212463
+-----Num Corr 0: 648; Num Corr 1: 667
+Correct Zeros:0.9473684430122375; Correct Ones:0.9087193608283997
+epoch 502   loss : 0.46619704365730286   accuracy : 0.936530351638794
+-----Num Corr 0: 653; Num Corr 1: 675
+Correct Zeros:0.9546783566474915; Correct Ones:0.9196184873580933
+epoch 503   loss : 0.48308852314949036   accuracy : 0.9372355341911316
+-----Num Corr 0: 662; Num Corr 1: 667
+Correct Zeros:0.9678362607955933; Correct Ones:0.9087193608283997
+epoch 504   loss : 0.44761714339256287   accuracy : 0.9308885931968689
+-----Num Corr 0: 641; Num Corr 1: 679
+Correct Zeros:0.9371345043182373; Correct Ones:0.9250680804252625
+epoch 505   loss : 0.45495083928108215   accuracy : 0.9308885931968689
+-----Num Corr 0: 651; Num Corr 1: 669
+Correct Zeros:0.9517543911933899; Correct Ones:0.9114441275596619
+epoch 506   loss : 0.45337748527526855   accuracy : 0.9308885931968689
+-----Num Corr 0: 641; Num Corr 1: 679
+Correct Zeros:0.9371345043182373; Correct Ones:0.9250680804252625
+epoch 507   loss : 0.4341219663619995    accuracy : 0.9358251094818115
+-----Num Corr 0: 655; Num Corr 1: 672
+Correct Zeros:0.957602322101593; Correct Ones:0.9155313372612
+epoch 508   loss : 0.44713521003723145   accuracy : 0.9407616257667542
+-----Num Corr 0: 658; Num Corr 1: 676
+Correct Zeros:0.9619883298873901; Correct Ones:0.9209809303283691
+epoch 509   loss : 0.44270947575569153   accuracy : 0.9400564432144165
+-----Num Corr 0: 655; Num Corr 1: 678
+Correct Zeros:0.957602322101593; Correct Ones:0.9237056970596313
+epoch 510   loss : 0.4787675142288208    accuracy : 0.9386459589004517
+-----Num Corr 0: 655; Num Corr 1: 676
+Correct Zeros:0.957602322101593; Correct Ones:0.9209809303283691
+epoch 511   loss : 0.4249773621559143    accuracy : 0.9330042600631714
+-----Num Corr 0: 653; Num Corr 1: 670
+Correct Zeros:0.9546783566474915; Correct Ones:0.912806510925293
+epoch 512   loss : 0.5085086226463318    accuracy : 0.9386459589004517
+-----Num Corr 0: 654; Num Corr 1: 677
+Correct Zeros:0.9561403393745422; Correct Ones:0.9223433136940002
+epoch 513   loss : 0.47569161653518677   accuracy : 0.9449929594993591
+-----Num Corr 0: 659; Num Corr 1: 681
+Correct Zeros:0.9634503126144409; Correct Ones:0.9277929067611694
+epoch 514   loss : 0.4623345136642456    accuracy : 0.9428772926330566
+-----Num Corr 0: 657; Num Corr 1: 680
+Correct Zeros:0.9605263471603394; Correct Ones:0.9264305233955383
+epoch 515   loss : 0.4662327170372009    accuracy : 0.936530351638794
+-----Num Corr 0: 651; Num Corr 1: 677
+Correct Zeros:0.9517543911933899; Correct Ones:0.9223433136940002
+epoch 516   loss : 0.4669649004936218    accuracy : 0.9315937757492065
+-----Num Corr 0: 648; Num Corr 1: 673
+Correct Zeros:0.9473684430122375; Correct Ones:0.916893720626831
+epoch 517   loss : 0.45023053884506226   accuracy : 0.933709442615509
+-----Num Corr 0: 646; Num Corr 1: 678
+Correct Zeros:0.944444477558136; Correct Ones:0.9237056970596313
+epoch 518   loss : 0.43337482213974  accuracy : 0.9358251094818115
+-----Num Corr 0: 653; Num Corr 1: 674
+Correct Zeros:0.9546783566474915; Correct Ones:0.9182561039924622
+epoch 519   loss : 0.44896531105041504   accuracy : 0.9485190510749817
+-----Num Corr 0: 660; Num Corr 1: 685
+Correct Zeros:0.9649122953414917; Correct Ones:0.9332424998283386
+epoch 520   loss : 0.4462115466594696    accuracy : 0.9414668679237366
+-----Num Corr 0: 658; Num Corr 1: 677
+Correct Zeros:0.9619883298873901; Correct Ones:0.9223433136940002
+epoch 521   loss : 0.432184100151062     accuracy : 0.9449929594993591
+-----Num Corr 0: 660; Num Corr 1: 680
+Correct Zeros:0.9649122953414917; Correct Ones:0.9264305233955383
+epoch 522   loss : 0.4338224232196808    accuracy : 0.9358251094818115
+-----Num Corr 0: 655; Num Corr 1: 672
+Correct Zeros:0.957602322101593; Correct Ones:0.9155313372612
+epoch 523   loss : 0.4350491762161255    accuracy : 0.9344146847724915
+-----Num Corr 0: 649; Num Corr 1: 676
+Correct Zeros:0.9488304257392883; Correct Ones:0.9209809303283691
+epoch 524   loss : 0.4511130154132843    accuracy : 0.9393512010574341
+-----Num Corr 0: 656; Num Corr 1: 676
+Correct Zeros:0.9590643644332886; Correct Ones:0.9209809303283691
+epoch 525   loss : 0.4771980047225952    accuracy : 0.9386459589004517
+-----Num Corr 0: 652; Num Corr 1: 679
+Correct Zeros:0.9532163739204407; Correct Ones:0.9250680804252625
+epoch 526   loss : 0.46146759390830994   accuracy : 0.9435825347900391
+-----Num Corr 0: 665; Num Corr 1: 673
+Correct Zeros:0.9722222089767456; Correct Ones:0.916893720626831
+epoch 527   loss : 0.42699959874153137   accuracy : 0.9393512010574341
+-----Num Corr 0: 656; Num Corr 1: 676
+Correct Zeros:0.9590643644332886; Correct Ones:0.9209809303283691
+epoch 528   loss : 0.4485640227794647    accuracy : 0.9358251094818115
+-----Num Corr 0: 650; Num Corr 1: 677
+Correct Zeros:0.9502924084663391; Correct Ones:0.9223433136940002
+epoch 529   loss : 0.46504098176956177   accuracy : 0.9308885931968689
+-----Num Corr 0: 649; Num Corr 1: 671
+Correct Zeros:0.9488304257392883; Correct Ones:0.9141689538955688
+epoch 530   loss : 0.45855650305747986   accuracy : 0.9344146847724915
+-----Num Corr 0: 652; Num Corr 1: 673
+Correct Zeros:0.9532163739204407; Correct Ones:0.916893720626831
+epoch 531   loss : 0.45122936367988586   accuracy : 0.9464033842086792
+-----Num Corr 0: 659; Num Corr 1: 683
+Correct Zeros:0.9634503126144409; Correct Ones:0.9305176734924316
+epoch 532   loss : 0.5080391764640808    accuracy : 0.9464033842086792
+-----Num Corr 0: 659; Num Corr 1: 683
+Correct Zeros:0.9634503126144409; Correct Ones:0.9305176734924316
+epoch 533   loss : 0.4212324321269989    accuracy : 0.9414668679237366
+-----Num Corr 0: 659; Num Corr 1: 676
+Correct Zeros:0.9634503126144409; Correct Ones:0.9209809303283691
+epoch 534   loss : 0.38483601808547974   accuracy : 0.9400564432144165
+-----Num Corr 0: 655; Num Corr 1: 678
+Correct Zeros:0.957602322101593; Correct Ones:0.9237056970596313
+epoch 535   loss : 0.43046993017196655   accuracy : 0.9351198673248291
+-----Num Corr 0: 652; Num Corr 1: 674
+Correct Zeros:0.9532163739204407; Correct Ones:0.9182561039924622
+epoch 536   loss : 0.45348307490348816   accuracy : 0.9421720504760742
+-----Num Corr 0: 655; Num Corr 1: 681
+Correct Zeros:0.957602322101593; Correct Ones:0.9277929067611694
+epoch 537   loss : 0.41902339458465576   accuracy : 0.936530351638794
+-----Num Corr 0: 657; Num Corr 1: 671
+Correct Zeros:0.9605263471603394; Correct Ones:0.9141689538955688
+epoch 538   loss : 0.42882657051086426   accuracy : 0.9464033842086792
+-----Num Corr 0: 667; Num Corr 1: 675
+Correct Zeros:0.9751462340354919; Correct Ones:0.9196184873580933
+epoch 539   loss : 0.4468756318092346    accuracy : 0.9386459589004517
+-----Num Corr 0: 661; Num Corr 1: 670
+Correct Zeros:0.9663742780685425; Correct Ones:0.912806510925293
+epoch 540   loss : 0.4194274842739105    accuracy : 0.9449929594993591
+-----Num Corr 0: 658; Num Corr 1: 682
+Correct Zeros:0.9619883298873901; Correct Ones:0.9291552901268005
+epoch 541   loss : 0.44605234265327454   accuracy : 0.9400564432144165
+-----Num Corr 0: 657; Num Corr 1: 676
+Correct Zeros:0.9605263471603394; Correct Ones:0.9209809303283691
+epoch 542   loss : 0.45421573519706726   accuracy : 0.9449929594993591
+-----Num Corr 0: 662; Num Corr 1: 678
+Correct Zeros:0.9678362607955933; Correct Ones:0.9237056970596313
+epoch 543   loss : 0.46646472811698914   accuracy : 0.9464033842086792
+-----Num Corr 0: 657; Num Corr 1: 685
+Correct Zeros:0.9605263471603394; Correct Ones:0.9332424998283386
+epoch 544   loss : 0.413612961769104     accuracy : 0.937940776348114
+-----Num Corr 0: 659; Num Corr 1: 671
+Correct Zeros:0.9634503126144409; Correct Ones:0.9141689538955688
+epoch 545   loss : 0.42299553751945496   accuracy : 0.9485190510749817
+-----Num Corr 0: 663; Num Corr 1: 682
+Correct Zeros:0.969298243522644; Correct Ones:0.9291552901268005
+epoch 546   loss : 0.40513768792152405   accuracy : 0.936530351638794
+-----Num Corr 0: 659; Num Corr 1: 669
+Correct Zeros:0.9634503126144409; Correct Ones:0.9114441275596619
+epoch 547   loss : 0.4324190616607666    accuracy : 0.9386459589004517
+-----Num Corr 0: 655; Num Corr 1: 676
+Correct Zeros:0.957602322101593; Correct Ones:0.9209809303283691
+epoch 548   loss : 0.4092389643192291    accuracy : 0.9442877173423767
+-----Num Corr 0: 658; Num Corr 1: 681
+Correct Zeros:0.9619883298873901; Correct Ones:0.9277929067611694
+epoch 549   loss : 0.40558531880378723   accuracy : 0.936530351638794
+-----Num Corr 0: 653; Num Corr 1: 675
+Correct Zeros:0.9546783566474915; Correct Ones:0.9196184873580933
+epoch 550   loss : 0.43644824624061584   accuracy : 0.9421720504760742
+-----Num Corr 0: 655; Num Corr 1: 681
+Correct Zeros:0.957602322101593; Correct Ones:0.9277929067611694
+epoch 551   loss : 0.4106150269508362    accuracy : 0.9456981420516968
+-----Num Corr 0: 669; Num Corr 1: 672
+Correct Zeros:0.9780701994895935; Correct Ones:0.9155313372612
+epoch 552   loss : 0.4437437355518341    accuracy : 0.9421720504760742
+-----Num Corr 0: 657; Num Corr 1: 679
+Correct Zeros:0.9605263471603394; Correct Ones:0.9250680804252625
+epoch 553   loss : 0.43505358695983887   accuracy : 0.9414668679237366
+-----Num Corr 0: 660; Num Corr 1: 675
+Correct Zeros:0.9649122953414917; Correct Ones:0.9196184873580933
+epoch 554   loss : 0.3951524794101715    accuracy : 0.9456981420516968
+-----Num Corr 0: 665; Num Corr 1: 676
+Correct Zeros:0.9722222089767456; Correct Ones:0.9209809303283691
+epoch 555   loss : 0.41137129068374634   accuracy : 0.9471086263656616
+-----Num Corr 0: 662; Num Corr 1: 681
+Correct Zeros:0.9678362607955933; Correct Ones:0.9277929067611694
+epoch 556   loss : 0.4301508069038391    accuracy : 0.9435825347900391
+-----Num Corr 0: 663; Num Corr 1: 675
+Correct Zeros:0.969298243522644; Correct Ones:0.9196184873580933
+epoch 557   loss : 0.4185817241668701    accuracy : 0.9478138089179993
+-----Num Corr 0: 666; Num Corr 1: 678
+Correct Zeros:0.9736841917037964; Correct Ones:0.9237056970596313
+epoch 558   loss : 0.4213450849056244    accuracy : 0.9485190510749817
+-----Num Corr 0: 664; Num Corr 1: 681
+Correct Zeros:0.9707602262496948; Correct Ones:0.9277929067611694
+epoch 559   loss : 0.38139647245407104   accuracy : 0.9456981420516968
+-----Num Corr 0: 657; Num Corr 1: 684
+Correct Zeros:0.9605263471603394; Correct Ones:0.9318801164627075
+epoch 560   loss : 0.44384637475013733   accuracy : 0.9428772926330566
+-----Num Corr 0: 656; Num Corr 1: 681
+Correct Zeros:0.9590643644332886; Correct Ones:0.9277929067611694
+epoch 561   loss : 0.4361374080181122    accuracy : 0.9435825347900391
+-----Num Corr 0: 655; Num Corr 1: 683
+Correct Zeros:0.957602322101593; Correct Ones:0.9305176734924316
+epoch 562   loss : 0.36531636118888855   accuracy : 0.9478138089179993
+-----Num Corr 0: 655; Num Corr 1: 689
+Correct Zeros:0.957602322101593; Correct Ones:0.9386920928955078
+epoch 563   loss : 0.43114373087882996   accuracy : 0.9442877173423767
+-----Num Corr 0: 664; Num Corr 1: 675
+Correct Zeros:0.9707602262496948; Correct Ones:0.9196184873580933
+epoch 564   loss : 0.4076887369155884    accuracy : 0.9407616257667542
+-----Num Corr 0: 653; Num Corr 1: 681
+Correct Zeros:0.9546783566474915; Correct Ones:0.9277929067611694
+epoch 565   loss : 0.44069594144821167   accuracy : 0.936530351638794
+-----Num Corr 0: 653; Num Corr 1: 675
+Correct Zeros:0.9546783566474915; Correct Ones:0.9196184873580933
+epoch 566   loss : 0.4013963043689728    accuracy : 0.9464033842086792
+-----Num Corr 0: 662; Num Corr 1: 680
+Correct Zeros:0.9678362607955933; Correct Ones:0.9264305233955383
+epoch 567   loss : 0.37573665380477905   accuracy : 0.9435825347900391
+-----Num Corr 0: 654; Num Corr 1: 684
+Correct Zeros:0.9561403393745422; Correct Ones:0.9318801164627075
+epoch 568   loss : 0.38940128684043884   accuracy : 0.9442877173423767
+-----Num Corr 0: 659; Num Corr 1: 680
+Correct Zeros:0.9634503126144409; Correct Ones:0.9264305233955383
+epoch 569   loss : 0.42477524280548096   accuracy : 0.9464033842086792
+-----Num Corr 0: 658; Num Corr 1: 684
+Correct Zeros:0.9619883298873901; Correct Ones:0.9318801164627075
+epoch 570   loss : 0.41136252880096436   accuracy : 0.9421720504760742
+-----Num Corr 0: 664; Num Corr 1: 672
+Correct Zeros:0.9707602262496948; Correct Ones:0.9155313372612
+epoch 571   loss : 0.43802106380462646   accuracy : 0.9414668679237366
+-----Num Corr 0: 655; Num Corr 1: 680
+Correct Zeros:0.957602322101593; Correct Ones:0.9264305233955383
+epoch 572   loss : 0.3673831820487976    accuracy : 0.9464033842086792
+-----Num Corr 0: 663; Num Corr 1: 679
+Correct Zeros:0.969298243522644; Correct Ones:0.9250680804252625
+epoch 573   loss : 0.42929908633232117   accuracy : 0.9435825347900391
+-----Num Corr 0: 659; Num Corr 1: 679
+Correct Zeros:0.9634503126144409; Correct Ones:0.9250680804252625
+epoch 574   loss : 0.39109477400779724   accuracy : 0.9358251094818115
+-----Num Corr 0: 660; Num Corr 1: 667
+Correct Zeros:0.9649122953414917; Correct Ones:0.9087193608283997
+epoch 575   loss : 0.4252626299858093    accuracy : 0.9464033842086792
+-----Num Corr 0: 660; Num Corr 1: 682
+Correct Zeros:0.9649122953414917; Correct Ones:0.9291552901268005
+epoch 576   loss : 0.44211268424987793   accuracy : 0.9435825347900391
+-----Num Corr 0: 660; Num Corr 1: 678
+Correct Zeros:0.9649122953414917; Correct Ones:0.9237056970596313
+epoch 577   loss : 0.4356682300567627    accuracy : 0.9513399004936218
+-----Num Corr 0: 662; Num Corr 1: 687
+Correct Zeros:0.9678362607955933; Correct Ones:0.9359672665596008
+epoch 578   loss : 0.41966044902801514   accuracy : 0.9449929594993591
+-----Num Corr 0: 658; Num Corr 1: 682
+Correct Zeros:0.9619883298873901; Correct Ones:0.9291552901268005
+epoch 579   loss : 0.381277859210968     accuracy : 0.9442877173423767
+-----Num Corr 0: 655; Num Corr 1: 684
+Correct Zeros:0.957602322101593; Correct Ones:0.9318801164627075
+epoch 580   loss : 0.3634691536426544    accuracy : 0.9421720504760742
+-----Num Corr 0: 658; Num Corr 1: 678
+Correct Zeros:0.9619883298873901; Correct Ones:0.9237056970596313
+epoch 581   loss : 0.40392425656318665   accuracy : 0.9464033842086792
+-----Num Corr 0: 656; Num Corr 1: 686
+Correct Zeros:0.9590643644332886; Correct Ones:0.9346048831939697
+epoch 582   loss : 0.377448707818985     accuracy : 0.9506347179412842
+-----Num Corr 0: 665; Num Corr 1: 683
+Correct Zeros:0.9722222089767456; Correct Ones:0.9305176734924316
+epoch 583   loss : 0.3925773501396179    accuracy : 0.9471086263656616
+-----Num Corr 0: 667; Num Corr 1: 676
+Correct Zeros:0.9751462340354919; Correct Ones:0.9209809303283691
+epoch 584   loss : 0.4259912967681885    accuracy : 0.9456981420516968
+-----Num Corr 0: 661; Num Corr 1: 680
+Correct Zeros:0.9663742780685425; Correct Ones:0.9264305233955383
+epoch 585   loss : 0.42931005358695984   accuracy : 0.9541608095169067
+-----Num Corr 0: 664; Num Corr 1: 689
+Correct Zeros:0.9707602262496948; Correct Ones:0.9386920928955078
+epoch 586   loss : 0.39932435750961304   accuracy : 0.9428772926330566
+-----Num Corr 0: 662; Num Corr 1: 675
+Correct Zeros:0.9678362607955933; Correct Ones:0.9196184873580933
+epoch 587   loss : 0.47687336802482605   accuracy : 0.9520451426506042
+-----Num Corr 0: 666; Num Corr 1: 684
+Correct Zeros:0.9736841917037964; Correct Ones:0.9318801164627075
+epoch 588   loss : 0.3555426299571991    accuracy : 0.9400564432144165
+-----Num Corr 0: 656; Num Corr 1: 677
+Correct Zeros:0.9590643644332886; Correct Ones:0.9223433136940002
+epoch 589   loss : 0.41668668389320374   accuracy : 0.9499294757843018
+-----Num Corr 0: 665; Num Corr 1: 682
+Correct Zeros:0.9722222089767456; Correct Ones:0.9291552901268005
+epoch 590   loss : 0.36793068051338196   accuracy : 0.9464033842086792
+-----Num Corr 0: 664; Num Corr 1: 678
+Correct Zeros:0.9707602262496948; Correct Ones:0.9237056970596313
+epoch 591   loss : 0.41952213644981384   accuracy : 0.9464033842086792
+-----Num Corr 0: 661; Num Corr 1: 681
+Correct Zeros:0.9663742780685425; Correct Ones:0.9277929067611694
+epoch 592   loss : 0.3875356912612915    accuracy : 0.9492242336273193
+-----Num Corr 0: 659; Num Corr 1: 687
+Correct Zeros:0.9634503126144409; Correct Ones:0.9359672665596008
+epoch 593   loss : 0.4084465503692627    accuracy : 0.9414668679237366
+-----Num Corr 0: 662; Num Corr 1: 673
+Correct Zeros:0.9678362607955933; Correct Ones:0.916893720626831
+epoch 594   loss : 0.3957212269306183    accuracy : 0.9456981420516968
+-----Num Corr 0: 660; Num Corr 1: 681
+Correct Zeros:0.9649122953414917; Correct Ones:0.9277929067611694
+epoch 595   loss : 0.41004130244255066   accuracy : 0.9485190510749817
+-----Num Corr 0: 669; Num Corr 1: 676
+Correct Zeros:0.9780701994895935; Correct Ones:0.9209809303283691
+epoch 596   loss : 0.4056437313556671    accuracy : 0.9400564432144165
+-----Num Corr 0: 659; Num Corr 1: 674
+Correct Zeros:0.9634503126144409; Correct Ones:0.9182561039924622
+epoch 597   loss : 0.40091681480407715   accuracy : 0.9471086263656616
+-----Num Corr 0: 665; Num Corr 1: 678
+Correct Zeros:0.9722222089767456; Correct Ones:0.9237056970596313
+epoch 598   loss : 0.3897891640663147    accuracy : 0.9464033842086792
+-----Num Corr 0: 666; Num Corr 1: 676
+Correct Zeros:0.9736841917037964; Correct Ones:0.9209809303283691
+epoch 599   loss : 0.39035674929618835   accuracy : 0.9414668679237366
+-----Num Corr 0: 654; Num Corr 1: 681
+Correct Zeros:0.9561403393745422; Correct Ones:0.9277929067611694
+epoch 600   loss : 0.39624467492103577   accuracy : 0.9428772926330566
+-----Num Corr 0: 662; Num Corr 1: 675
+Correct Zeros:0.9678362607955933; Correct Ones:0.9196184873580933
+epoch 601   loss : 0.41977211833000183   accuracy : 0.9478138089179993
+-----Num Corr 0: 660; Num Corr 1: 684
+Correct Zeros:0.9649122953414917; Correct Ones:0.9318801164627075
+epoch 602   loss : 0.4002227187156677    accuracy : 0.9527503252029419
+-----Num Corr 0: 667; Num Corr 1: 684
+Correct Zeros:0.9751462340354919; Correct Ones:0.9318801164627075
+epoch 603   loss : 0.44422706961631775   accuracy : 0.9471086263656616
+-----Num Corr 0: 663; Num Corr 1: 680
+Correct Zeros:0.969298243522644; Correct Ones:0.9264305233955383
+epoch 604   loss : 0.39292293787002563   accuracy : 0.9449929594993591
+-----Num Corr 0: 660; Num Corr 1: 680
+Correct Zeros:0.9649122953414917; Correct Ones:0.9264305233955383
+epoch 605   loss : 0.39038288593292236   accuracy : 0.9492242336273193
+-----Num Corr 0: 663; Num Corr 1: 683
+Correct Zeros:0.969298243522644; Correct Ones:0.9305176734924316
+epoch 606   loss : 0.38260766863822937   accuracy : 0.9492242336273193
+-----Num Corr 0: 659; Num Corr 1: 687
+Correct Zeros:0.9634503126144409; Correct Ones:0.9359672665596008
+epoch 607   loss : 0.4283323585987091    accuracy : 0.9520451426506042
+-----Num Corr 0: 667; Num Corr 1: 683
+Correct Zeros:0.9751462340354919; Correct Ones:0.9305176734924316
+epoch 608   loss : 0.4051660895347595    accuracy : 0.9492242336273193
+-----Num Corr 0: 655; Num Corr 1: 691
+Correct Zeros:0.957602322101593; Correct Ones:0.94141685962677
+epoch 609   loss : 0.4210653007030487    accuracy : 0.9541608095169067
+-----Num Corr 0: 671; Num Corr 1: 682
+Correct Zeros:0.9809941649436951; Correct Ones:0.9291552901268005
+epoch 610   loss : 0.3977465331554413    accuracy : 0.9562764167785645
+-----Num Corr 0: 669; Num Corr 1: 687
+Correct Zeros:0.9780701994895935; Correct Ones:0.9359672665596008
+epoch 611   loss : 0.41729408502578735   accuracy : 0.9506347179412842
+-----Num Corr 0: 667; Num Corr 1: 681
+Correct Zeros:0.9751462340354919; Correct Ones:0.9277929067611694
+epoch 612   loss : 0.4323938190937042    accuracy : 0.9407616257667542
+-----Num Corr 0: 659; Num Corr 1: 675
+Correct Zeros:0.9634503126144409; Correct Ones:0.9196184873580933
+epoch 613   loss : 0.3757292330265045    accuracy : 0.9464033842086792
+-----Num Corr 0: 664; Num Corr 1: 678
+Correct Zeros:0.9707602262496948; Correct Ones:0.9237056970596313
+epoch 614   loss : 0.38105103373527527   accuracy : 0.9541608095169067
+-----Num Corr 0: 665; Num Corr 1: 688
+Correct Zeros:0.9722222089767456; Correct Ones:0.9373297095298767
+epoch 615   loss : 0.36996057629585266   accuracy : 0.9506347179412842
+-----Num Corr 0: 662; Num Corr 1: 686
+Correct Zeros:0.9678362607955933; Correct Ones:0.9346048831939697
+epoch 616   loss : 0.3621702790260315    accuracy : 0.9576869010925293
+-----Num Corr 0: 671; Num Corr 1: 687
+Correct Zeros:0.9809941649436951; Correct Ones:0.9359672665596008
+epoch 617   loss : 0.41967254877090454   accuracy : 0.9456981420516968
+-----Num Corr 0: 660; Num Corr 1: 681
+Correct Zeros:0.9649122953414917; Correct Ones:0.9277929067611694
+epoch 618   loss : 0.3904182016849518    accuracy : 0.9569816589355469
+-----Num Corr 0: 668; Num Corr 1: 689
+Correct Zeros:0.9766082167625427; Correct Ones:0.9386920928955078
+epoch 619   loss : 0.3946389853954315    accuracy : 0.9492242336273193
+-----Num Corr 0: 672; Num Corr 1: 674
+Correct Zeros:0.9824561476707458; Correct Ones:0.9182561039924622
+epoch 620   loss : 0.34822314977645874   accuracy : 0.9548659920692444
+-----Num Corr 0: 670; Num Corr 1: 684
+Correct Zeros:0.9795321822166443; Correct Ones:0.9318801164627075
+epoch 621   loss : 0.3944147825241089    accuracy : 0.9428772926330566
+-----Num Corr 0: 663; Num Corr 1: 674
+Correct Zeros:0.969298243522644; Correct Ones:0.9182561039924622
+epoch 622   loss : 0.35325953364372253   accuracy : 0.9506347179412842
+-----Num Corr 0: 668; Num Corr 1: 680
+Correct Zeros:0.9766082167625427; Correct Ones:0.9264305233955383
+epoch 623   loss : 0.3589422404766083    accuracy : 0.9506347179412842
+-----Num Corr 0: 666; Num Corr 1: 682
+Correct Zeros:0.9736841917037964; Correct Ones:0.9291552901268005
+epoch 624   loss : 0.39960214495658875   accuracy : 0.9471086263656616
+-----Num Corr 0: 662; Num Corr 1: 681
+Correct Zeros:0.9678362607955933; Correct Ones:0.9277929067611694
+epoch 625   loss : 0.3932696580886841    accuracy : 0.9485190510749817
+-----Num Corr 0: 663; Num Corr 1: 682
+Correct Zeros:0.969298243522644; Correct Ones:0.9291552901268005
+epoch 626   loss : 0.34134459495544434   accuracy : 0.9506347179412842
+-----Num Corr 0: 669; Num Corr 1: 679
+Correct Zeros:0.9780701994895935; Correct Ones:0.9250680804252625
+epoch 627   loss : 0.40481680631637573   accuracy : 0.9492242336273193
+-----Num Corr 0: 662; Num Corr 1: 684
+Correct Zeros:0.9678362607955933; Correct Ones:0.9318801164627075
+epoch 628   loss : 0.42777734994888306   accuracy : 0.9485190510749817
+-----Num Corr 0: 660; Num Corr 1: 685
+Correct Zeros:0.9649122953414917; Correct Ones:0.9332424998283386
+epoch 629   loss : 0.3593814969062805    accuracy : 0.9414668679237366
+-----Num Corr 0: 664; Num Corr 1: 671
+Correct Zeros:0.9707602262496948; Correct Ones:0.9141689538955688
+epoch 630   loss : 0.3685983121395111    accuracy : 0.9506347179412842
+-----Num Corr 0: 665; Num Corr 1: 683
+Correct Zeros:0.9722222089767456; Correct Ones:0.9305176734924316
+epoch 631   loss : 0.3595791161060333    accuracy : 0.9534555673599243
+-----Num Corr 0: 667; Num Corr 1: 685
+Correct Zeros:0.9751462340354919; Correct Ones:0.9332424998283386
+epoch 632   loss : 0.34754669666290283   accuracy : 0.9485190510749817
+-----Num Corr 0: 668; Num Corr 1: 677
+Correct Zeros:0.9766082167625427; Correct Ones:0.9223433136940002
+epoch 633   loss : 0.3528364598751068    accuracy : 0.9506347179412842
+-----Num Corr 0: 663; Num Corr 1: 685
+Correct Zeros:0.969298243522644; Correct Ones:0.9332424998283386
+epoch 634   loss : 0.3134687840938568    accuracy : 0.9492242336273193
+-----Num Corr 0: 661; Num Corr 1: 685
+Correct Zeros:0.9663742780685425; Correct Ones:0.9332424998283386
+epoch 635   loss : 0.39329609274864197   accuracy : 0.9513399004936218
+-----Num Corr 0: 665; Num Corr 1: 684
+Correct Zeros:0.9722222089767456; Correct Ones:0.9318801164627075
+epoch 636   loss : 0.389424204826355     accuracy : 0.9471086263656616
+-----Num Corr 0: 661; Num Corr 1: 682
+Correct Zeros:0.9663742780685425; Correct Ones:0.9291552901268005
+epoch 637   loss : 0.38692545890808105   accuracy : 0.9485190510749817
+-----Num Corr 0: 666; Num Corr 1: 679
+Correct Zeros:0.9736841917037964; Correct Ones:0.9250680804252625
+epoch 638   loss : 0.41552072763442993   accuracy : 0.9506347179412842
+-----Num Corr 0: 660; Num Corr 1: 688
+Correct Zeros:0.9649122953414917; Correct Ones:0.9373297095298767
+epoch 639   loss : 0.395268976688385     accuracy : 0.9506347179412842
+-----Num Corr 0: 661; Num Corr 1: 687
+Correct Zeros:0.9663742780685425; Correct Ones:0.9359672665596008
+epoch 640   loss : 0.37173229455947876   accuracy : 0.9541608095169067
+-----Num Corr 0: 664; Num Corr 1: 689
+Correct Zeros:0.9707602262496948; Correct Ones:0.9386920928955078
+epoch 641   loss : 0.3688623309135437    accuracy : 0.9471086263656616
+-----Num Corr 0: 665; Num Corr 1: 678
+Correct Zeros:0.9722222089767456; Correct Ones:0.9237056970596313
+epoch 642   loss : 0.3818643391132355    accuracy : 0.9485190510749817
+-----Num Corr 0: 665; Num Corr 1: 680
+Correct Zeros:0.9722222089767456; Correct Ones:0.9264305233955383
+epoch 643   loss : 0.3032764196395874    accuracy : 0.9555712342262268
+-----Num Corr 0: 668; Num Corr 1: 687
+Correct Zeros:0.9766082167625427; Correct Ones:0.9359672665596008
+epoch 644   loss : 0.3622446358203888    accuracy : 0.9513399004936218
+-----Num Corr 0: 664; Num Corr 1: 685
+Correct Zeros:0.9707602262496948; Correct Ones:0.9332424998283386
+epoch 645   loss : 0.3638862669467926    accuracy : 0.9478138089179993
+-----Num Corr 0: 663; Num Corr 1: 681
+Correct Zeros:0.969298243522644; Correct Ones:0.9277929067611694
+epoch 646   loss : 0.3575449585914612    accuracy : 0.9527503252029419
+-----Num Corr 0: 666; Num Corr 1: 685
+Correct Zeros:0.9736841917037964; Correct Ones:0.9332424998283386
+epoch 647   loss : 0.42179542779922485   accuracy : 0.9583920836448669
+-----Num Corr 0: 671; Num Corr 1: 688
+Correct Zeros:0.9809941649436951; Correct Ones:0.9373297095298767
+epoch 648   loss : 0.357652485370636     accuracy : 0.9562764167785645
+-----Num Corr 0: 663; Num Corr 1: 693
+Correct Zeros:0.969298243522644; Correct Ones:0.944141685962677
+epoch 649   loss : 0.33265039324760437   accuracy : 0.9471086263656616
+-----Num Corr 0: 662; Num Corr 1: 681
+Correct Zeros:0.9678362607955933; Correct Ones:0.9277929067611694
+epoch 650   loss : 0.32421165704727173   accuracy : 0.9555712342262268
+-----Num Corr 0: 672; Num Corr 1: 683
+Correct Zeros:0.9824561476707458; Correct Ones:0.9305176734924316
+epoch 651   loss : 0.3543901741504669    accuracy : 0.9520451426506042
+-----Num Corr 0: 669; Num Corr 1: 681
+Correct Zeros:0.9780701994895935; Correct Ones:0.9277929067611694
+epoch 652   loss : 0.3564489483833313    accuracy : 0.9499294757843018
+-----Num Corr 0: 667; Num Corr 1: 680
+Correct Zeros:0.9751462340354919; Correct Ones:0.9264305233955383
+epoch 653   loss : 0.3285467028617859    accuracy : 0.9478138089179993
+-----Num Corr 0: 662; Num Corr 1: 682
+Correct Zeros:0.9678362607955933; Correct Ones:0.9291552901268005
+epoch 654   loss : 0.3375225067138672    accuracy : 0.9478138089179993
+-----Num Corr 0: 665; Num Corr 1: 679
+Correct Zeros:0.9722222089767456; Correct Ones:0.9250680804252625
+epoch 655   loss : 0.3704904615879059    accuracy : 0.9527503252029419
+-----Num Corr 0: 662; Num Corr 1: 689
+Correct Zeros:0.9678362607955933; Correct Ones:0.9386920928955078
+epoch 656   loss : 0.3846628963947296    accuracy : 0.9449929594993591
+-----Num Corr 0: 666; Num Corr 1: 674
+Correct Zeros:0.9736841917037964; Correct Ones:0.9182561039924622
+epoch 657   loss : 0.3630409836769104    accuracy : 0.9569816589355469
+-----Num Corr 0: 668; Num Corr 1: 689
+Correct Zeros:0.9766082167625427; Correct Ones:0.9386920928955078
+epoch 658   loss : 0.3413408100605011    accuracy : 0.9513399004936218
+-----Num Corr 0: 668; Num Corr 1: 681
+Correct Zeros:0.9766082167625427; Correct Ones:0.9277929067611694
+epoch 659   loss : 0.3527372181415558    accuracy : 0.9569816589355469
+-----Num Corr 0: 665; Num Corr 1: 692
+Correct Zeros:0.9722222089767456; Correct Ones:0.9427793025970459
+epoch 660   loss : 0.3814122974872589    accuracy : 0.9562764167785645
+-----Num Corr 0: 674; Num Corr 1: 682
+Correct Zeros:0.9853801131248474; Correct Ones:0.9291552901268005
+epoch 661   loss : 0.37436699867248535   accuracy : 0.9478138089179993
+-----Num Corr 0: 662; Num Corr 1: 682
+Correct Zeros:0.9678362607955933; Correct Ones:0.9291552901268005
+epoch 662   loss : 0.39349618554115295   accuracy : 0.9506347179412842
+-----Num Corr 0: 668; Num Corr 1: 680
+Correct Zeros:0.9766082167625427; Correct Ones:0.9264305233955383
+epoch 663   loss : 0.3464309573173523    accuracy : 0.9576869010925293
+-----Num Corr 0: 666; Num Corr 1: 692
+Correct Zeros:0.9736841917037964; Correct Ones:0.9427793025970459
+epoch 664   loss : 0.35670071840286255   accuracy : 0.9576869010925293
+-----Num Corr 0: 672; Num Corr 1: 686
+Correct Zeros:0.9824561476707458; Correct Ones:0.9346048831939697
+epoch 665   loss : 0.3592767119407654    accuracy : 0.9583920836448669
+-----Num Corr 0: 671; Num Corr 1: 688
+Correct Zeros:0.9809941649436951; Correct Ones:0.9373297095298767
+epoch 666   loss : 0.37046125531196594   accuracy : 0.9478138089179993
+-----Num Corr 0: 661; Num Corr 1: 683
+Correct Zeros:0.9663742780685425; Correct Ones:0.9305176734924316
+epoch 667   loss : 0.32728850841522217   accuracy : 0.9590973258018494
+-----Num Corr 0: 671; Num Corr 1: 689
+Correct Zeros:0.9809941649436951; Correct Ones:0.9386920928955078
+epoch 668   loss : 0.3670993149280548    accuracy : 0.9527503252029419
+-----Num Corr 0: 666; Num Corr 1: 685
+Correct Zeros:0.9736841917037964; Correct Ones:0.9332424998283386
+epoch 669   loss : 0.37602698802948  accuracy : 0.9499294757843018
+-----Num Corr 0: 667; Num Corr 1: 680
+Correct Zeros:0.9751462340354919; Correct Ones:0.9264305233955383
+epoch 670   loss : 0.31907540559768677   accuracy : 0.9513399004936218
+-----Num Corr 0: 667; Num Corr 1: 682
+Correct Zeros:0.9751462340354919; Correct Ones:0.9291552901268005
+epoch 671   loss : 0.39995062351226807   accuracy : 0.9520451426506042
+-----Num Corr 0: 663; Num Corr 1: 687
+Correct Zeros:0.969298243522644; Correct Ones:0.9359672665596008
+epoch 672   loss : 0.3406570851802826    accuracy : 0.9562764167785645
+-----Num Corr 0: 668; Num Corr 1: 688
+Correct Zeros:0.9766082167625427; Correct Ones:0.9373297095298767
+epoch 673   loss : 0.3224788308143616    accuracy : 0.9569816589355469
+-----Num Corr 0: 669; Num Corr 1: 688
+Correct Zeros:0.9780701994895935; Correct Ones:0.9373297095298767
+epoch 674   loss : 0.3786587119102478    accuracy : 0.9506347179412842
+-----Num Corr 0: 665; Num Corr 1: 683
+Correct Zeros:0.9722222089767456; Correct Ones:0.9305176734924316
+epoch 675   loss : 0.3788219392299652    accuracy : 0.9562764167785645
+-----Num Corr 0: 669; Num Corr 1: 687
+Correct Zeros:0.9780701994895935; Correct Ones:0.9359672665596008
+epoch 676   loss : 0.3250097930431366    accuracy : 0.9534555673599243
+-----Num Corr 0: 668; Num Corr 1: 684
+Correct Zeros:0.9766082167625427; Correct Ones:0.9318801164627075
+epoch 677   loss : 0.33752501010894775   accuracy : 0.9569816589355469
+-----Num Corr 0: 670; Num Corr 1: 687
+Correct Zeros:0.9795321822166443; Correct Ones:0.9359672665596008
+epoch 678   loss : 0.3343052566051483    accuracy : 0.9499294757843018
+-----Num Corr 0: 670; Num Corr 1: 677
+Correct Zeros:0.9795321822166443; Correct Ones:0.9223433136940002
+epoch 679   loss : 0.3777391016483307    accuracy : 0.9569816589355469
+-----Num Corr 0: 670; Num Corr 1: 687
+Correct Zeros:0.9795321822166443; Correct Ones:0.9359672665596008
+epoch 680   loss : 0.3452205955982208    accuracy : 0.9562764167785645
+-----Num Corr 0: 670; Num Corr 1: 686
+Correct Zeros:0.9795321822166443; Correct Ones:0.9346048831939697
+epoch 681   loss : 0.31134894490242004   accuracy : 0.9576869010925293
+-----Num Corr 0: 668; Num Corr 1: 690
+Correct Zeros:0.9766082167625427; Correct Ones:0.9400544762611389
+epoch 682   loss : 0.3409874439239502    accuracy : 0.9471086263656616
+-----Num Corr 0: 667; Num Corr 1: 676
+Correct Zeros:0.9751462340354919; Correct Ones:0.9209809303283691
+epoch 683   loss : 0.3519188165664673    accuracy : 0.9583920836448669
+-----Num Corr 0: 668; Num Corr 1: 691
+Correct Zeros:0.9766082167625427; Correct Ones:0.94141685962677
+epoch 684   loss : 0.3282548487186432    accuracy : 0.9562764167785645
+-----Num Corr 0: 670; Num Corr 1: 686
+Correct Zeros:0.9795321822166443; Correct Ones:0.9346048831939697
+epoch 685   loss : 0.3957212269306183    accuracy : 0.9534555673599243
+-----Num Corr 0: 670; Num Corr 1: 682
+Correct Zeros:0.9795321822166443; Correct Ones:0.9291552901268005
+epoch 686   loss : 0.33116182684898376   accuracy : 0.9499294757843018
+-----Num Corr 0: 662; Num Corr 1: 685
+Correct Zeros:0.9678362607955933; Correct Ones:0.9332424998283386
+epoch 687   loss : 0.3396240174770355    accuracy : 0.9562764167785645
+-----Num Corr 0: 663; Num Corr 1: 693
+Correct Zeros:0.969298243522644; Correct Ones:0.944141685962677
+epoch 688   loss : 0.34565237164497375   accuracy : 0.9478138089179993
+-----Num Corr 0: 666; Num Corr 1: 678
+Correct Zeros:0.9736841917037964; Correct Ones:0.9237056970596313
+epoch 689   loss : 0.3642660677433014    accuracy : 0.9492242336273193
+-----Num Corr 0: 664; Num Corr 1: 682
+Correct Zeros:0.9707602262496948; Correct Ones:0.9291552901268005
+epoch 690   loss : 0.34471210837364197   accuracy : 0.9534555673599243
+-----Num Corr 0: 664; Num Corr 1: 688
+Correct Zeros:0.9707602262496948; Correct Ones:0.9373297095298767
+epoch 691   loss : 0.3658818006515503    accuracy : 0.9555712342262268
+-----Num Corr 0: 670; Num Corr 1: 685
+Correct Zeros:0.9795321822166443; Correct Ones:0.9332424998283386
+epoch 692   loss : 0.32717806100845337   accuracy : 0.9612129926681519
+-----Num Corr 0: 677; Num Corr 1: 686
+Correct Zeros:0.9897660613059998; Correct Ones:0.9346048831939697
+epoch 693   loss : 0.3421996831893921    accuracy : 0.9548659920692444
+-----Num Corr 0: 668; Num Corr 1: 686
+Correct Zeros:0.9766082167625427; Correct Ones:0.9346048831939697
+epoch 694   loss : 0.3282528221607208    accuracy : 0.9576869010925293
+-----Num Corr 0: 672; Num Corr 1: 686
+Correct Zeros:0.9824561476707458; Correct Ones:0.9346048831939697
+epoch 695   loss : 0.36999309062957764   accuracy : 0.9541608095169067
+-----Num Corr 0: 668; Num Corr 1: 685
+Correct Zeros:0.9766082167625427; Correct Ones:0.9332424998283386
+epoch 696   loss : 0.36100369691848755   accuracy : 0.9534555673599243
+-----Num Corr 0: 670; Num Corr 1: 682
+Correct Zeros:0.9795321822166443; Correct Ones:0.9291552901268005
+epoch 697   loss : 0.31553858518600464   accuracy : 0.9548659920692444
+-----Num Corr 0: 669; Num Corr 1: 685
+Correct Zeros:0.9780701994895935; Correct Ones:0.9332424998283386
+epoch 698   loss : 0.36073899269104004   accuracy : 0.9562764167785645
+-----Num Corr 0: 670; Num Corr 1: 686
+Correct Zeros:0.9795321822166443; Correct Ones:0.9346048831939697
+epoch 699   loss : 0.3542602062225342    accuracy : 0.9562764167785645
+-----Num Corr 0: 665; Num Corr 1: 691
+Correct Zeros:0.9722222089767456; Correct Ones:0.94141685962677
+epoch 700   loss : 0.3038733899593353    accuracy : 0.9576869010925293
+-----Num Corr 0: 671; Num Corr 1: 687
+Correct Zeros:0.9809941649436951; Correct Ones:0.9359672665596008
+epoch 701   loss : 0.31115248799324036   accuracy : 0.9576869010925293
+-----Num Corr 0: 672; Num Corr 1: 686
+Correct Zeros:0.9824561476707458; Correct Ones:0.9346048831939697
+epoch 702   loss : 0.3636684715747833    accuracy : 0.9590973258018494
+-----Num Corr 0: 668; Num Corr 1: 692
+Correct Zeros:0.9766082167625427; Correct Ones:0.9427793025970459
+epoch 703   loss : 0.320536345243454     accuracy : 0.9569816589355469
+-----Num Corr 0: 667; Num Corr 1: 690
+Correct Zeros:0.9751462340354919; Correct Ones:0.9400544762611389
+epoch 704   loss : 0.36670035123825073   accuracy : 0.9541608095169067
+-----Num Corr 0: 669; Num Corr 1: 684
+Correct Zeros:0.9780701994895935; Correct Ones:0.9318801164627075
+epoch 705   loss : 0.3220079839229584    accuracy : 0.9520451426506042
+-----Num Corr 0: 665; Num Corr 1: 685
+Correct Zeros:0.9722222089767456; Correct Ones:0.9332424998283386
+epoch 706   loss : 0.3538510799407959    accuracy : 0.9464033842086792
+-----Num Corr 0: 665; Num Corr 1: 677
+Correct Zeros:0.9722222089767456; Correct Ones:0.9223433136940002
+epoch 707   loss : 0.3258431851863861    accuracy : 0.9555712342262268
+-----Num Corr 0: 672; Num Corr 1: 683
+Correct Zeros:0.9824561476707458; Correct Ones:0.9305176734924316
+epoch 708   loss : 0.29854339361190796   accuracy : 0.9590973258018494
+-----Num Corr 0: 671; Num Corr 1: 689
+Correct Zeros:0.9809941649436951; Correct Ones:0.9386920928955078
+epoch 709   loss : 0.3758746385574341    accuracy : 0.9619181752204895
+-----Num Corr 0: 673; Num Corr 1: 691
+Correct Zeros:0.9839181303977966; Correct Ones:0.94141685962677
+epoch 710   loss : 0.3336999714374542    accuracy : 0.9598025679588318
+-----Num Corr 0: 672; Num Corr 1: 689
+Correct Zeros:0.9824561476707458; Correct Ones:0.9386920928955078
+epoch 711   loss : 0.30943015217781067   accuracy : 0.9541608095169067
+-----Num Corr 0: 672; Num Corr 1: 681
+Correct Zeros:0.9824561476707458; Correct Ones:0.9277929067611694
+epoch 712   loss : 0.29755401611328125   accuracy : 0.9534555673599243
+-----Num Corr 0: 667; Num Corr 1: 685
+Correct Zeros:0.9751462340354919; Correct Ones:0.9332424998283386
+epoch 713   loss : 0.3213934302330017    accuracy : 0.9569816589355469
+-----Num Corr 0: 671; Num Corr 1: 686
+Correct Zeros:0.9809941649436951; Correct Ones:0.9346048831939697
+epoch 714   loss : 0.34272122383117676   accuracy : 0.9569816589355469
+-----Num Corr 0: 671; Num Corr 1: 686
+Correct Zeros:0.9809941649436951; Correct Ones:0.9346048831939697
+epoch 715   loss : 0.39081496000289917   accuracy : 0.9562764167785645
+-----Num Corr 0: 670; Num Corr 1: 686
+Correct Zeros:0.9795321822166443; Correct Ones:0.9346048831939697
+epoch 716   loss : 0.35746389627456665   accuracy : 0.9590973258018494
+-----Num Corr 0: 674; Num Corr 1: 686
+Correct Zeros:0.9853801131248474; Correct Ones:0.9346048831939697
+epoch 717   loss : 0.37158846855163574   accuracy : 0.9598025679588318
+-----Num Corr 0: 672; Num Corr 1: 689
+Correct Zeros:0.9824561476707458; Correct Ones:0.9386920928955078
+epoch 718   loss : 0.317962110042572     accuracy : 0.9590973258018494
+-----Num Corr 0: 675; Num Corr 1: 685
+Correct Zeros:0.9868420958518982; Correct Ones:0.9332424998283386
+epoch 719   loss : 0.33036381006240845   accuracy : 0.9555712342262268
+-----Num Corr 0: 671; Num Corr 1: 684
+Correct Zeros:0.9809941649436951; Correct Ones:0.9318801164627075
+epoch 720   loss : 0.32688114047050476   accuracy : 0.9541608095169067
+-----Num Corr 0: 668; Num Corr 1: 685
+Correct Zeros:0.9766082167625427; Correct Ones:0.9332424998283386
+epoch 721   loss : 0.3519681990146637    accuracy : 0.9513399004936218
+-----Num Corr 0: 666; Num Corr 1: 683
+Correct Zeros:0.9736841917037964; Correct Ones:0.9305176734924316
+epoch 722   loss : 0.3278927206993103    accuracy : 0.9590973258018494
+-----Num Corr 0: 673; Num Corr 1: 687
+Correct Zeros:0.9839181303977966; Correct Ones:0.9359672665596008
+epoch 723   loss : 0.36869800090789795   accuracy : 0.9583920836448669
+-----Num Corr 0: 672; Num Corr 1: 687
+Correct Zeros:0.9824561476707458; Correct Ones:0.9359672665596008
+epoch 724   loss : 0.28959256410598755   accuracy : 0.9548659920692444
+-----Num Corr 0: 670; Num Corr 1: 684
+Correct Zeros:0.9795321822166443; Correct Ones:0.9318801164627075
+epoch 725   loss : 0.3335076570510864    accuracy : 0.9612129926681519
+-----Num Corr 0: 675; Num Corr 1: 688
+Correct Zeros:0.9868420958518982; Correct Ones:0.9373297095298767
+epoch 726   loss : 0.3593447506427765    accuracy : 0.9675599336624146
+-----Num Corr 0: 674; Num Corr 1: 698
+Correct Zeros:0.9853801131248474; Correct Ones:0.9509536623954773
+epoch 727   loss : 0.3157970905303955    accuracy : 0.9541608095169067
+-----Num Corr 0: 662; Num Corr 1: 691
+Correct Zeros:0.9678362607955933; Correct Ones:0.94141685962677
+epoch 728   loss : 0.3181512951850891    accuracy : 0.9499294757843018
+-----Num Corr 0: 669; Num Corr 1: 678
+Correct Zeros:0.9780701994895935; Correct Ones:0.9237056970596313
+epoch 729   loss : 0.3577922284603119    accuracy : 0.9492242336273193
+-----Num Corr 0: 668; Num Corr 1: 678
+Correct Zeros:0.9766082167625427; Correct Ones:0.9237056970596313
+epoch 730   loss : 0.3268091082572937    accuracy : 0.9612129926681519
+-----Num Corr 0: 672; Num Corr 1: 691
+Correct Zeros:0.9824561476707458; Correct Ones:0.94141685962677
+epoch 731   loss : 0.32852479815483093   accuracy : 0.9555712342262268
+-----Num Corr 0: 671; Num Corr 1: 684
+Correct Zeros:0.9809941649436951; Correct Ones:0.9318801164627075
+epoch 732   loss : 0.31414344906806946   accuracy : 0.9633286595344543
+-----Num Corr 0: 673; Num Corr 1: 693
+Correct Zeros:0.9839181303977966; Correct Ones:0.944141685962677
+epoch 733   loss : 0.35835424065589905   accuracy : 0.9548659920692444
+-----Num Corr 0: 664; Num Corr 1: 690
+Correct Zeros:0.9707602262496948; Correct Ones:0.9400544762611389
+epoch 734   loss : 0.3369434177875519    accuracy : 0.9513399004936218
+-----Num Corr 0: 670; Num Corr 1: 679
+Correct Zeros:0.9795321822166443; Correct Ones:0.9250680804252625
+epoch 735   loss : 0.2871103286743164    accuracy : 0.9534555673599243
+-----Num Corr 0: 669; Num Corr 1: 683
+Correct Zeros:0.9780701994895935; Correct Ones:0.9305176734924316
+epoch 736   loss : 0.296743243932724     accuracy : 0.9548659920692444
+-----Num Corr 0: 672; Num Corr 1: 682
+Correct Zeros:0.9824561476707458; Correct Ones:0.9291552901268005
+epoch 737   loss : 0.3119587302207947    accuracy : 0.9590973258018494
+-----Num Corr 0: 670; Num Corr 1: 690
+Correct Zeros:0.9795321822166443; Correct Ones:0.9400544762611389
+epoch 738   loss : 0.32610124349594116   accuracy : 0.9576869010925293
+-----Num Corr 0: 670; Num Corr 1: 688
+Correct Zeros:0.9795321822166443; Correct Ones:0.9373297095298767
+epoch 739   loss : 0.3852819502353668    accuracy : 0.9534555673599243
+-----Num Corr 0: 670; Num Corr 1: 682
+Correct Zeros:0.9795321822166443; Correct Ones:0.9291552901268005
+epoch 740   loss : 0.30196288228034973   accuracy : 0.9583920836448669
+-----Num Corr 0: 670; Num Corr 1: 689
+Correct Zeros:0.9795321822166443; Correct Ones:0.9386920928955078
+epoch 741   loss : 0.3450203239917755    accuracy : 0.9576869010925293
+-----Num Corr 0: 668; Num Corr 1: 690
+Correct Zeros:0.9766082167625427; Correct Ones:0.9400544762611389
+epoch 742   loss : 0.322469025850296     accuracy : 0.9590973258018494
+-----Num Corr 0: 670; Num Corr 1: 690
+Correct Zeros:0.9795321822166443; Correct Ones:0.9400544762611389
+epoch 743   loss : 0.29303908348083496   accuracy : 0.9562764167785645
+-----Num Corr 0: 669; Num Corr 1: 687
+Correct Zeros:0.9780701994895935; Correct Ones:0.9359672665596008
+epoch 744   loss : 0.3278108537197113    accuracy : 0.9541608095169067
+-----Num Corr 0: 666; Num Corr 1: 687
+Correct Zeros:0.9736841917037964; Correct Ones:0.9359672665596008
+epoch 745   loss : 0.3298647701740265    accuracy : 0.9513399004936218
+-----Num Corr 0: 670; Num Corr 1: 679
+Correct Zeros:0.9795321822166443; Correct Ones:0.9250680804252625
+epoch 746   loss : 0.32907846570014954   accuracy : 0.9598025679588318
+-----Num Corr 0: 671; Num Corr 1: 690
+Correct Zeros:0.9809941649436951; Correct Ones:0.9400544762611389
+epoch 747   loss : 0.29421794414520264   accuracy : 0.9590973258018494
+-----Num Corr 0: 674; Num Corr 1: 686
+Correct Zeros:0.9853801131248474; Correct Ones:0.9346048831939697
+epoch 748   loss : 0.3208106756210327    accuracy : 0.9619181752204895
+-----Num Corr 0: 670; Num Corr 1: 694
+Correct Zeros:0.9795321822166443; Correct Ones:0.9455040693283081
+epoch 749   loss : 0.2801312208175659    accuracy : 0.9520451426506042
+-----Num Corr 0: 664; Num Corr 1: 686
+Correct Zeros:0.9707602262496948; Correct Ones:0.9346048831939697
+epoch 750   loss : 0.29446491599082947   accuracy : 0.9548659920692444
+-----Num Corr 0: 668; Num Corr 1: 686
+Correct Zeros:0.9766082167625427; Correct Ones:0.9346048831939697
+epoch 751   loss : 0.3370572328567505    accuracy : 0.9562764167785645
+-----Num Corr 0: 670; Num Corr 1: 686
+Correct Zeros:0.9795321822166443; Correct Ones:0.9346048831939697
+epoch 752   loss : 0.2950185239315033    accuracy : 0.9590973258018494
+-----Num Corr 0: 673; Num Corr 1: 687
+Correct Zeros:0.9839181303977966; Correct Ones:0.9359672665596008
+epoch 753   loss : 0.32680782675743103   accuracy : 0.9562764167785645
+-----Num Corr 0: 668; Num Corr 1: 688
+Correct Zeros:0.9766082167625427; Correct Ones:0.9373297095298767
+epoch 754   loss : 0.32761210203170776   accuracy : 0.9569816589355469
+-----Num Corr 0: 673; Num Corr 1: 684
+Correct Zeros:0.9839181303977966; Correct Ones:0.9318801164627075
+epoch 755   loss : 0.326885461807251     accuracy : 0.9569816589355469
+-----Num Corr 0: 671; Num Corr 1: 686
+Correct Zeros:0.9809941649436951; Correct Ones:0.9346048831939697
+epoch 756   loss : 0.31756699085235596   accuracy : 0.9661495089530945
+-----Num Corr 0: 673; Num Corr 1: 697
+Correct Zeros:0.9839181303977966; Correct Ones:0.9495912790298462
+epoch 757   loss : 0.34562230110168457   accuracy : 0.9619181752204895
+-----Num Corr 0: 671; Num Corr 1: 693
+Correct Zeros:0.9809941649436951; Correct Ones:0.944141685962677
+epoch 758   loss : 0.32149598002433777   accuracy : 0.9527503252029419
+-----Num Corr 0: 669; Num Corr 1: 682
+Correct Zeros:0.9780701994895935; Correct Ones:0.9291552901268005
+epoch 759   loss : 0.31469428539276123   accuracy : 0.9576869010925293
+-----Num Corr 0: 667; Num Corr 1: 691
+Correct Zeros:0.9751462340354919; Correct Ones:0.94141685962677
+epoch 760   loss : 0.3106294572353363    accuracy : 0.9534555673599243
+-----Num Corr 0: 666; Num Corr 1: 686
+Correct Zeros:0.9736841917037964; Correct Ones:0.9346048831939697
+epoch 761   loss : 0.32459163665771484   accuracy : 0.9541608095169067
+-----Num Corr 0: 672; Num Corr 1: 681
+Correct Zeros:0.9824561476707458; Correct Ones:0.9277929067611694
+epoch 762   loss : 0.3222527801990509    accuracy : 0.9590973258018494
+-----Num Corr 0: 671; Num Corr 1: 689
+Correct Zeros:0.9809941649436951; Correct Ones:0.9386920928955078
+epoch 763   loss : 0.27479541301727295   accuracy : 0.9598025679588318
+-----Num Corr 0: 670; Num Corr 1: 691
+Correct Zeros:0.9795321822166443; Correct Ones:0.94141685962677
+epoch 764   loss : 0.3231216073036194    accuracy : 0.9619181752204895
+-----Num Corr 0: 669; Num Corr 1: 695
+Correct Zeros:0.9780701994895935; Correct Ones:0.9468664526939392
+epoch 765   loss : 0.32863882184028625   accuracy : 0.9555712342262268
+-----Num Corr 0: 667; Num Corr 1: 688
+Correct Zeros:0.9751462340354919; Correct Ones:0.9373297095298767
+epoch 766   loss : 0.3038959503173828    accuracy : 0.9583920836448669
+-----Num Corr 0: 672; Num Corr 1: 687
+Correct Zeros:0.9824561476707458; Correct Ones:0.9359672665596008
+epoch 767   loss : 0.2933180332183838    accuracy : 0.9576869010925293
+-----Num Corr 0: 672; Num Corr 1: 686
+Correct Zeros:0.9824561476707458; Correct Ones:0.9346048831939697
+epoch 768   loss : 0.2924014925956726    accuracy : 0.9541608095169067
+-----Num Corr 0: 668; Num Corr 1: 685
+Correct Zeros:0.9766082167625427; Correct Ones:0.9332424998283386
+epoch 769   loss : 0.28351864218711853   accuracy : 0.9562764167785645
+-----Num Corr 0: 672; Num Corr 1: 684
+Correct Zeros:0.9824561476707458; Correct Ones:0.9318801164627075
+epoch 770   loss : 0.2964377701282501    accuracy : 0.964033842086792
+-----Num Corr 0: 676; Num Corr 1: 691
+Correct Zeros:0.988304078578949; Correct Ones:0.94141685962677
+epoch 771   loss : 0.26671910285949707   accuracy : 0.9576869010925293
+-----Num Corr 0: 671; Num Corr 1: 687
+Correct Zeros:0.9809941649436951; Correct Ones:0.9359672665596008
+epoch 772   loss : 0.3102324903011322    accuracy : 0.9626234173774719
+-----Num Corr 0: 673; Num Corr 1: 692
+Correct Zeros:0.9839181303977966; Correct Ones:0.9427793025970459
+epoch 773   loss : 0.3000771701335907    accuracy : 0.9619181752204895
+-----Num Corr 0: 673; Num Corr 1: 691
+Correct Zeros:0.9839181303977966; Correct Ones:0.94141685962677
+epoch 774   loss : 0.32346484065055847   accuracy : 0.964033842086792
+-----Num Corr 0: 671; Num Corr 1: 696
+Correct Zeros:0.9809941649436951; Correct Ones:0.9482288956642151
+epoch 775   loss : 0.26683831214904785   accuracy : 0.9654442667961121
+-----Num Corr 0: 671; Num Corr 1: 698
+Correct Zeros:0.9809941649436951; Correct Ones:0.9509536623954773
+epoch 776   loss : 0.3454035520553589    accuracy : 0.9576869010925293
+-----Num Corr 0: 669; Num Corr 1: 689
+Correct Zeros:0.9780701994895935; Correct Ones:0.9386920928955078
+epoch 777   loss : 0.2622443735599518    accuracy : 0.9576869010925293
+-----Num Corr 0: 671; Num Corr 1: 687
+Correct Zeros:0.9809941649436951; Correct Ones:0.9359672665596008
+epoch 778   loss : 0.22618551552295685   accuracy : 0.9612129926681519
+-----Num Corr 0: 674; Num Corr 1: 689
+Correct Zeros:0.9853801131248474; Correct Ones:0.9386920928955078
+epoch 779   loss : 0.3070391118526459    accuracy : 0.9520451426506042
+-----Num Corr 0: 665; Num Corr 1: 685
+Correct Zeros:0.9722222089767456; Correct Ones:0.9332424998283386
+epoch 780   loss : 0.2918541133403778    accuracy : 0.9619181752204895
+-----Num Corr 0: 669; Num Corr 1: 695
+Correct Zeros:0.9780701994895935; Correct Ones:0.9468664526939392
+epoch 781   loss : 0.3163125813007355    accuracy : 0.9590973258018494
+-----Num Corr 0: 671; Num Corr 1: 689
+Correct Zeros:0.9809941649436951; Correct Ones:0.9386920928955078
+epoch 782   loss : 0.29724347591400146   accuracy : 0.9583920836448669
+-----Num Corr 0: 672; Num Corr 1: 687
+Correct Zeros:0.9824561476707458; Correct Ones:0.9359672665596008
+epoch 783   loss : 0.2706299424171448    accuracy : 0.964033842086792
+-----Num Corr 0: 675; Num Corr 1: 692
+Correct Zeros:0.9868420958518982; Correct Ones:0.9427793025970459
+epoch 784   loss : 0.24572229385375977   accuracy : 0.9612129926681519
+-----Num Corr 0: 676; Num Corr 1: 687
+Correct Zeros:0.988304078578949; Correct Ones:0.9359672665596008
+epoch 785   loss : 0.2951448857784271    accuracy : 0.9576869010925293
+-----Num Corr 0: 670; Num Corr 1: 688
+Correct Zeros:0.9795321822166443; Correct Ones:0.9373297095298767
+epoch 786   loss : 0.35195115208625793   accuracy : 0.9598025679588318
+-----Num Corr 0: 672; Num Corr 1: 689
+Correct Zeros:0.9824561476707458; Correct Ones:0.9386920928955078
+epoch 787   loss : 0.30957645177841187   accuracy : 0.9605077505111694
+-----Num Corr 0: 670; Num Corr 1: 692
+Correct Zeros:0.9795321822166443; Correct Ones:0.9427793025970459
+epoch 788   loss : 0.278732568025589     accuracy : 0.9541608095169067
+-----Num Corr 0: 669; Num Corr 1: 684
+Correct Zeros:0.9780701994895935; Correct Ones:0.9318801164627075
+epoch 789   loss : 0.3513072431087494    accuracy : 0.9534555673599243
+-----Num Corr 0: 668; Num Corr 1: 684
+Correct Zeros:0.9766082167625427; Correct Ones:0.9318801164627075
+epoch 790   loss : 0.27376341819763184   accuracy : 0.9598025679588318
+-----Num Corr 0: 672; Num Corr 1: 689
+Correct Zeros:0.9824561476707458; Correct Ones:0.9386920928955078
+epoch 791   loss : 0.3457196056842804    accuracy : 0.9612129926681519
+-----Num Corr 0: 672; Num Corr 1: 691
+Correct Zeros:0.9824561476707458; Correct Ones:0.94141685962677
+epoch 792   loss : 0.2694469094276428    accuracy : 0.9562764167785645
+-----Num Corr 0: 670; Num Corr 1: 686
+Correct Zeros:0.9795321822166443; Correct Ones:0.9346048831939697
+epoch 793   loss : 0.27297404408454895   accuracy : 0.9661495089530945
+-----Num Corr 0: 673; Num Corr 1: 697
+Correct Zeros:0.9839181303977966; Correct Ones:0.9495912790298462
+epoch 794   loss : 0.26450589299201965   accuracy : 0.9576869010925293
+-----Num Corr 0: 668; Num Corr 1: 690
+Correct Zeros:0.9766082167625427; Correct Ones:0.9400544762611389
+epoch 795   loss : 0.3154586851596832    accuracy : 0.9562764167785645
+-----Num Corr 0: 672; Num Corr 1: 684
+Correct Zeros:0.9824561476707458; Correct Ones:0.9318801164627075
+epoch 796   loss : 0.29195091128349304   accuracy : 0.9569816589355469
+-----Num Corr 0: 670; Num Corr 1: 687
+Correct Zeros:0.9795321822166443; Correct Ones:0.9359672665596008
+epoch 797   loss : 0.27408069372177124   accuracy : 0.9583920836448669
+-----Num Corr 0: 669; Num Corr 1: 690
+Correct Zeros:0.9780701994895935; Correct Ones:0.9400544762611389
+epoch 798   loss : 0.299849271774292     accuracy : 0.9569816589355469
+-----Num Corr 0: 671; Num Corr 1: 686
+Correct Zeros:0.9809941649436951; Correct Ones:0.9346048831939697
+epoch 799   loss : 0.25967422127723694   accuracy : 0.9619181752204895
+-----Num Corr 0: 672; Num Corr 1: 692
+Correct Zeros:0.9824561476707458; Correct Ones:0.9427793025970459
+epoch 800   loss : 0.38933345675468445   accuracy : 0.964033842086792
+-----Num Corr 0: 674; Num Corr 1: 693
+Correct Zeros:0.9853801131248474; Correct Ones:0.944141685962677
+epoch 801   loss : 0.33942505717277527   accuracy : 0.9605077505111694
+-----Num Corr 0: 669; Num Corr 1: 693
+Correct Zeros:0.9780701994895935; Correct Ones:0.944141685962677
+epoch 802   loss : 0.25622257590293884   accuracy : 0.9598025679588318
+-----Num Corr 0: 671; Num Corr 1: 690
+Correct Zeros:0.9809941649436951; Correct Ones:0.9400544762611389
+epoch 803   loss : 0.30392810702323914   accuracy : 0.9633286595344543
+-----Num Corr 0: 673; Num Corr 1: 693
+Correct Zeros:0.9839181303977966; Correct Ones:0.944141685962677
+epoch 804   loss : 0.277008056640625     accuracy : 0.9605077505111694
+-----Num Corr 0: 671; Num Corr 1: 691
+Correct Zeros:0.9809941649436951; Correct Ones:0.94141685962677
+epoch 805   loss : 0.27457141876220703   accuracy : 0.9647390842437744
+-----Num Corr 0: 675; Num Corr 1: 693
+Correct Zeros:0.9868420958518982; Correct Ones:0.944141685962677
+epoch 806   loss : 0.3107070326805115    accuracy : 0.964033842086792
+-----Num Corr 0: 671; Num Corr 1: 696
+Correct Zeros:0.9809941649436951; Correct Ones:0.9482288956642151
+epoch 807   loss : 0.2692917585372925    accuracy : 0.9590973258018494
+-----Num Corr 0: 669; Num Corr 1: 691
+Correct Zeros:0.9780701994895935; Correct Ones:0.94141685962677
+epoch 808   loss : 0.2461642473936081    accuracy : 0.9661495089530945
+-----Num Corr 0: 675; Num Corr 1: 695
+Correct Zeros:0.9868420958518982; Correct Ones:0.9468664526939392
+epoch 809   loss : 0.2877007722854614    accuracy : 0.9668547511100769
+-----Num Corr 0: 677; Num Corr 1: 694
+Correct Zeros:0.9897660613059998; Correct Ones:0.9455040693283081
+epoch 810   loss : 0.2895606756210327    accuracy : 0.9555712342262268
+-----Num Corr 0: 667; Num Corr 1: 688
+Correct Zeros:0.9751462340354919; Correct Ones:0.9373297095298767
+epoch 811   loss : 0.29231956601142883   accuracy : 0.9619181752204895
+-----Num Corr 0: 673; Num Corr 1: 691
+Correct Zeros:0.9839181303977966; Correct Ones:0.94141685962677
+epoch 812   loss : 0.30098670721054077   accuracy : 0.969675600528717
+-----Num Corr 0: 675; Num Corr 1: 700
+Correct Zeros:0.9868420958518982; Correct Ones:0.9536784887313843
+epoch 813   loss : 0.27472373843193054   accuracy : 0.9598025679588318
+-----Num Corr 0: 671; Num Corr 1: 690
+Correct Zeros:0.9809941649436951; Correct Ones:0.9400544762611389
+epoch 814   loss : 0.281192809343338     accuracy : 0.9626234173774719
+-----Num Corr 0: 673; Num Corr 1: 692
+Correct Zeros:0.9839181303977966; Correct Ones:0.9427793025970459
+epoch 815   loss : 0.26477476954460144   accuracy : 0.9576869010925293
+-----Num Corr 0: 670; Num Corr 1: 688
+Correct Zeros:0.9795321822166443; Correct Ones:0.9373297095298767
+epoch 816   loss : 0.2947537899017334    accuracy : 0.9562764167785645
+-----Num Corr 0: 669; Num Corr 1: 687
+Correct Zeros:0.9780701994895935; Correct Ones:0.9359672665596008
+epoch 817   loss : 0.3211160898208618    accuracy : 0.9590973258018494
+-----Num Corr 0: 672; Num Corr 1: 688
+Correct Zeros:0.9824561476707458; Correct Ones:0.9373297095298767
+epoch 818   loss : 0.2879134714603424    accuracy : 0.9583920836448669
+-----Num Corr 0: 669; Num Corr 1: 690
+Correct Zeros:0.9780701994895935; Correct Ones:0.9400544762611389
+epoch 819   loss : 0.31672191619873047   accuracy : 0.964033842086792
+-----Num Corr 0: 674; Num Corr 1: 693
+Correct Zeros:0.9853801131248474; Correct Ones:0.944141685962677
+epoch 820   loss : 0.24751871824264526   accuracy : 0.9598025679588318
+-----Num Corr 0: 670; Num Corr 1: 691
+Correct Zeros:0.9795321822166443; Correct Ones:0.94141685962677
+epoch 821   loss : 0.27022960782051086   accuracy : 0.9619181752204895
+-----Num Corr 0: 673; Num Corr 1: 691
+Correct Zeros:0.9839181303977966; Correct Ones:0.94141685962677
+epoch 822   loss : 0.3298121690750122    accuracy : 0.9555712342262268
+-----Num Corr 0: 667; Num Corr 1: 688
+Correct Zeros:0.9751462340354919; Correct Ones:0.9373297095298767
+epoch 823   loss : 0.3093113303184509    accuracy : 0.9605077505111694
+-----Num Corr 0: 673; Num Corr 1: 689
+Correct Zeros:0.9839181303977966; Correct Ones:0.9386920928955078
+epoch 824   loss : 0.22461815178394318   accuracy : 0.9647390842437744
+-----Num Corr 0: 675; Num Corr 1: 693
+Correct Zeros:0.9868420958518982; Correct Ones:0.944141685962677
+epoch 825   loss : 0.22261561453342438   accuracy : 0.9548659920692444
+-----Num Corr 0: 669; Num Corr 1: 685
+Correct Zeros:0.9780701994895935; Correct Ones:0.9332424998283386
+epoch 826   loss : 0.30692699551582336   accuracy : 0.9590973258018494
+-----Num Corr 0: 668; Num Corr 1: 692
+Correct Zeros:0.9766082167625427; Correct Ones:0.9427793025970459
+epoch 827   loss : 0.24902036786079407   accuracy : 0.9619181752204895
+-----Num Corr 0: 670; Num Corr 1: 694
+Correct Zeros:0.9795321822166443; Correct Ones:0.9455040693283081
+epoch 828   loss : 0.2802845239639282    accuracy : 0.9590973258018494
+-----Num Corr 0: 670; Num Corr 1: 690
+Correct Zeros:0.9795321822166443; Correct Ones:0.9400544762611389
+epoch 829   loss : 0.28858593106269836   accuracy : 0.9569816589355469
+-----Num Corr 0: 671; Num Corr 1: 686
+Correct Zeros:0.9809941649436951; Correct Ones:0.9346048831939697
+epoch 830   loss : 0.3194591701030731    accuracy : 0.9619181752204895
+-----Num Corr 0: 672; Num Corr 1: 692
+Correct Zeros:0.9824561476707458; Correct Ones:0.9427793025970459
+epoch 831   loss : 0.28301823139190674   accuracy : 0.9654442667961121
+-----Num Corr 0: 673; Num Corr 1: 696
+Correct Zeros:0.9839181303977966; Correct Ones:0.9482288956642151
+epoch 832   loss : 0.2890457808971405    accuracy : 0.9633286595344543
+-----Num Corr 0: 674; Num Corr 1: 692
+Correct Zeros:0.9853801131248474; Correct Ones:0.9427793025970459
+epoch 833   loss : 0.2280452698469162    accuracy : 0.9668547511100769
+-----Num Corr 0: 671; Num Corr 1: 700
+Correct Zeros:0.9809941649436951; Correct Ones:0.9536784887313843
+epoch 834   loss : 0.255962997674942     accuracy : 0.9605077505111694
+-----Num Corr 0: 672; Num Corr 1: 690
+Correct Zeros:0.9824561476707458; Correct Ones:0.9400544762611389
+epoch 835   loss : 0.2677041292190552    accuracy : 0.9633286595344543
+-----Num Corr 0: 671; Num Corr 1: 695
+Correct Zeros:0.9809941649436951; Correct Ones:0.9468664526939392
+epoch 836   loss : 0.3017832934856415    accuracy : 0.964033842086792
+-----Num Corr 0: 673; Num Corr 1: 694
+Correct Zeros:0.9839181303977966; Correct Ones:0.9455040693283081
+epoch 837   loss : 0.31473976373672485   accuracy : 0.9633286595344543
+-----Num Corr 0: 674; Num Corr 1: 692
+Correct Zeros:0.9853801131248474; Correct Ones:0.9427793025970459
+epoch 838   loss : 0.3049015402793884    accuracy : 0.9576869010925293
+-----Num Corr 0: 669; Num Corr 1: 689
+Correct Zeros:0.9780701994895935; Correct Ones:0.9386920928955078
+epoch 839   loss : 0.25838810205459595   accuracy : 0.9598025679588318
+-----Num Corr 0: 668; Num Corr 1: 693
+Correct Zeros:0.9766082167625427; Correct Ones:0.944141685962677
+epoch 840   loss : 0.28138619661331177   accuracy : 0.9612129926681519
+-----Num Corr 0: 672; Num Corr 1: 691
+Correct Zeros:0.9824561476707458; Correct Ones:0.94141685962677
+epoch 841   loss : 0.29718151688575745   accuracy : 0.9668547511100769
+-----Num Corr 0: 673; Num Corr 1: 698
+Correct Zeros:0.9839181303977966; Correct Ones:0.9509536623954773
+epoch 842   loss : 0.29017373919487  accuracy : 0.9647390842437744
+-----Num Corr 0: 671; Num Corr 1: 697
+Correct Zeros:0.9809941649436951; Correct Ones:0.9495912790298462
+epoch 843   loss : 0.34067052602767944   accuracy : 0.9703808426856995
+-----Num Corr 0: 672; Num Corr 1: 704
+Correct Zeros:0.9824561476707458; Correct Ones:0.9591280221939087
+epoch 844   loss : 0.30336639285087585   accuracy : 0.9668547511100769
+-----Num Corr 0: 678; Num Corr 1: 693
+Correct Zeros:0.9912281036376953; Correct Ones:0.944141685962677
+epoch 845   loss : 0.2783289849758148    accuracy : 0.9633286595344543
+-----Num Corr 0: 675; Num Corr 1: 691
+Correct Zeros:0.9868420958518982; Correct Ones:0.94141685962677
+epoch 846   loss : 0.2823316752910614    accuracy : 0.9598025679588318
+-----Num Corr 0: 667; Num Corr 1: 694
+Correct Zeros:0.9751462340354919; Correct Ones:0.9455040693283081
+epoch 847   loss : 0.22693118453025818   accuracy : 0.9654442667961121
+-----Num Corr 0: 677; Num Corr 1: 692
+Correct Zeros:0.9897660613059998; Correct Ones:0.9427793025970459
+epoch 848   loss : 0.2591575086116791    accuracy : 0.9562764167785645
+-----Num Corr 0: 671; Num Corr 1: 685
+Correct Zeros:0.9809941649436951; Correct Ones:0.9332424998283386
+epoch 849   loss : 0.25045761466026306   accuracy : 0.9541608095169067
+-----Num Corr 0: 668; Num Corr 1: 685
+Correct Zeros:0.9766082167625427; Correct Ones:0.9332424998283386
+epoch 850   loss : 0.28055015206336975   accuracy : 0.9654442667961121
+-----Num Corr 0: 674; Num Corr 1: 695
+Correct Zeros:0.9853801131248474; Correct Ones:0.9468664526939392
+epoch 851   loss : 0.31295400857925415   accuracy : 0.9668547511100769
+-----Num Corr 0: 676; Num Corr 1: 695
+Correct Zeros:0.988304078578949; Correct Ones:0.9468664526939392
+epoch 852   loss : 0.2955872416496277    accuracy : 0.9598025679588318
+-----Num Corr 0: 670; Num Corr 1: 691
+Correct Zeros:0.9795321822166443; Correct Ones:0.94141685962677
+epoch 853   loss : 0.2826676666736603    accuracy : 0.9619181752204895
+-----Num Corr 0: 671; Num Corr 1: 693
+Correct Zeros:0.9809941649436951; Correct Ones:0.944141685962677
+epoch 854   loss : 0.23441685736179352   accuracy : 0.9619181752204895
+-----Num Corr 0: 672; Num Corr 1: 692
+Correct Zeros:0.9824561476707458; Correct Ones:0.9427793025970459
+epoch 855   loss : 0.20334908366203308   accuracy : 0.9626234173774719
+-----Num Corr 0: 672; Num Corr 1: 693
+Correct Zeros:0.9824561476707458; Correct Ones:0.944141685962677
+epoch 856   loss : 0.32438331842422485   accuracy : 0.9605077505111694
+-----Num Corr 0: 669; Num Corr 1: 693
+Correct Zeros:0.9780701994895935; Correct Ones:0.944141685962677
+epoch 857   loss : 0.22607901692390442   accuracy : 0.9576869010925293
+-----Num Corr 0: 672; Num Corr 1: 686
+Correct Zeros:0.9824561476707458; Correct Ones:0.9346048831939697
+epoch 858   loss : 0.2735954821109772    accuracy : 0.9612129926681519
+-----Num Corr 0: 677; Num Corr 1: 686
+Correct Zeros:0.9897660613059998; Correct Ones:0.9346048831939697
+epoch 859   loss : 0.2647363245487213    accuracy : 0.964033842086792
+-----Num Corr 0: 675; Num Corr 1: 692
+Correct Zeros:0.9868420958518982; Correct Ones:0.9427793025970459
+epoch 860   loss : 0.30781397223472595   accuracy : 0.9661495089530945
+-----Num Corr 0: 671; Num Corr 1: 699
+Correct Zeros:0.9809941649436951; Correct Ones:0.9523160457611084
+epoch 861   loss : 0.27366289496421814   accuracy : 0.9612129926681519
+-----Num Corr 0: 671; Num Corr 1: 692
+Correct Zeros:0.9809941649436951; Correct Ones:0.9427793025970459
+epoch 862   loss : 0.21369653940200806   accuracy : 0.9654442667961121
+-----Num Corr 0: 678; Num Corr 1: 691
+Correct Zeros:0.9912281036376953; Correct Ones:0.94141685962677
+epoch 863   loss : 0.31071263551712036   accuracy : 0.9605077505111694
+-----Num Corr 0: 672; Num Corr 1: 690
+Correct Zeros:0.9824561476707458; Correct Ones:0.9400544762611389
+epoch 864   loss : 0.30709224939346313   accuracy : 0.9668547511100769
+-----Num Corr 0: 673; Num Corr 1: 698
+Correct Zeros:0.9839181303977966; Correct Ones:0.9509536623954773
+epoch 865   loss : 0.2647080719470978    accuracy : 0.9569816589355469
+-----Num Corr 0: 667; Num Corr 1: 690
+Correct Zeros:0.9751462340354919; Correct Ones:0.9400544762611389
+epoch 866   loss : 0.24595269560813904   accuracy : 0.964033842086792
+-----Num Corr 0: 673; Num Corr 1: 694
+Correct Zeros:0.9839181303977966; Correct Ones:0.9455040693283081
+epoch 867   loss : 0.3077336549758911    accuracy : 0.9612129926681519
+-----Num Corr 0: 669; Num Corr 1: 694
+Correct Zeros:0.9780701994895935; Correct Ones:0.9455040693283081
+epoch 868   loss : 0.21460847556591034   accuracy : 0.9605077505111694
+-----Num Corr 0: 669; Num Corr 1: 693
+Correct Zeros:0.9780701994895935; Correct Ones:0.944141685962677
+epoch 869   loss : 0.21704845130443573   accuracy : 0.9661495089530945
+-----Num Corr 0: 675; Num Corr 1: 695
+Correct Zeros:0.9868420958518982; Correct Ones:0.9468664526939392
+epoch 870   loss : 0.321580171585083     accuracy : 0.9590973258018494
+-----Num Corr 0: 671; Num Corr 1: 689
+Correct Zeros:0.9809941649436951; Correct Ones:0.9386920928955078
+epoch 871   loss : 0.2755671739578247    accuracy : 0.9668547511100769
+-----Num Corr 0: 673; Num Corr 1: 698
+Correct Zeros:0.9839181303977966; Correct Ones:0.9509536623954773
+epoch 872   loss : 0.278246134519577     accuracy : 0.969675600528717
+-----Num Corr 0: 674; Num Corr 1: 701
+Correct Zeros:0.9853801131248474; Correct Ones:0.9550408720970154
+epoch 873   loss : 0.2517412304878235    accuracy : 0.9626234173774719
+-----Num Corr 0: 673; Num Corr 1: 692
+Correct Zeros:0.9839181303977966; Correct Ones:0.9427793025970459
+epoch 874   loss : 0.20537889003753662   accuracy : 0.9626234173774719
+-----Num Corr 0: 672; Num Corr 1: 693
+Correct Zeros:0.9824561476707458; Correct Ones:0.944141685962677
+epoch 875   loss : 0.22545020282268524   accuracy : 0.9647390842437744
+-----Num Corr 0: 672; Num Corr 1: 696
+Correct Zeros:0.9824561476707458; Correct Ones:0.9482288956642151
+epoch 876   loss : 0.275989294052124     accuracy : 0.968265175819397
+-----Num Corr 0: 678; Num Corr 1: 695
+Correct Zeros:0.9912281036376953; Correct Ones:0.9468664526939392
+epoch 877   loss : 0.22065085172653198   accuracy : 0.9647390842437744
+-----Num Corr 0: 673; Num Corr 1: 695
+Correct Zeros:0.9839181303977966; Correct Ones:0.9468664526939392
+epoch 878   loss : 0.27362534403800964   accuracy : 0.9583920836448669
+-----Num Corr 0: 676; Num Corr 1: 683
+Correct Zeros:0.988304078578949; Correct Ones:0.9305176734924316
+epoch 879   loss : 0.2997724711894989    accuracy : 0.964033842086792
+-----Num Corr 0: 668; Num Corr 1: 699
+Correct Zeros:0.9766082167625427; Correct Ones:0.9523160457611084
+epoch 880   loss : 0.30936214327812195   accuracy : 0.9647390842437744
+-----Num Corr 0: 672; Num Corr 1: 696
+Correct Zeros:0.9824561476707458; Correct Ones:0.9482288956642151
+epoch 881   loss : 0.29883745312690735   accuracy : 0.9675599336624146
+-----Num Corr 0: 679; Num Corr 1: 693
+Correct Zeros:0.9926900863647461; Correct Ones:0.944141685962677
+epoch 882   loss : 0.22441978752613068   accuracy : 0.964033842086792
+-----Num Corr 0: 675; Num Corr 1: 692
+Correct Zeros:0.9868420958518982; Correct Ones:0.9427793025970459
+epoch 883   loss : 0.3224378526210785    accuracy : 0.9590973258018494
+-----Num Corr 0: 670; Num Corr 1: 690
+Correct Zeros:0.9795321822166443; Correct Ones:0.9400544762611389
+epoch 884   loss : 0.2963058054447174    accuracy : 0.9661495089530945
+-----Num Corr 0: 671; Num Corr 1: 699
+Correct Zeros:0.9809941649436951; Correct Ones:0.9523160457611084
+epoch 885   loss : 0.2624261975288391    accuracy : 0.9590973258018494
+-----Num Corr 0: 670; Num Corr 1: 690
+Correct Zeros:0.9795321822166443; Correct Ones:0.9400544762611389
+epoch 886   loss : 0.2983313202857971    accuracy : 0.9569816589355469
+-----Num Corr 0: 673; Num Corr 1: 684
+Correct Zeros:0.9839181303977966; Correct Ones:0.9318801164627075
+epoch 887   loss : 0.27992546558380127   accuracy : 0.9619181752204895
+-----Num Corr 0: 667; Num Corr 1: 697
+Correct Zeros:0.9751462340354919; Correct Ones:0.9495912790298462
+epoch 888   loss : 0.2776501178741455    accuracy : 0.9661495089530945
+-----Num Corr 0: 678; Num Corr 1: 692
+Correct Zeros:0.9912281036376953; Correct Ones:0.9427793025970459
+epoch 889   loss : 0.2387085258960724    accuracy : 0.964033842086792
+-----Num Corr 0: 669; Num Corr 1: 698
+Correct Zeros:0.9780701994895935; Correct Ones:0.9509536623954773
+epoch 890   loss : 0.25436070561408997   accuracy : 0.9689703583717346
+-----Num Corr 0: 679; Num Corr 1: 695
+Correct Zeros:0.9926900863647461; Correct Ones:0.9468664526939392
+epoch 891   loss : 0.3033621609210968    accuracy : 0.964033842086792
+-----Num Corr 0: 673; Num Corr 1: 694
+Correct Zeros:0.9839181303977966; Correct Ones:0.9455040693283081
+epoch 892   loss : 0.23997138440608978   accuracy : 0.9612129926681519
+-----Num Corr 0: 673; Num Corr 1: 690
+Correct Zeros:0.9839181303977966; Correct Ones:0.9400544762611389
+epoch 893   loss : 0.25756675004959106   accuracy : 0.9590973258018494
+-----Num Corr 0: 670; Num Corr 1: 690
+Correct Zeros:0.9795321822166443; Correct Ones:0.9400544762611389
+epoch 894   loss : 0.2936328649520874    accuracy : 0.9675599336624146
+-----Num Corr 0: 675; Num Corr 1: 697
+Correct Zeros:0.9868420958518982; Correct Ones:0.9495912790298462
+epoch 895   loss : 0.26893237233161926   accuracy : 0.964033842086792
+-----Num Corr 0: 670; Num Corr 1: 697
+Correct Zeros:0.9795321822166443; Correct Ones:0.9495912790298462
+epoch 896   loss : 0.22400815784931183   accuracy : 0.969675600528717
+-----Num Corr 0: 676; Num Corr 1: 699
+Correct Zeros:0.988304078578949; Correct Ones:0.9523160457611084
+epoch 897   loss : 0.22006455063819885   accuracy : 0.9654442667961121
+-----Num Corr 0: 675; Num Corr 1: 694
+Correct Zeros:0.9868420958518982; Correct Ones:0.9455040693283081
+epoch 898   loss : 0.244563028216362     accuracy : 0.9562764167785645
+-----Num Corr 0: 673; Num Corr 1: 683
+Correct Zeros:0.9839181303977966; Correct Ones:0.9305176734924316
+epoch 899   loss : 0.23623764514923096   accuracy : 0.964033842086792
+-----Num Corr 0: 670; Num Corr 1: 697
+Correct Zeros:0.9795321822166443; Correct Ones:0.9495912790298462
+epoch 900   loss : 0.25595903396606445   accuracy : 0.9619181752204895
+-----Num Corr 0: 666; Num Corr 1: 698
+Correct Zeros:0.9736841917037964; Correct Ones:0.9509536623954773
+epoch 901   loss : 0.29638588428497314   accuracy : 0.9654442667961121
+-----Num Corr 0: 674; Num Corr 1: 695
+Correct Zeros:0.9853801131248474; Correct Ones:0.9468664526939392
+epoch 902   loss : 0.24623312056064606   accuracy : 0.9668547511100769
+-----Num Corr 0: 671; Num Corr 1: 700
+Correct Zeros:0.9809941649436951; Correct Ones:0.9536784887313843
+epoch 903   loss : 0.19221174716949463   accuracy : 0.9647390842437744
+-----Num Corr 0: 674; Num Corr 1: 694
+Correct Zeros:0.9853801131248474; Correct Ones:0.9455040693283081
+epoch 904   loss : 0.24412210285663605   accuracy : 0.9647390842437744
+-----Num Corr 0: 672; Num Corr 1: 696
+Correct Zeros:0.9824561476707458; Correct Ones:0.9482288956642151
+epoch 905   loss : 0.27841195464134216   accuracy : 0.9654442667961121
+-----Num Corr 0: 671; Num Corr 1: 698
+Correct Zeros:0.9809941649436951; Correct Ones:0.9509536623954773
+epoch 906   loss : 0.27600300312042236   accuracy : 0.9654442667961121
+-----Num Corr 0: 672; Num Corr 1: 697
+Correct Zeros:0.9824561476707458; Correct Ones:0.9495912790298462
+epoch 907   loss : 0.20202721655368805   accuracy : 0.9633286595344543
+-----Num Corr 0: 671; Num Corr 1: 695
+Correct Zeros:0.9809941649436951; Correct Ones:0.9468664526939392
+epoch 908   loss : 0.2762446105480194    accuracy : 0.9612129926681519
+-----Num Corr 0: 677; Num Corr 1: 686
+Correct Zeros:0.9897660613059998; Correct Ones:0.9346048831939697
+epoch 909   loss : 0.25517308712005615   accuracy : 0.9675599336624146
+-----Num Corr 0: 675; Num Corr 1: 697
+Correct Zeros:0.9868420958518982; Correct Ones:0.9495912790298462
+epoch 910   loss : 0.2376178801059723    accuracy : 0.9654442667961121
+-----Num Corr 0: 677; Num Corr 1: 692
+Correct Zeros:0.9897660613059998; Correct Ones:0.9427793025970459
+epoch 911   loss : 0.25041940808296204   accuracy : 0.9654442667961121
+-----Num Corr 0: 675; Num Corr 1: 694
+Correct Zeros:0.9868420958518982; Correct Ones:0.9455040693283081
+epoch 912   loss : 0.20095250010490417   accuracy : 0.9626234173774719
+-----Num Corr 0: 670; Num Corr 1: 695
+Correct Zeros:0.9795321822166443; Correct Ones:0.9468664526939392
+epoch 913   loss : 0.2640713155269623    accuracy : 0.9626234173774719
+-----Num Corr 0: 673; Num Corr 1: 692
+Correct Zeros:0.9839181303977966; Correct Ones:0.9427793025970459
+epoch 914   loss : 0.23929521441459656   accuracy : 0.9668547511100769
+-----Num Corr 0: 669; Num Corr 1: 702
+Correct Zeros:0.9780701994895935; Correct Ones:0.9564032554626465
+epoch 915   loss : 0.21884284913539886   accuracy : 0.964033842086792
+-----Num Corr 0: 673; Num Corr 1: 694
+Correct Zeros:0.9839181303977966; Correct Ones:0.9455040693283081
+epoch 916   loss : 0.2509700655937195    accuracy : 0.9661495089530945
+-----Num Corr 0: 672; Num Corr 1: 698
+Correct Zeros:0.9824561476707458; Correct Ones:0.9509536623954773
+epoch 917   loss : 0.24871112406253815   accuracy : 0.9668547511100769
+-----Num Corr 0: 674; Num Corr 1: 697
+Correct Zeros:0.9853801131248474; Correct Ones:0.9495912790298462
+epoch 918   loss : 0.23607778549194336   accuracy : 0.968265175819397
+-----Num Corr 0: 679; Num Corr 1: 694
+Correct Zeros:0.9926900863647461; Correct Ones:0.9455040693283081
+epoch 919   loss : 0.2646145224571228    accuracy : 0.9647390842437744
+-----Num Corr 0: 671; Num Corr 1: 697
+Correct Zeros:0.9809941649436951; Correct Ones:0.9495912790298462
+epoch 920   loss : 0.2409418225288391    accuracy : 0.968265175819397
+-----Num Corr 0: 676; Num Corr 1: 697
+Correct Zeros:0.988304078578949; Correct Ones:0.9495912790298462
+epoch 921   loss : 0.23759625852108002   accuracy : 0.969675600528717
+-----Num Corr 0: 675; Num Corr 1: 700
+Correct Zeros:0.9868420958518982; Correct Ones:0.9536784887313843
+epoch 922   loss : 0.23303478956222534   accuracy : 0.9654442667961121
+-----Num Corr 0: 671; Num Corr 1: 698
+Correct Zeros:0.9809941649436951; Correct Ones:0.9509536623954773
+epoch 923   loss : 0.23751913011074066   accuracy : 0.9654442667961121
+-----Num Corr 0: 670; Num Corr 1: 699
+Correct Zeros:0.9795321822166443; Correct Ones:0.9523160457611084
+epoch 924   loss : 0.27661192417144775   accuracy : 0.9717912673950195
+-----Num Corr 0: 673; Num Corr 1: 705
+Correct Zeros:0.9839181303977966; Correct Ones:0.9604904651641846
+epoch 925   loss : 0.2409699708223343    accuracy : 0.964033842086792
+-----Num Corr 0: 670; Num Corr 1: 697
+Correct Zeros:0.9795321822166443; Correct Ones:0.9495912790298462
+epoch 926   loss : 0.2533930540084839    accuracy : 0.964033842086792
+-----Num Corr 0: 672; Num Corr 1: 695
+Correct Zeros:0.9824561476707458; Correct Ones:0.9468664526939392
+epoch 927   loss : 0.20349986851215363   accuracy : 0.9675599336624146
+-----Num Corr 0: 672; Num Corr 1: 700
+Correct Zeros:0.9824561476707458; Correct Ones:0.9536784887313843
+epoch 928   loss : 0.18040569126605988   accuracy : 0.9661495089530945
+-----Num Corr 0: 674; Num Corr 1: 696
+Correct Zeros:0.9853801131248474; Correct Ones:0.9482288956642151
+epoch 929   loss : 0.2689763903617859    accuracy : 0.9668547511100769
+-----Num Corr 0: 675; Num Corr 1: 696
+Correct Zeros:0.9868420958518982; Correct Ones:0.9482288956642151
+epoch 930   loss : 0.28824853897094727   accuracy : 0.968265175819397
+-----Num Corr 0: 674; Num Corr 1: 699
+Correct Zeros:0.9853801131248474; Correct Ones:0.9523160457611084
+epoch 931   loss : 0.28440821170806885   accuracy : 0.9661495089530945
+-----Num Corr 0: 673; Num Corr 1: 697
+Correct Zeros:0.9839181303977966; Correct Ones:0.9495912790298462
+epoch 932   loss : 0.30971431732177734   accuracy : 0.9654442667961121
+-----Num Corr 0: 671; Num Corr 1: 698
+Correct Zeros:0.9809941649436951; Correct Ones:0.9509536623954773
+epoch 933   loss : 0.23305882513523102   accuracy : 0.968265175819397
+-----Num Corr 0: 676; Num Corr 1: 697
+Correct Zeros:0.988304078578949; Correct Ones:0.9495912790298462
+epoch 934   loss : 0.24399560689926147   accuracy : 0.968265175819397
+-----Num Corr 0: 675; Num Corr 1: 698
+Correct Zeros:0.9868420958518982; Correct Ones:0.9509536623954773
+epoch 935   loss : 0.2097834199666977    accuracy : 0.9654442667961121
+-----Num Corr 0: 675; Num Corr 1: 694
+Correct Zeros:0.9868420958518982; Correct Ones:0.9455040693283081
+epoch 936   loss : 0.230420783162117     accuracy : 0.964033842086792
+-----Num Corr 0: 673; Num Corr 1: 694
+Correct Zeros:0.9839181303977966; Correct Ones:0.9455040693283081
+epoch 937   loss : 0.230168879032135     accuracy : 0.9668547511100769
+-----Num Corr 0: 670; Num Corr 1: 701
+Correct Zeros:0.9795321822166443; Correct Ones:0.9550408720970154
+epoch 938   loss : 0.2764766216278076    accuracy : 0.9746121168136597
+-----Num Corr 0: 676; Num Corr 1: 706
+Correct Zeros:0.988304078578949; Correct Ones:0.9618528485298157
+epoch 939   loss : 0.24050837755203247   accuracy : 0.9661495089530945
+-----Num Corr 0: 675; Num Corr 1: 695
+Correct Zeros:0.9868420958518982; Correct Ones:0.9468664526939392
+epoch 940   loss : 0.19524259865283966   accuracy : 0.968265175819397
+-----Num Corr 0: 671; Num Corr 1: 702
+Correct Zeros:0.9809941649436951; Correct Ones:0.9564032554626465
+epoch 941   loss : 0.2767106890678406    accuracy : 0.9633286595344543
+-----Num Corr 0: 671; Num Corr 1: 695
+Correct Zeros:0.9809941649436951; Correct Ones:0.9468664526939392
+epoch 942   loss : 0.23424455523490906   accuracy : 0.9675599336624146
+-----Num Corr 0: 676; Num Corr 1: 696
+Correct Zeros:0.988304078578949; Correct Ones:0.9482288956642151
+epoch 943   loss : 0.20047807693481445   accuracy : 0.9675599336624146
+-----Num Corr 0: 676; Num Corr 1: 696
+Correct Zeros:0.988304078578949; Correct Ones:0.9482288956642151
+epoch 944   loss : 0.23332013189792633   accuracy : 0.9689703583717346
+-----Num Corr 0: 674; Num Corr 1: 700
+Correct Zeros:0.9853801131248474; Correct Ones:0.9536784887313843
+epoch 945   loss : 0.19584302604198456   accuracy : 0.9675599336624146
+-----Num Corr 0: 673; Num Corr 1: 699
+Correct Zeros:0.9839181303977966; Correct Ones:0.9523160457611084
+epoch 946   loss : 0.18951712548732758   accuracy : 0.9675599336624146
+-----Num Corr 0: 672; Num Corr 1: 700
+Correct Zeros:0.9824561476707458; Correct Ones:0.9536784887313843
+epoch 947   loss : 0.19135235249996185   accuracy : 0.9689703583717346
+-----Num Corr 0: 676; Num Corr 1: 698
+Correct Zeros:0.988304078578949; Correct Ones:0.9509536623954773
+epoch 948   loss : 0.24644526839256287   accuracy : 0.9619181752204895
+-----Num Corr 0: 670; Num Corr 1: 694
+Correct Zeros:0.9795321822166443; Correct Ones:0.9455040693283081
+epoch 949   loss : 0.19739821553230286   accuracy : 0.9668547511100769
+-----Num Corr 0: 672; Num Corr 1: 699
+Correct Zeros:0.9824561476707458; Correct Ones:0.9523160457611084
+epoch 950   loss : 0.23723724484443665   accuracy : 0.968265175819397
+-----Num Corr 0: 674; Num Corr 1: 699
+Correct Zeros:0.9853801131248474; Correct Ones:0.9523160457611084
+epoch 951   loss : 0.2085351198911667    accuracy : 0.9647390842437744
+-----Num Corr 0: 673; Num Corr 1: 695
+Correct Zeros:0.9839181303977966; Correct Ones:0.9468664526939392
+epoch 952   loss : 0.22048215568065643   accuracy : 0.9633286595344543
+-----Num Corr 0: 672; Num Corr 1: 694
+Correct Zeros:0.9824561476707458; Correct Ones:0.9455040693283081
+epoch 953   loss : 0.28518903255462646   accuracy : 0.9626234173774719
+-----Num Corr 0: 671; Num Corr 1: 694
+Correct Zeros:0.9809941649436951; Correct Ones:0.9455040693283081
+epoch 954   loss : 0.20998600125312805   accuracy : 0.9605077505111694
+-----Num Corr 0: 672; Num Corr 1: 690
+Correct Zeros:0.9824561476707458; Correct Ones:0.9400544762611389
+epoch 955   loss : 0.21520967781543732   accuracy : 0.9724964499473572
+-----Num Corr 0: 674; Num Corr 1: 705
+Correct Zeros:0.9853801131248474; Correct Ones:0.9604904651641846
+epoch 956   loss : 0.19244632124900818   accuracy : 0.9661495089530945
+-----Num Corr 0: 671; Num Corr 1: 699
+Correct Zeros:0.9809941649436951; Correct Ones:0.9523160457611084
+epoch 957   loss : 0.301457017660141     accuracy : 0.964033842086792
+-----Num Corr 0: 674; Num Corr 1: 693
+Correct Zeros:0.9853801131248474; Correct Ones:0.944141685962677
+epoch 958   loss : 0.19224365055561066   accuracy : 0.9661495089530945
+-----Num Corr 0: 674; Num Corr 1: 696
+Correct Zeros:0.9853801131248474; Correct Ones:0.9482288956642151
+epoch 959   loss : 0.26032784581184387   accuracy : 0.9654442667961121
+-----Num Corr 0: 671; Num Corr 1: 698
+Correct Zeros:0.9809941649436951; Correct Ones:0.9509536623954773
+epoch 960   loss : 0.23416437208652496   accuracy : 0.9626234173774719
+-----Num Corr 0: 669; Num Corr 1: 696
+Correct Zeros:0.9780701994895935; Correct Ones:0.9482288956642151
+epoch 961   loss : 0.24491769075393677   accuracy : 0.9668547511100769
+-----Num Corr 0: 671; Num Corr 1: 700
+Correct Zeros:0.9809941649436951; Correct Ones:0.9536784887313843
+epoch 962   loss : 0.2780598998069763    accuracy : 0.964033842086792
+-----Num Corr 0: 672; Num Corr 1: 695
+Correct Zeros:0.9824561476707458; Correct Ones:0.9468664526939392
+epoch 963   loss : 0.19093774259090424   accuracy : 0.9668547511100769
+-----Num Corr 0: 671; Num Corr 1: 700
+Correct Zeros:0.9809941649436951; Correct Ones:0.9536784887313843
+epoch 964   loss : 0.2718968689441681    accuracy : 0.9633286595344543
+-----Num Corr 0: 674; Num Corr 1: 692
+Correct Zeros:0.9853801131248474; Correct Ones:0.9427793025970459
+epoch 965   loss : 0.2505706250667572    accuracy : 0.969675600528717
+-----Num Corr 0: 671; Num Corr 1: 704
+Correct Zeros:0.9809941649436951; Correct Ones:0.9591280221939087
+epoch 966   loss : 0.22040532529354095   accuracy : 0.9668547511100769
+-----Num Corr 0: 672; Num Corr 1: 699
+Correct Zeros:0.9824561476707458; Correct Ones:0.9523160457611084
+epoch 967   loss : 0.2587532699108124    accuracy : 0.9661495089530945
+-----Num Corr 0: 673; Num Corr 1: 697
+Correct Zeros:0.9839181303977966; Correct Ones:0.9495912790298462
+epoch 968   loss : 0.24795930087566376   accuracy : 0.9675599336624146
+-----Num Corr 0: 673; Num Corr 1: 699
+Correct Zeros:0.9839181303977966; Correct Ones:0.9523160457611084
+epoch 969   loss : 0.23481100797653198   accuracy : 0.9689703583717346
+-----Num Corr 0: 674; Num Corr 1: 700
+Correct Zeros:0.9853801131248474; Correct Ones:0.9536784887313843
+epoch 970   loss : 0.2586513161659241    accuracy : 0.9668547511100769
+-----Num Corr 0: 667; Num Corr 1: 704
+Correct Zeros:0.9751462340354919; Correct Ones:0.9591280221939087
+epoch 971   loss : 0.23167981207370758   accuracy : 0.9724964499473572
+-----Num Corr 0: 675; Num Corr 1: 704
+Correct Zeros:0.9868420958518982; Correct Ones:0.9591280221939087
+epoch 972   loss : 0.22091372311115265   accuracy : 0.9675599336624146
+-----Num Corr 0: 671; Num Corr 1: 701
+Correct Zeros:0.9809941649436951; Correct Ones:0.9550408720970154
+epoch 973   loss : 0.20208632946014404   accuracy : 0.968265175819397
+-----Num Corr 0: 672; Num Corr 1: 701
+Correct Zeros:0.9824561476707458; Correct Ones:0.9550408720970154
+epoch 974   loss : 0.24344615638256073   accuracy : 0.9654442667961121
+-----Num Corr 0: 673; Num Corr 1: 696
+Correct Zeros:0.9839181303977966; Correct Ones:0.9482288956642151
+epoch 975   loss : 0.29800769686698914   accuracy : 0.9689703583717346
+-----Num Corr 0: 674; Num Corr 1: 700
+Correct Zeros:0.9853801131248474; Correct Ones:0.9536784887313843
+epoch 976   loss : 0.22115209698677063   accuracy : 0.968265175819397
+-----Num Corr 0: 674; Num Corr 1: 699
+Correct Zeros:0.9853801131248474; Correct Ones:0.9523160457611084
+epoch 977   loss : 0.19959388673305511   accuracy : 0.9675599336624146
+-----Num Corr 0: 674; Num Corr 1: 698
+Correct Zeros:0.9853801131248474; Correct Ones:0.9509536623954773
+epoch 978   loss : 0.2387375682592392    accuracy : 0.968265175819397
+-----Num Corr 0: 673; Num Corr 1: 700
+Correct Zeros:0.9839181303977966; Correct Ones:0.9536784887313843
+epoch 979   loss : 0.2375859171152115    accuracy : 0.9633286595344543
+-----Num Corr 0: 674; Num Corr 1: 692
+Correct Zeros:0.9853801131248474; Correct Ones:0.9427793025970459
+epoch 980   loss : 0.2619466483592987    accuracy : 0.9724964499473572
+-----Num Corr 0: 673; Num Corr 1: 706
+Correct Zeros:0.9839181303977966; Correct Ones:0.9618528485298157
+epoch 981   loss : 0.21021787822246552   accuracy : 0.968265175819397
+-----Num Corr 0: 674; Num Corr 1: 699
+Correct Zeros:0.9853801131248474; Correct Ones:0.9523160457611084
+epoch 982   loss : 0.2964059114456177    accuracy : 0.9654442667961121
+-----Num Corr 0: 670; Num Corr 1: 699
+Correct Zeros:0.9795321822166443; Correct Ones:0.9523160457611084
+epoch 983   loss : 0.25285202264785767   accuracy : 0.968265175819397
+-----Num Corr 0: 673; Num Corr 1: 700
+Correct Zeros:0.9839181303977966; Correct Ones:0.9536784887313843
+epoch 984   loss : 0.24840529263019562   accuracy : 0.9732016921043396
+-----Num Corr 0: 677; Num Corr 1: 703
+Correct Zeros:0.9897660613059998; Correct Ones:0.9577656388282776
+epoch 985   loss : 0.22620268166065216   accuracy : 0.9654442667961121
+-----Num Corr 0: 673; Num Corr 1: 696
+Correct Zeros:0.9839181303977966; Correct Ones:0.9482288956642151
+epoch 986   loss : 0.25053226947784424   accuracy : 0.968265175819397
+-----Num Corr 0: 671; Num Corr 1: 702
+Correct Zeros:0.9809941649436951; Correct Ones:0.9564032554626465
+epoch 987   loss : 0.21719636023044586   accuracy : 0.969675600528717
+-----Num Corr 0: 673; Num Corr 1: 702
+Correct Zeros:0.9839181303977966; Correct Ones:0.9564032554626465
+epoch 988   loss : 0.2045106291770935    accuracy : 0.9689703583717346
+-----Num Corr 0: 674; Num Corr 1: 700
+Correct Zeros:0.9853801131248474; Correct Ones:0.9536784887313843
+epoch 989   loss : 0.3012460172176361    accuracy : 0.9724964499473572
+-----Num Corr 0: 677; Num Corr 1: 702
+Correct Zeros:0.9897660613059998; Correct Ones:0.9564032554626465
+epoch 990   loss : 0.20141761004924774   accuracy : 0.964033842086792
+-----Num Corr 0: 672; Num Corr 1: 695
+Correct Zeros:0.9824561476707458; Correct Ones:0.9468664526939392
+epoch 991   loss : 0.21184208989143372   accuracy : 0.9647390842437744
+-----Num Corr 0: 667; Num Corr 1: 701
+Correct Zeros:0.9751462340354919; Correct Ones:0.9550408720970154
+epoch 992   loss : 0.24927248060703278   accuracy : 0.9668547511100769
+-----Num Corr 0: 673; Num Corr 1: 698
+Correct Zeros:0.9839181303977966; Correct Ones:0.9509536623954773
+epoch 993   loss : 0.24481046199798584   accuracy : 0.9668547511100769
+-----Num Corr 0: 675; Num Corr 1: 696
+Correct Zeros:0.9868420958518982; Correct Ones:0.9482288956642151
+epoch 994   loss : 0.22206144034862518   accuracy : 0.9689703583717346
+-----Num Corr 0: 675; Num Corr 1: 699
+Correct Zeros:0.9868420958518982; Correct Ones:0.9523160457611084
+epoch 995   loss : 0.2951750159263611    accuracy : 0.9654442667961121
+-----Num Corr 0: 674; Num Corr 1: 695
+Correct Zeros:0.9853801131248474; Correct Ones:0.9468664526939392
+epoch 996   loss : 0.2141948938369751    accuracy : 0.968265175819397
+-----Num Corr 0: 674; Num Corr 1: 699
+Correct Zeros:0.9853801131248474; Correct Ones:0.9523160457611084
+epoch 997   loss : 0.23808562755584717   accuracy : 0.9661495089530945
+-----Num Corr 0: 676; Num Corr 1: 694
+Correct Zeros:0.988304078578949; Correct Ones:0.9455040693283081
+epoch 998   loss : 0.23280295729637146   accuracy : 0.9710860252380371
+-----Num Corr 0: 678; Num Corr 1: 699
+Correct Zeros:0.9912281036376953; Correct Ones:0.9523160457611084
+epoch 999   loss : 0.20511476695537567   accuracy : 0.9710860252380371
+-----Num Corr 0: 674; Num Corr 1: 703
+Correct Zeros:0.9853801131248474; Correct Ones:0.9577656388282776
