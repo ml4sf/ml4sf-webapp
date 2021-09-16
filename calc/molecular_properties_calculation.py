@@ -323,12 +323,12 @@ class PropertiesCalculation:
         del d['logger']
         del d['inp_mdl_name']
         del d['timestr']
-        print(d)
+        #print(d)
         del d['chemometry_descriptors']
         del d['drc_ann_prediction']
         
         if standardize:
-            mean_std = self.read_mean_std(MEAN_STD_FILE_PATH)
+            mean_std = self.read_mean_std(self.abs_path(MEAN_STD_FILE_PATH))
 
         descriptors = []
         for _desc in NN_QC_DESC:
@@ -359,7 +359,7 @@ class PropertiesCalculation:
     
     def run_ann(self, input_tensor):
         self.logger.info('Loading ANN model from {}'.format(TRAINED_NN_FILE_PATH))
-        model = torch.load(TRAINED_NN_FILE_PATH)
+        model = torch.load(self.abs_path(TRAINED_NN_FILE_PATH))
         model.eval()
         self.logger.info('Running ANN model')
         self.drc_ann_prediction = model(input_tensor)
@@ -376,11 +376,15 @@ class PropertiesCalculation:
         del d['inp_mdl_str']
         del d['logger']
         del d['inp_mdl_name']
+        del d['drc_ann_prediction']
         return d 
-        
+       
+    def abs_path(self, file_name):
+        return os.path.join(os.path.dirname(os.path.realpath(__file__)), file_name)
     
 if __name__ == '__main__':
-    with open(sys.argv[1], 'r') as f:
-        data = f.read()
+    #with open(sys.argv[1], 'r') as f:
+    #    data = f.read()
+    data = sys.argv[1]
     p = PropertiesCalculation(data)
     print(p.run_calculations())
