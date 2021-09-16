@@ -309,7 +309,9 @@
                           <div class="form-group">
                               <label for="molFile">Supported formats: xyz, mdl, mol, etc</label>
                               <input type="file" class="form-control-file" id="molFile" name="molFile">
-                              <button class="my-btn" id="btnProcess" name="btnProcess">Process</button>
+                              <button class="my-btn" id="btnProcess" name="btnProcess">
+                                Process
+                              </button>
                           </div>
                     </form>
                 </div>
@@ -1235,23 +1237,37 @@
     });
 
     $("#btnProcess").on('click', function(e) {
-    $.ajax({
-           type: "POST",
-           url: "/process",
-           data: new FormData(document.getElementById('theForm')),
-           cache: false,
-            contentType: false,
-            processData: false,
-           success: function(data)
-           {
-           $("#results").html(data)
-           },
-           error: function(data)
-           {
-               $("#results").html("Please try again")
-           }
+        var self = this;
+        var fnDisable = function() {
+            $(self).html(
+                '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'
+            );
+            $(this).prop("disabled", true);
+        }
+        var fnEnable = function() {
+            $(self).html('Process');
+            $(self).removeAttr('disabled');
+        }
+        fnDisable();
 
-         });
+        $.ajax({
+               type: "POST",
+               url: "/process",
+               data: new FormData(document.getElementById('theForm')),
+               cache: false,
+                contentType: false,
+                processData: false,
+               success: function(data)
+               {
+                $("#results").html(data);
+                fnEnable();
+               },
+               error: function(data)
+               {
+                   $("#results").html("Please try again");
+                   fnEnable();
+               }
+             });
 
 
         });
