@@ -17,10 +17,11 @@ ERROR_PROCESSING = 'Please try again later'
 application = Flask(__name__)
 application.config['MAX_CONTENT_LENGTH'] = 1 * 1024 * 1024
 
-# else mopac won't run as a subprocess (http://openmopac.net/Discussions/Problems%20installing%20MOPAC.html)
+# otherwise mopac won't run as a subprocess (http://openmopac.net/Discussions/Problems%20installing%20MOPAC.html)
 os.environ['LD_LIBRARY_PATH'] = '/opt/mopac'
 PATH_PYTHON = '/opt/anaconda3/bin/python'
 PATH_CALC = 'calc/molecular_properties_calculation.py'
+
 
 @application.route("/")
 def index():
@@ -55,7 +56,6 @@ def process():
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
-
 
 
 if __name__ == "__main__":

@@ -5,12 +5,14 @@ import logging
 import time
 import copy
 import json
+import shutil
 
 import subprocess
 
 import numpy as np
 import pandas as pd
 import torch
+import uuid
 
 from padelpy import from_mdl, padeldescriptor
 
@@ -70,8 +72,16 @@ class PropertiesCalculation:
         self.logger = logging.getLogger(
                       'Molecular Property Calculator')
         loginit(self.logger)
+
+        # all temporary files of a calculation are created in a separate folder in order 
+        # to make the cleanup easier. It seems MOPAC doesn't like long paths therefore we 
+        # take out the dashes and use the first 8 symbols of the uuid.. 
+        self.TMP_DIR = os.path.join(WORKDIR, str(uuid.uuid4()).replace('-','')[:8])
+        if not os.path.isdir(self.TMP_DIR):
+            os.mkdir(self.TMP_DIR)
+
         self.inp_mdl_name = 'input{}.mdl'.format(self.timestr)
-        self.inp_mdl_name = os.path.join(WORKDIR, self.inp_mdl_name)
+        self.inp_mdl_name = os.path.join(self.TMP_DIR, self.inp_mdl_name)
         with open(self.inp_mdl_name, 'w') as f:
             f.write(self.inp_mdl_str)
         # Molecule properties in format (value, unit)
@@ -131,7 +141,7 @@ class PropertiesCalculation:
         result = result.decode('utf-8')
         result = re.sub('PUT KEYWORDS HERE', MOPAC_COMMAND_OPT, result)
         mopac_inp_file_name = 'opt_geom{}.dat'.format(self.timestr)
-        mopac_inp_file_name = os.path.join(WORKDIR, mopac_inp_file_name)
+        mopac_inp_file_name = os.path.join(self.TMP_DIR, mopac_inp_file_name)
         with open(mopac_inp_file_name, 'w') as f:
             f.write(result)
         # MOPAC Geometry Optimization
@@ -161,7 +171,7 @@ class PropertiesCalculation:
         mopac_inp_file_name = 'force{}.dat'.format(self.timestr)
         self.logger.info('Checking for imaginary frequencies: {}'.\
                 format(mopac_inp_file_name))
-        mopac_inp_file_name = os.path.join(WORKDIR, mopac_inp_file_name)
+        mopac_inp_file_name = os.path.join(self.TMP_DIR, mopac_inp_file_name)
         self.run_mopac_single_point(
                 mopac_inp_file_name,
                 MOPAC_COMMAND_FORCE, 
@@ -182,7 +192,7 @@ class PropertiesCalculation:
         mopac_inp_file_name = 'polar{}.dat'.format(self.timestr)
         self.logger.info('Running MOPAC polar caculation: {}'.\
                 format(mopac_inp_file_name))
-        mopac_inp_file_name = os.path.join(WORKDIR, mopac_inp_file_name)
+        mopac_inp_file_name = os.path.join(self.TMP_DIR, mopac_inp_file_name)
         self.run_mopac_single_point(
                 mopac_inp_file_name,
                 MOPAC_COMMAND_POLAR, 
@@ -234,17 +244,16 @@ class PropertiesCalculation:
         mopac_inp_file_name_s = 'cas_singlet{}.dat'.format(self.timestr)
         self.logger.info('Running MOPAC CIS CAS (2,1) siglet caculation: {}'.\
                 format(mopac_inp_file_name_s))
-        mopac_inp_file_name_s = os.path.join(WORKDIR, mopac_inp_file_name_s)
+        mopac_inp_file_name_s = os.path.join(self.TMP_DIR, mopac_inp_file_name_s)
         self.run_mopac_single_point(
                 mopac_inp_file_name_s,
                 MOPAC_COMMAND_INDOS_S, 
                 atoms, 
                 coord)
-        
         mopac_inp_file_name_t = 'cas_triplet{}.dat'.format(self.timestr)
         self.logger.info('Running MOPAC CIS CAS (2,1) triplet caculation: {}'.\
                 format(mopac_inp_file_name_t))
-        mopac_inp_file_name_t = os.path.join(WORKDIR, mopac_inp_file_name_t)
+        mopac_inp_file_name_t = os.path.join(self.TMP_DIR, mopac_inp_file_name_t)
         self.run_mopac_single_point(
                 mopac_inp_file_name_t,
                 MOPAC_COMMAND_INDOS_T, 
@@ -302,7 +311,7 @@ class PropertiesCalculation:
        self.logger.info('Generating PaDEL descriptors')
        padeldescriptor(d_3d = False, d_2d = True)
        out_csv = os.path.join(
-                  WORKDIR, 
+                  self.TMP_DIR, 
                   'chemo_desc{}.csv'.format(self.timestr))
        from_mdl(self.inp_mdl_name, output_csv=out_csv)
        df = pd.read_csv(out_csv)
@@ -378,13 +387,23 @@ class PropertiesCalculation:
         del d['inp_mdl_name']
         del d['drc_ann_prediction']
         return d 
-       
+   
+
+    def cleanup(self):
+        try:
+            shutil.rmtree(self.TMP_DIR)
+        except OSError as e:
+            self.logger.error("Error: %s - %s." % (e.filename, e.strerror))
+   
+
     def abs_path(self, file_name):
         return os.path.join(os.path.dirname(os.path.realpath(__file__)), file_name)
-    
+   
+
 if __name__ == '__main__':
     #with open(sys.argv[1], 'r') as f:
     #    data = f.read()
     data = sys.argv[1]
     p = PropertiesCalculation(data)
     print(p.run_calculations())
+    p.cleanup()
