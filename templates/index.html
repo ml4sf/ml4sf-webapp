@@ -1229,49 +1229,9 @@
 <script src="/static/js/bootstrap.min.js"></script>
 <!-- custom javascript -->
 <script src="/static/js/main.js"></script>
-
-    <script>
-
-    $( "#theForm" ).submit(function( event ) {
-        event.preventDefault();
-    });
-
-    $("#btnProcess").on('click', function(e) {
-        var self = this;
-        var fnDisable = function() {
-            $(self).html(
-                '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'
-            );
-            $(self).prop("disabled", true);
-        }
-        var fnEnable = function() {
-            $(self).html('Process');
-            $(self).removeAttr('disabled');
-        }
-        fnDisable();
-
-        $.ajax({
-               type: "POST",
-               url: "/process",
-               data: new FormData(document.getElementById('theForm')),
-               cache: false,
-                contentType: false,
-                processData: false,
-               success: function(data)
-               {
-                $("#results").html(data);
-                fnEnable();
-               },
-               error: function(data)
-               {
-                   $("#results").html("Please try again");
-                   fnEnable();
-               }
-             });
+<script src="/static/js/form.js"></script>
 
 
-        });
-    </script>
 
 
 
