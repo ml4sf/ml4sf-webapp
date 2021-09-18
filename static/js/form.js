@@ -16,6 +16,7 @@ $("#btnProcess").on('click', function (e) {
                 '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'
             );
             $(self).prop("disabled", true);
+            $("#results").html(""))
         }
     })
     .done((data) => $("#results").html(data))
