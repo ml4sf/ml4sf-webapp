@@ -31,12 +31,13 @@ def index():
 def process():
     # input validations
     if FORM_FILE_INPUT not in request.files:
-        return ERROR_MSG_NO_FILE, 400
+        return ERROR_MSG_NO_FILE
     file = request.files[FORM_FILE_INPUT]
     if file.filename == '':
-        return ERROR_MSG_EMPTY_FILE, 400
+        return ERROR_MSG_EMPTY_FILE
     if not allowed_file(file.filename):
-        return ERROR_FILE_TYPE, 400
+        print('!!!!Not allowed')
+        return ERROR_FILE_TYPE
 
     content = file.read().decode('UTF-8')
 
@@ -55,14 +56,6 @@ def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
-
-@application.errorhandler(Exception)
-def handle_exception(e):
-    # pass through HTTP errors
-    if isinstance(e, HTTPException):
-        return e
-    application.logger.error(e)
-    return 'Please try again', 500
 
 
 if __name__ == "__main__":

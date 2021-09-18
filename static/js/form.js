@@ -18,9 +18,9 @@ $("#btnProcess").on('click', function (e) {
             $(self).prop("disabled", true);
         }
     })
-    .done(() => $("#results").html(data))
+    .done((data) => $("#results").html(data))
 
-    .fail((data) => $("#results").html(data.responseText ?? "Please try again"))
+    .fail(() => $("#results").html("Please try again"))
 
     .always(() => {
         $(self).html('Process');
