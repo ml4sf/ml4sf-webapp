@@ -371,7 +371,7 @@ class PropertiesCalculation:
         model = torch.load(self.abs_path(TRAINED_NN_FILE_PATH))
         model.eval()
         self.logger.info('Running ANN model')
-        self.drc_ann_prediction = model(input_tensor)
+        self.drc_ann_prediction = model(input_tensor).round().detach().numpy()[0]
     
     def run_calculations(self):
         a, c = copy.deepcopy(self.geom_opt())
@@ -381,11 +381,11 @@ class PropertiesCalculation:
         self.get_chemometry_descriptors()
         nn_descs = self.attributes_to_torch_tensor()
         self.run_ann(nn_descs)
-        d = self.__dict__
+        d = copy.deepcopy(self.__dict__)
         del d['inp_mdl_str']
         del d['logger']
         del d['inp_mdl_name']
-        del d['drc_ann_prediction']
+        #del d['drc_ann_prediction']
         return d 
    
 
