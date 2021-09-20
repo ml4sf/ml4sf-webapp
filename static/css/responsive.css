@@ -71,11 +71,12 @@
     }
     .banner .banner-txt {
         text-align: center;
-        padding: 120px 0;
+        padding: 0 0;
     }
-    .banner .banner-txt h1 {
+    .banner .banner-txt h1, .top-title h1 {
         font-size: 40px;
         line-height: 55px;
+        padding: 120px 0;
     }
     .banner .banner-txt p {
         font-size: 16px;
@@ -87,7 +88,8 @@
         margin-left: 7px;
     }
     .banner .part-img {
-        display: none;
+        width: 290px;
+        margin: 0 auto 50px auto;
     }
     /* about section */
     .about {
@@ -466,11 +468,12 @@
     }
     .banner .banner-txt {
         text-align: center;
-        padding: 80px 0;
+        padding: 0;
     }
-    .banner .banner-txt h1 {
+    .banner .banner-txt h1, .top-title h1 {
         font-size: 40px;
         line-height: 55px;
+        padding: 80px 0;
     }
     .banner .banner-txt p {
         font-size: 16px;
@@ -482,7 +485,8 @@
         margin-left: 7px;
     }
     .banner .part-img {
-        display: none;
+        width: 290px;
+        margin: 0 auto 50px auto;
     }
     /* about section */
     .about {
@@ -951,11 +955,12 @@
     }
     .banner .banner-txt {
         text-align: center;
-        padding: 80px 0;
+        padding: 0;
     }
-    .banner .banner-txt h1 {
+    .banner .banner-txt h1, .top-title h1 {
         font-size: 40px;
         line-height: 55px;
+        padding: 80px 0;
     }
     .banner .banner-txt p {
         font-size: 16px;
@@ -967,7 +972,8 @@
         margin-left: 7px;
     }
     .banner .part-img {
-        display: none;
+        width: 290px;
+        margin: 0 auto 50px auto;
     }
     /* about section */
     .about {
@@ -1446,11 +1452,12 @@
     }
     .banner .banner-txt {
         text-align: center;
-        padding: 80px 0;
+        padding: 0;
     }
-    .banner .banner-txt h1 {
+    .banner .banner-txt h1, .top-title h1 {
         font-size: 40px;
         line-height: 55px;
+        padding: 80px 0;
     }
     .banner .banner-txt p {
         font-size: 16px;
@@ -1462,7 +1469,8 @@
         margin-left: 7px;
     }
     .banner .part-img {
-        display: none;
+        width: 290px;
+        margin: 0 auto 50px auto;
     }
     /* about section */
     .about {

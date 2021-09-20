@@ -1,5 +1,5 @@
-$("#theForm").submit(function (event) {
-    event.preventDefault();
+$("#theForm").submit(function (e) {
+    e.preventDefault();
 });
 
 $("#btnProcess").on('click', function (e) {
@@ -16,7 +16,7 @@ $("#btnProcess").on('click', function (e) {
                 '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'
             );
             $(self).prop("disabled", true);
-            $("#results").html(""))
+            $("#results").html("");
         }
     })
     .done((data) => $("#results").html(data))
@@ -27,4 +27,13 @@ $("#btnProcess").on('click', function (e) {
         $(self).html('Process');
         $(self).removeAttr('disabled');
     });
+});
+
+$("#btnSubmit").on('click', function (e) {
+    e.preventDefault();
+    var subject = $("#txtSubject").val();
+    var body = $("#txtMsg").val();
+    window.location.href="mailto:jromanova@chem.uni-sofia.bg?subject=" + subject + "&body=" + body
+    $("#mailLink").attr('href',"mailto:jromanova@chem.uni-sofia.bg?subject=" + subject + "&body=" + body);
+    $("#mailLink").click();
 });

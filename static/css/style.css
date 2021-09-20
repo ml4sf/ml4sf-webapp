@@ -346,8 +346,7 @@ a {
       .header .bottom-header.fixed-header .navbar .navbar-nav .nav-item {
         padding: 20px 15px; }
     .header .bottom-header .logo img {
-          height: 90px;
-          width: auto;
+
     }
     .header .bottom-header .navbar {
       padding: 0; }
@@ -562,14 +561,14 @@ a {
     opacity: 0.1;
     z-index: -1; }
   .banner .banner-txt {
-    padding: 200px 0; }
-    .banner .banner-txt h1 {
+    padding: 0 0; }
+    .banner .banner-txt h1, .top-title h1 {
       font-size: 60px;
       line-height: 75px;
       font-weight: 700;
       text-transform: capitalize;
       color: #4C42C5;
-      margin-top: -5px;
+      padding-top:70px;
       margin-bottom: 10px; }
     .banner .banner-txt p {
       font-size: 18px;
@@ -1735,11 +1734,13 @@ a {
         -webkit-box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.1);
         box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.1);
         border-radius: 20px;
-        margin-bottom: 20px; }
+        margin-bottom: 20px;
+        text-align: justify;
+        }
         .faq .part-txt .accordion .card .card-body p {
           font-size: 16px;
           line-height: 30px;
-          margin-bottom: 0; }
+          }
   .faq .part-img img {
     width: 100%;
     -webkit-animation: 5s bounce linear infinite;
