@@ -385,7 +385,7 @@ class PropertiesCalculation:
         del d['inp_mdl_str']
         del d['logger']
         del d['inp_mdl_name']
-        del d['drc_ann_prediction']
+        #del d['drc_ann_prediction']
         return d 
    
 
