@@ -1,10 +1,7 @@
-<table class="table table-sm">
-  <tbody>
-  {% for key, value in r.items() %}
-    <tr>
-      <th scope="row">{{key}}</th>
-      <td>{{value}}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+Prediction:
+{% if r['drc_ann_prediction'] == 1.0 %}
+Yes ({{ r['drc_ann_prediction']}}) <i class="fas fa-check" style="color: green;"></i>
+{% else %}
+No ({{ r['drc_ann_prediction'] }}) <i class="fas fa-times" style="color: red"></i>
+{% endif %}
+
