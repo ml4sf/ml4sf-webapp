@@ -28,6 +28,11 @@ def index():
     return make_response(render_template('index.html'))
 
 
+@application.route("/terms")
+def terms():
+    return make_response(render_template('terms.html'))
+
+
 @application.route('/process', methods=['POST'])
 def process():
     # input validations
